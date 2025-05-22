@@ -1,0 +1,2001 @@
+id,dia_da_semana,horario_de_pico,operacao_normal,estacao_de_entrada,sentido,esta_chovendo,lotacao_1_min_5_max,linha_8,linha_9
+1,Domingo,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,4,11.0,0.0
+2,Sexta,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,5,12.0,0.0
+3,Segunda,Não,Sim,Antônio João,Palmeiras Barra Funda,Não,1,4.0,0.0
+4,Domingo,Não,Sim,Jardim Silveira,Itapevi,Não,3,7.0,0.0
+5,Domingo,Sim,Sim,Santa Rita,Itapevi,Sim,4,12.0,0.0
+6,Sábado,Não,Sim,Santa Terezinha,Palmeiras Barra Funda,Sim,1,5.0,0.0
+7,Segunda,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,3,13.0,0.0
+8,Terça,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,5,10.0,0.0
+9,Domingo,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,5,9.0,0.0
+10,Sábado,Sim,Não,Barueri,Itapevi,Não,3,11.0,0.0
+11,Domingo,Sim,Não,Antônio João,Itapevi,Não,4,9.0,0.0
+12,Domingo,Sim,Sim,Osasco,Itapevi,Não,4,11.0,0.0
+13,Segunda,Não,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,2,8.0,0.0
+14,Domingo,Sim,Não,Lapa,Itapevi,Não,3,9.0,0.0
+15,Terça,Sim,Sim,Barueri,Itapevi,Não,5,12.0,0.0
+16,Domingo,Sim,Sim,Sagrado Coração,Itapevi,Não,5,12.0,0.0
+17,Terça,Sim,Não,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,5,9.0,0.0
+18,Segunda,Sim,Não,Amador Bueno,Palmeiras Barra Funda,Não,5,11.0,0.0
+19,Domingo,Sim,Sim,Santa Rita,Palmeiras Barra Funda,Não,4,9.0,0.0
+20,Quarta,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,4,11.0,0.0
+21,Quarta,Sim,Sim,Amador Bueno,Palmeiras Barra Funda,Não,4,12.0,0.0
+22,Segunda,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,5,13.0,0.0
+23,Quinta,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,5,11.0,0.0
+24,Sábado,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,4,12.0,0.0
+25,Domingo,Sim,Não,Jardim Belval,Palmeiras Barra Funda,Sim,3,9.0,0.0
+26,Quarta,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,4,13.0,0.0
+27,Sábado,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,5,9.0,0.0
+28,Quarta,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,4,11.0,0.0
+29,Sábado,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,5,14.0,0.0
+30,Domingo,Sim,Sim,Jandira,Itapevi,Sim,5,15.0,0.0
+31,Domingo,Sim,Sim,Amador Bueno,Palmeiras Barra Funda,Sim,5,10.0,0.0
+32,Quinta,Não,Sim,Osasco,Itapevi,Não,2,7.0,0.0
+33,Sexta,Sim,Sim,Pres. Altino,Itapevi,Não,3,12.0,0.0
+34,Quarta,Sim,Sim,Lapa,Itapevi,Não,5,10.0,0.0
+35,Sábado,Sim,Sim,Domingo de Moraes,Itapevi,Não,3,13.0,0.0
+36,Quinta,Sim,Sim,Osasco,Itapevi,Sim,3,10.0,0.0
+37,Sábado,Sim,Sim,Itapevi,Palmeiras Barra Funda,Sim,4,12.0,0.0
+38,Sexta,Não,Sim,Jardim Silveira,Itapevi,Não,2,3.0,0.0
+39,Segunda,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,4,14.0,0.0
+40,Terça,Não,Sim,Gen. Miguel Costa,Itapevi,Não,2,3.0,0.0
+41,Terça,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,5,9.0,0.0
+42,Quinta,Sim,Não,Osasco,Itapevi,Não,4,10.0,0.0
+43,Quarta,Sim,Sim,Barueri,Itapevi,Não,5,14.0,0.0
+44,Sexta,Não,Não,Jardim Belval,Palmeiras Barra Funda,Não,2,7.0,0.0
+45,Domingo,Não,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,2,3.0,0.0
+46,Quarta,Não,Não,Eng. Cardoso,Itapevi,Não,1,7.0,0.0
+47,Quarta,Não,Sim,Júlio Prestes,Palmeiras Barra Funda,Sim,1,5.0,0.0
+48,Terça,Sim,Sim,Lapa,Itapevi,Não,4,13.0,0.0
+49,Domingo,Sim,Sim,Itapevi,Palmeiras Barra Funda,Sim,5,11.0,0.0
+50,Segunda,Sim,Sim,Lapa,Palmeiras Barra Funda,Sim,4,11.0,0.0
+51,Domingo,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,4,11.0,0.0
+52,Terça,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,4,12.0,0.0
+53,Sábado,Não,Sim,Amador Bueno,Itapevi,Não,2,5.0,0.0
+54,Quarta,Sim,Sim,Santa Terezinha,Itapevi,Não,4,12.0,0.0
+55,Terça,Sim,Sim,Sagrado Coração,Itapevi,Não,4,15.0,0.0
+56,Terça,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,5,13.0,0.0
+57,Sábado,Sim,Sim,Jardim Belval,Itapevi,Não,3,9.0,0.0
+58,Quarta,Sim,Não,Amador Bueno,Palmeiras Barra Funda,Não,4,9.0,0.0
+59,Sábado,Não,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,3,6.0,0.0
+60,Sábado,Não,Não,Barueri,Palmeiras Barra Funda,Não,3,7.0,0.0
+61,Domingo,Não,Sim,Eng. Cardoso,Itapevi,Não,1,3.0,0.0
+62,Sexta,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,5,13.0,0.0
+63,Terça,Sim,Sim,Carapicuíba,Itapevi,Não,4,15.0,0.0
+64,Terça,Sim,Sim,Jardim Silveira,Itapevi,Não,3,10.0,0.0
+65,Terça,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,5,13.0,0.0
+66,Quarta,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,3,6.0,0.0
+67,Quarta,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,4,10.0,0.0
+68,Sábado,Não,Sim,Imperatriz Leopoldina,Itapevi,Sim,3,3.0,0.0
+69,Segunda,Não,Sim,Imperatriz Leopoldina,Itapevi,Não,3,6.0,0.0
+70,Sábado,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Sim,5,9.0,0.0
+71,Quinta,Não,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,3,8.0,0.0
+72,Quinta,Não,Sim,Jardim Belval,Itapevi,Não,3,7.0,0.0
+73,Terça,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,5,11.0,0.0
+74,Sexta,Sim,Sim,Com. Sampaio,Itapevi,Sim,4,9.0,0.0
+75,Segunda,Sim,Sim,Pres. Altino,Itapevi,Não,5,10.0,0.0
+76,Sábado,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,4,9.0,0.0
+77,Domingo,Sim,Sim,Domingo de Moraes,Itapevi,Não,4,12.0,0.0
+78,Terça,Sim,Não,Antônio João,Palmeiras Barra Funda,Não,3,11.0,0.0
+79,Sábado,Sim,Sim,Santa Terezinha,Itapevi,Não,5,10.0,0.0
+80,Sábado,Sim,Sim,Itapevi,Itapevi,Não,4,9.0,0.0
+81,Quinta,Não,Sim,Quitaúna,Itapevi,Não,3,7.0,0.0
+82,Segunda,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,4,15.0,0.0
+83,Domingo,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,5,10.0,0.0
+84,Sábado,Sim,Sim,Sagrado Coração,Palmeiras Barra Funda,Não,3,13.0,0.0
+85,Sábado,Sim,Sim,Júlio Prestes,Itapevi,Sim,5,9.0,0.0
+86,Quarta,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,5,13.0,0.0
+87,Segunda,Sim,Sim,Antônio João,Palmeiras Barra Funda,Não,3,15.0,0.0
+88,Sábado,Sim,Sim,Santa Rita,Itapevi,Não,3,12.0,0.0
+89,Segunda,Não,Sim,Itapevi,Palmeiras Barra Funda,Não,1,5.0,0.0
+90,Quarta,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,4,15.0,0.0
+91,Sábado,Não,Não,Pres. Altino,Palmeiras Barra Funda,Não,2,4.0,0.0
+92,Sexta,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,4,9.0,0.0
+93,Sábado,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,3,11.0,0.0
+94,Sábado,Sim,Sim,Sagrado Coração,Itapevi,Sim,5,9.0,0.0
+95,Terça,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,2,4.0,0.0
+96,Quinta,Não,Sim,Barueri,Itapevi,Não,3,7.0,0.0
+97,Sexta,Não,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,2,3.0,0.0
+98,Sexta,Não,Sim,Barueri,Itapevi,Não,3,5.0,0.0
+99,Sábado,Sim,Não,Santa Terezinha,Palmeiras Barra Funda,Não,3,11.0,0.0
+100,Quarta,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,4,11.0,0.0
+101,Terça,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Sim,5,15.0,0.0
+102,Domingo,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,4,13.0,0.0
+103,Sábado,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Sim,3,10.0,0.0
+104,Sábado,Sim,Sim,Sagrado Coração,Itapevi,Não,4,13.0,0.0
+105,Domingo,Sim,Sim,Pres. Altino,Itapevi,Não,3,11.0,0.0
+106,Quarta,Sim,Sim,Imperatriz Leopoldina,Itapevi,Sim,3,15.0,0.0
+107,Sábado,Não,Sim,Imperatriz Leopoldina,Itapevi,Não,1,5.0,0.0
+108,Sábado,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,4,13.0,0.0
+109,Quarta,Sim,Não,Jandira,Palmeiras Barra Funda,Sim,3,10.0,0.0
+110,Terça,Sim,Sim,Lapa,Palmeiras Barra Funda,Sim,4,15.0,0.0
+111,Terça,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,5,15.0,0.0
+112,Terça,Sim,Não,Gen. Miguel Costa,Itapevi,Não,5,15.0,0.0
+113,Quinta,Sim,Não,Lapa,Palmeiras Barra Funda,Não,5,11.0,0.0
+114,Domingo,Não,Sim,Domingo de Moraes,Itapevi,Não,2,3.0,0.0
+115,Quarta,Sim,Sim,Osasco,Itapevi,Sim,4,9.0,0.0
+116,Sexta,Sim,Sim,Quitaúna,Itapevi,Não,5,10.0,0.0
+117,Segunda,Sim,Sim,Eng. Cardoso,Itapevi,Não,3,11.0,0.0
+118,Quarta,Sim,Não,Osasco,Palmeiras Barra Funda,Não,3,14.0,0.0
+119,Domingo,Não,Não,Lapa,Itapevi,Não,3,3.0,0.0
+120,Terça,Sim,Sim,Barueri,Itapevi,Sim,5,15.0,0.0
+121,Segunda,Sim,Não,Osasco,Palmeiras Barra Funda,Não,3,12.0,0.0
+122,Segunda,Sim,Não,Quitaúna,Itapevi,Sim,5,9.0,0.0
+123,Sexta,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,4,11.0,0.0
+124,Domingo,Sim,Sim,Júlio Prestes,Itapevi,Não,5,9.0,0.0
+125,Quarta,Sim,Sim,Antônio João,Itapevi,Não,3,14.0,0.0
+126,Domingo,Não,Sim,Carapicuíba,Itapevi,Sim,3,5.0,0.0
+127,Segunda,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Sim,4,13.0,0.0
+128,Segunda,Não,Sim,Santa Rita,Palmeiras Barra Funda,Sim,2,8.0,0.0
+129,Sexta,Não,Não,Santa Terezinha,Itapevi,Não,2,3.0,0.0
+130,Sexta,Sim,Sim,Júlio Prestes,Itapevi,Não,5,15.0,0.0
+131,Quarta,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,4,10.0,0.0
+132,Segunda,Não,Não,Eng. Cardoso,Palmeiras Barra Funda,Não,2,3.0,0.0
+133,Sexta,Sim,Sim,Júlio Prestes,Itapevi,Não,5,12.0,0.0
+134,Sábado,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,3,15.0,0.0
+135,Quarta,Sim,Não,Quitaúna,Palmeiras Barra Funda,Não,3,10.0,0.0
+136,Quinta,Sim,Não,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,3,15.0,0.0
+137,Quarta,Sim,Sim,Lapa,Palmeiras Barra Funda,Sim,4,14.0,0.0
+138,Quarta,Sim,Sim,Jardim Silveira,Itapevi,Não,4,9.0,0.0
+139,Sexta,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,4,14.0,0.0
+140,Sábado,Sim,Sim,Jardim Belval,Palmeiras Barra Funda,Não,4,15.0,0.0
+141,Sexta,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,4,11.0,0.0
+142,Terça,Não,Sim,Quitaúna,Palmeiras Barra Funda,Não,3,3.0,0.0
+143,Domingo,Sim,Não,Lapa,Palmeiras Barra Funda,Não,3,13.0,0.0
+144,Quinta,Sim,Não,Santa Rita,Palmeiras Barra Funda,Não,4,13.0,0.0
+145,Quarta,Não,Sim,Carapicuíba,Itapevi,Sim,2,4.0,0.0
+146,Terça,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,3,13.0,0.0
+147,Segunda,Sim,Sim,Sagrado Coração,Palmeiras Barra Funda,Não,3,11.0,0.0
+148,Terça,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,3,14.0,0.0
+149,Segunda,Não,Sim,Júlio Prestes,Itapevi,Não,1,3.0,0.0
+150,Quinta,Não,Não,Osasco,Palmeiras Barra Funda,Não,2,7.0,0.0
+151,Quarta,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,3,9.0,0.0
+152,Sábado,Sim,Não,Quitaúna,Palmeiras Barra Funda,Sim,3,12.0,0.0
+153,Quarta,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,5,10.0,0.0
+154,Sexta,Sim,Sim,Domingo de Moraes,Itapevi,Sim,5,15.0,0.0
+155,Quarta,Sim,Sim,Jardim Silveira,Itapevi,Sim,4,14.0,0.0
+156,Domingo,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,3,9.0,0.0
+157,Terça,Sim,Não,Eng. Cardoso,Itapevi,Não,5,10.0,0.0
+158,Terça,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Sim,3,9.0,0.0
+159,Domingo,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,5,14.0,0.0
+160,Domingo,Não,Sim,Jandira,Palmeiras Barra Funda,Não,2,3.0,0.0
+161,Domingo,Sim,Sim,Santa Rita,Itapevi,Sim,5,15.0,0.0
+162,Sexta,Não,Sim,Pres. Altino,Palmeiras Barra Funda,Sim,2,6.0,0.0
+163,Quinta,Sim,Sim,Jardim Silveira,Itapevi,Não,3,11.0,0.0
+164,Quarta,Sim,Não,Jandira,Palmeiras Barra Funda,Não,5,11.0,0.0
+165,Sábado,Sim,Sim,Palmeiras Barra Funda,Itapevi,Não,5,15.0,0.0
+166,Domingo,Sim,Sim,Júlio Prestes,Itapevi,Não,5,10.0,0.0
+167,Sábado,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,4,9.0,0.0
+168,Quinta,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,5,14.0,0.0
+169,Terça,Sim,Sim,Santa Rita,Itapevi,Não,4,11.0,0.0
+170,Sexta,Sim,Sim,Jardim Belval,Palmeiras Barra Funda,Não,3,14.0,0.0
+171,Terça,Sim,Sim,Barueri,Itapevi,Sim,5,13.0,0.0
+172,Sábado,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,5,15.0,0.0
+173,Sexta,Sim,Sim,Itapevi,Itapevi,Não,4,11.0,0.0
+174,Domingo,Sim,Sim,Carapicuíba,Itapevi,Não,4,15.0,0.0
+175,Domingo,Não,Sim,Domingo de Moraes,Itapevi,Não,2,7.0,0.0
+176,Terça,Não,Sim,Lapa,Itapevi,Sim,2,8.0,0.0
+177,Quarta,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Sim,4,10.0,0.0
+178,Domingo,Sim,Sim,Domingo de Moraes,Itapevi,Não,4,9.0,0.0
+179,Terça,Sim,Não,Jardim Silveira,Palmeiras Barra Funda,Não,3,12.0,0.0
+180,Terça,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,5,12.0,0.0
+181,Quarta,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,4,12.0,0.0
+182,Sábado,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Sim,3,13.0,0.0
+183,Terça,Sim,Sim,Osasco,Itapevi,Não,4,10.0,0.0
+184,Sábado,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,4,11.0,0.0
+185,Quinta,Sim,Sim,Carapicuíba,Itapevi,Sim,4,10.0,0.0
+186,Sexta,Não,Sim,Eng. Cardoso,Itapevi,Não,2,6.0,0.0
+187,Terça,Sim,Sim,Itapevi,Itapevi,Não,4,10.0,0.0
+188,Terça,Sim,Sim,Santa Rita,Itapevi,Sim,4,9.0,0.0
+189,Quarta,Sim,Sim,Carapicuíba,Itapevi,Não,5,10.0,0.0
+190,Domingo,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Sim,3,15.0,0.0
+191,Terça,Não,Sim,Imperatriz Leopoldina,Itapevi,Não,2,6.0,0.0
+192,Domingo,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Sim,4,9.0,0.0
+193,Segunda,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Sim,3,13.0,0.0
+194,Quinta,Não,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,3,4.0,0.0
+195,Quarta,Sim,Sim,Antônio João,Itapevi,Não,3,9.0,0.0
+196,Terça,Sim,Sim,Domingo de Moraes,Itapevi,Sim,4,12.0,0.0
+197,Terça,Não,Sim,Antônio João,Palmeiras Barra Funda,Não,1,3.0,0.0
+198,Segunda,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,5,11.0,0.0
+199,Domingo,Não,Sim,Eng. Cardoso,Itapevi,Sim,3,8.0,0.0
+200,Quinta,Sim,Sim,Carapicuíba,Itapevi,Não,5,9.0,0.0
+201,Domingo,Não,Sim,Santa Rita,Itapevi,Não,2,4.0,0.0
+202,Quarta,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,3,13.0,0.0
+203,Sexta,Não,Não,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,3,5.0,0.0
+204,Terça,Sim,Não,Carapicuíba,Itapevi,Não,4,12.0,0.0
+205,Quarta,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,5,10.0,0.0
+206,Domingo,Sim,Não,Eng. Cardoso,Palmeiras Barra Funda,Não,5,14.0,0.0
+207,Quarta,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,3,9.0,0.0
+208,Quarta,Não,Sim,Itapevi,Itapevi,Não,2,4.0,0.0
+209,Quinta,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,4,15.0,0.0
+210,Domingo,Não,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,2,3.0,0.0
+211,Quarta,Sim,Sim,Antônio João,Palmeiras Barra Funda,Não,4,10.0,0.0
+212,Sábado,Sim,Não,Jardim Silveira,Palmeiras Barra Funda,Não,4,9.0,0.0
+213,Quarta,Sim,Sim,Jandira,Itapevi,Não,5,14.0,0.0
+214,Sexta,Sim,Sim,Antônio João,Itapevi,Não,5,10.0,0.0
+215,Quinta,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,3,10.0,0.0
+216,Terça,Sim,Sim,Sagrado Coração,Itapevi,Não,4,12.0,0.0
+217,Sábado,Sim,Não,Gen. Miguel Costa,Itapevi,Não,4,11.0,0.0
+218,Sábado,Não,Sim,Santa Terezinha,Itapevi,Não,3,8.0,0.0
+219,Sábado,Sim,Sim,Santa Rita,Itapevi,Não,5,10.0,0.0
+220,Quarta,Sim,Não,Eng. Cardoso,Itapevi,Não,4,9.0,0.0
+221,Segunda,Não,Sim,Jandira,Itapevi,Não,3,6.0,0.0
+222,Quarta,Não,Sim,Imperatriz Leopoldina,Itapevi,Não,1,3.0,0.0
+223,Terça,Não,Sim,Jardim Belval,Palmeiras Barra Funda,Não,2,3.0,0.0
+224,Terça,Sim,Não,Itapevi,Itapevi,Não,4,9.0,0.0
+225,Terça,Sim,Não,Quitaúna,Itapevi,Não,4,13.0,0.0
+226,Quarta,Sim,Não,Jandira,Palmeiras Barra Funda,Não,4,15.0,0.0
+227,Sexta,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,5,12.0,0.0
+228,Quarta,Sim,Sim,Jandira,Itapevi,Sim,5,10.0,0.0
+229,Segunda,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,5,9.0,0.0
+230,Sexta,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,5,10.0,0.0
+231,Terça,Sim,Sim,Santa Rita,Palmeiras Barra Funda,Não,4,9.0,0.0
+232,Sexta,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,5,14.0,0.0
+233,Quarta,Sim,Não,Barueri,Itapevi,Sim,5,9.0,0.0
+234,Domingo,Não,Sim,Domingo de Moraes,Itapevi,Sim,1,5.0,0.0
+235,Quarta,Não,Sim,Júlio Prestes,Itapevi,Não,2,6.0,0.0
+236,Sexta,Sim,Sim,Sagrado Coração,Itapevi,Sim,5,14.0,0.0
+237,Terça,Sim,Não,Domingo de Moraes,Itapevi,Não,5,14.0,0.0
+238,Terça,Não,Sim,Antônio João,Palmeiras Barra Funda,Não,3,5.0,0.0
+239,Terça,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,5,14.0,0.0
+240,Terça,Sim,Não,Jandira,Palmeiras Barra Funda,Não,4,14.0,0.0
+241,Terça,Sim,Sim,Júlio Prestes,Itapevi,Não,4,13.0,0.0
+242,Sexta,Sim,Sim,Jardim Silveira,Itapevi,Não,5,9.0,0.0
+243,Segunda,Sim,Sim,Lapa,Itapevi,Não,4,11.0,0.0
+244,Segunda,Não,Não,Pres. Altino,Itapevi,Não,1,6.0,0.0
+245,Sábado,Não,Não,Júlio Prestes,Itapevi,Não,1,4.0,0.0
+246,Segunda,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,4,12.0,0.0
+247,Sexta,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,5,13.0,0.0
+248,Quarta,Não,Sim,Gen. Miguel Costa,Itapevi,Não,3,8.0,0.0
+249,Segunda,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,4,12.0,0.0
+250,Segunda,Não,Sim,Jandira,Palmeiras Barra Funda,Sim,2,3.0,0.0
+251,Terça,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,3,10.0,0.0
+252,Segunda,Sim,Sim,Palmeiras Barra Funda,Itapevi,Não,4,15.0,0.0
+253,Quinta,Não,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,2,5.0,0.0
+254,Sábado,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,5,14.0,0.0
+255,Domingo,Sim,Sim,Domingo de Moraes,Itapevi,Não,5,12.0,0.0
+256,Terça,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,4,10.0,0.0
+257,Sexta,Sim,Não,Amador Bueno,Palmeiras Barra Funda,Não,4,9.0,0.0
+258,Sexta,Sim,Sim,Lapa,Itapevi,Não,5,11.0,0.0
+259,Quarta,Não,Sim,Santa Terezinha,Itapevi,Não,3,7.0,0.0
+260,Segunda,Sim,Sim,Com. Sampaio,Itapevi,Não,5,13.0,0.0
+261,Quarta,Não,Sim,Lapa,Itapevi,Não,2,8.0,0.0
+262,Sexta,Não,Sim,Jardim Belval,Palmeiras Barra Funda,Não,3,5.0,0.0
+263,Sábado,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,5,14.0,0.0
+264,Domingo,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,3,10.0,0.0
+265,Quinta,Sim,Não,Pres. Altino,Palmeiras Barra Funda,Não,5,13.0,0.0
+266,Quarta,Sim,Sim,Júlio Prestes,Itapevi,Não,4,11.0,0.0
+267,Quarta,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,4,10.0,0.0
+268,Domingo,Não,Sim,Quitaúna,Palmeiras Barra Funda,Sim,1,4.0,0.0
+269,Segunda,Sim,Sim,Imperatriz Leopoldina,Itapevi,Sim,4,14.0,0.0
+270,Sexta,Não,Sim,Pres. Altino,Itapevi,Sim,2,4.0,0.0
+271,Domingo,Sim,Sim,Palmeiras Barra Funda,Itapevi,Não,5,15.0,0.0
+272,Quinta,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,4,9.0,0.0
+273,Quarta,Sim,Sim,Lapa,Palmeiras Barra Funda,Sim,4,11.0,0.0
+274,Sexta,Sim,Sim,Carapicuíba,Itapevi,Não,3,11.0,0.0
+275,Quarta,Sim,Sim,Barueri,Itapevi,Não,4,15.0,0.0
+276,Terça,Sim,Não,Itapevi,Itapevi,Não,3,9.0,0.0
+277,Segunda,Não,Sim,Pres. Altino,Itapevi,Não,2,5.0,0.0
+278,Sábado,Sim,Sim,Eng. Cardoso,Itapevi,Não,4,15.0,0.0
+279,Terça,Sim,Sim,Barueri,Itapevi,Não,4,12.0,0.0
+280,Quarta,Não,Sim,Osasco,Palmeiras Barra Funda,Não,2,7.0,0.0
+281,Terça,Sim,Sim,Quitaúna,Itapevi,Sim,4,10.0,0.0
+282,Segunda,Sim,Sim,Eng. Cardoso,Itapevi,Não,4,10.0,0.0
+283,Sábado,Não,Não,Santa Terezinha,Palmeiras Barra Funda,Não,3,8.0,0.0
+284,Sábado,Não,Não,Lapa,Palmeiras Barra Funda,Não,1,8.0,0.0
+285,Quarta,Sim,Sim,Jardim Belval,Itapevi,Não,4,15.0,0.0
+286,Quarta,Sim,Não,Lapa,Itapevi,Não,5,11.0,0.0
+287,Sexta,Não,Sim,Carapicuíba,Palmeiras Barra Funda,Não,3,3.0,0.0
+288,Domingo,Não,Sim,Jardim Belval,Palmeiras Barra Funda,Não,1,8.0,0.0
+289,Sexta,Não,Sim,Eng. Cardoso,Itapevi,Não,3,4.0,0.0
+290,Terça,Sim,Não,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,5,12.0,0.0
+291,Domingo,Não,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,2,5.0,0.0
+292,Domingo,Sim,Não,Quitaúna,Itapevi,Não,5,15.0,0.0
+293,Segunda,Sim,Sim,Osasco,Itapevi,Não,5,12.0,0.0
+294,Sexta,Não,Sim,Com. Sampaio,Palmeiras Barra Funda,Sim,1,7.0,0.0
+295,Terça,Não,Sim,Carapicuíba,Itapevi,Sim,3,3.0,0.0
+296,Segunda,Sim,Não,Quitaúna,Palmeiras Barra Funda,Não,4,14.0,0.0
+297,Domingo,Sim,Não,Jardim Silveira,Palmeiras Barra Funda,Não,4,13.0,0.0
+298,Segunda,Sim,Sim,Sagrado Coração,Itapevi,Sim,5,12.0,0.0
+299,Terça,Sim,Sim,Antônio João,Palmeiras Barra Funda,Sim,4,11.0,0.0
+300,Domingo,Não,Sim,Antônio João,Palmeiras Barra Funda,Sim,3,3.0,0.0
+301,Segunda,Não,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,3,6.0,0.0
+302,Sábado,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,5,14.0,0.0
+303,Sexta,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,5,9.0,0.0
+304,Terça,Sim,Sim,Domingo de Moraes,Itapevi,Não,4,11.0,0.0
+305,Segunda,Não,Não,Gen. Miguel Costa,Palmeiras Barra Funda,Não,1,4.0,0.0
+306,Quarta,Não,Sim,Itapevi,Itapevi,Sim,2,8.0,0.0
+307,Quinta,Sim,Não,Carapicuíba,Palmeiras Barra Funda,Não,3,11.0,0.0
+308,Sábado,Sim,Não,Eng. Cardoso,Itapevi,Sim,4,12.0,0.0
+309,Domingo,Sim,Sim,Itapevi,Itapevi,Não,4,9.0,0.0
+310,Segunda,Não,Não,Amador Bueno,Palmeiras Barra Funda,Não,1,6.0,0.0
+311,Quinta,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,4,13.0,0.0
+312,Terça,Sim,Não,Jardim Belval,Itapevi,Não,5,11.0,0.0
+313,Terça,Não,Sim,Jardim Silveira,Itapevi,Não,2,3.0,0.0
+314,Terça,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,4,15.0,0.0
+315,Quarta,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,3,13.0,0.0
+316,Quarta,Sim,Sim,Pres. Altino,Itapevi,Não,5,13.0,0.0
+317,Segunda,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,3,11.0,0.0
+318,Sábado,Não,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Sim,3,7.0,0.0
+319,Domingo,Sim,Sim,Jardim Silveira,Itapevi,Não,5,10.0,0.0
+320,Quarta,Sim,Sim,Pres. Altino,Itapevi,Não,4,14.0,0.0
+321,Domingo,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,5,13.0,0.0
+322,Sexta,Não,Não,Com. Sampaio,Palmeiras Barra Funda,Não,3,5.0,0.0
+323,Sábado,Não,Não,Jandira,Palmeiras Barra Funda,Não,2,5.0,0.0
+324,Domingo,Não,Sim,Santa Rita,Palmeiras Barra Funda,Não,1,5.0,0.0
+325,Sexta,Não,Não,Pres. Altino,Itapevi,Não,1,4.0,0.0
+326,Terça,Não,Sim,Itapevi,Itapevi,Não,3,6.0,0.0
+327,Segunda,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,4,14.0,0.0
+328,Sábado,Sim,Não,Eng. Cardoso,Palmeiras Barra Funda,Sim,3,11.0,0.0
+329,Terça,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,3,6.0,0.0
+330,Sábado,Sim,Sim,Lapa,Itapevi,Não,3,13.0,0.0
+331,Quarta,Não,Sim,Jardim Belval,Itapevi,Não,2,4.0,0.0
+332,Quarta,Sim,Não,Domingo de Moraes,Palmeiras Barra Funda,Não,4,11.0,0.0
+333,Quarta,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,5,9.0,0.0
+334,Domingo,Sim,Não,Lapa,Itapevi,Não,4,12.0,0.0
+335,Quinta,Sim,Sim,Antônio João,Itapevi,Não,5,14.0,0.0
+336,Quarta,Não,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,1,4.0,0.0
+337,Quinta,Sim,Sim,Antônio João,Itapevi,Não,5,10.0,0.0
+338,Domingo,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,4,9.0,0.0
+339,Quarta,Não,Não,Jardim Belval,Itapevi,Não,3,7.0,0.0
+340,Quinta,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,5,12.0,0.0
+341,Segunda,Sim,Sim,Amador Bueno,Itapevi,Não,5,10.0,0.0
+342,Domingo,Sim,Sim,Quitaúna,Itapevi,Não,3,14.0,0.0
+343,Terça,Sim,Não,Sagrado Coração,Itapevi,Não,4,14.0,0.0
+344,Quinta,Sim,Sim,Osasco,Palmeiras Barra Funda,Sim,5,13.0,0.0
+345,Sábado,Não,Sim,Eng. Cardoso,Itapevi,Não,2,6.0,0.0
+346,Sexta,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,5,12.0,0.0
+347,Sábado,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,3,10.0,0.0
+348,Sexta,Não,Não,Antônio João,Itapevi,Não,1,7.0,0.0
+349,Sábado,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,4,11.0,0.0
+350,Segunda,Sim,Não,Osasco,Itapevi,Não,5,10.0,0.0
+351,Domingo,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,3,9.0,0.0
+352,Sexta,Sim,Sim,Jandira,Itapevi,Não,4,12.0,0.0
+353,Quarta,Sim,Sim,Carapicuíba,Itapevi,Não,5,12.0,0.0
+354,Quinta,Não,Sim,Santa Terezinha,Itapevi,Não,1,8.0,0.0
+355,Domingo,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,4,10.0,0.0
+356,Sábado,Sim,Sim,Palmeiras Barra Funda,Itapevi,Não,5,9.0,0.0
+357,Terça,Não,Sim,Domingo de Moraes,Itapevi,Não,1,4.0,0.0
+358,Domingo,Não,Sim,Lapa,Palmeiras Barra Funda,Não,1,3.0,0.0
+359,Sexta,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,5,11.0,0.0
+360,Terça,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,5,13.0,0.0
+361,Quarta,Não,Não,Imperatriz Leopoldina,Itapevi,Sim,1,7.0,0.0
+362,Segunda,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,4,11.0,0.0
+363,Quarta,Sim,Não,Domingo de Moraes,Itapevi,Sim,3,13.0,0.0
+364,Quarta,Sim,Sim,Com. Sampaio,Itapevi,Não,3,9.0,0.0
+365,Sábado,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,4,9.0,0.0
+366,Segunda,Sim,Sim,Gen. Miguel Costa,Itapevi,Sim,4,12.0,0.0
+367,Sábado,Sim,Sim,Com. Sampaio,Itapevi,Não,4,15.0,0.0
+368,Quinta,Sim,Sim,Amador Bueno,Palmeiras Barra Funda,Não,4,11.0,0.0
+369,Segunda,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,4,12.0,0.0
+370,Domingo,Sim,Sim,Jardim Silveira,Itapevi,Não,5,12.0,0.0
+371,Terça,Não,Sim,Osasco,Itapevi,Não,2,6.0,0.0
+372,Sábado,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,3,9.0,0.0
+373,Segunda,Não,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,2,8.0,0.0
+374,Terça,Sim,Sim,Lapa,Palmeiras Barra Funda,Sim,3,10.0,0.0
+375,Quinta,Não,Sim,Santa Terezinha,Itapevi,Sim,2,5.0,0.0
+376,Sábado,Sim,Não,Palmeiras Barra Funda,Palmeiras Barra Funda,Sim,5,11.0,0.0
+377,Segunda,Não,Sim,Carapicuíba,Itapevi,Não,3,3.0,0.0
+378,Sexta,Não,Sim,Jardim Belval,Palmeiras Barra Funda,Não,1,6.0,0.0
+379,Segunda,Sim,Sim,Jardim Silveira,Itapevi,Não,4,14.0,0.0
+380,Quarta,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,3,8.0,0.0
+381,Sexta,Sim,Sim,Júlio Prestes,Itapevi,Não,5,14.0,0.0
+382,Sexta,Sim,Sim,Barueri,Itapevi,Não,5,11.0,0.0
+383,Segunda,Sim,Sim,Pres. Altino,Itapevi,Não,5,12.0,0.0
+384,Quarta,Não,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,2,3.0,0.0
+385,Sábado,Não,Sim,Quitaúna,Itapevi,Não,1,6.0,0.0
+386,Sexta,Não,Sim,Barueri,Palmeiras Barra Funda,Não,1,4.0,0.0
+387,Sexta,Não,Sim,Santa Terezinha,Itapevi,Não,2,5.0,0.0
+388,Quinta,Não,Sim,Osasco,Palmeiras Barra Funda,Sim,1,4.0,0.0
+389,Terça,Não,Sim,Santa Rita,Itapevi,Não,1,7.0,0.0
+390,Domingo,Sim,Sim,Barueri,Itapevi,Não,4,13.0,0.0
+391,Sábado,Sim,Sim,Itapevi,Palmeiras Barra Funda,Sim,4,15.0,0.0
+392,Sexta,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,3,3.0,0.0
+393,Quarta,Não,Não,Carapicuíba,Palmeiras Barra Funda,Não,2,8.0,0.0
+394,Sexta,Sim,Não,Eng. Cardoso,Itapevi,Não,4,11.0,0.0
+395,Segunda,Sim,Sim,Jardim Silveira,Itapevi,Não,5,14.0,0.0
+396,Segunda,Sim,Não,Lapa,Palmeiras Barra Funda,Não,5,11.0,0.0
+397,Sexta,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,5,12.0,0.0
+398,Terça,Sim,Não,Osasco,Itapevi,Não,4,10.0,0.0
+399,Quarta,Não,Não,Amador Bueno,Palmeiras Barra Funda,Não,1,7.0,0.0
+400,Domingo,Não,Sim,Santa Rita,Itapevi,Não,3,8.0,0.0
+401,Terça,Não,Não,Amador Bueno,Itapevi,Sim,3,5.0,0.0
+402,Sábado,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,3,14.0,0.0
+403,Quarta,Não,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,2,5.0,0.0
+404,Segunda,Não,Sim,Imperatriz Leopoldina,Itapevi,Não,2,4.0,0.0
+405,Domingo,Sim,Sim,Lapa,Itapevi,Sim,5,14.0,0.0
+406,Domingo,Não,Sim,Quitaúna,Palmeiras Barra Funda,Sim,1,7.0,0.0
+407,Sexta,Não,Sim,Com. Sampaio,Palmeiras Barra Funda,Sim,1,5.0,0.0
+408,Sexta,Não,Não,Eng. Cardoso,Itapevi,Não,3,8.0,0.0
+409,Quinta,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,4,12.0,0.0
+410,Domingo,Não,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,2,6.0,0.0
+411,Quarta,Não,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,2,6.0,0.0
+412,Quarta,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,5,14.0,0.0
+413,Quarta,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,5,14.0,0.0
+414,Terça,Sim,Sim,Gen. Miguel Costa,Itapevi,Sim,5,15.0,0.0
+415,Quarta,Não,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,1,5.0,0.0
+416,Sábado,Sim,Sim,Osasco,Itapevi,Não,4,15.0,0.0
+417,Segunda,Não,Não,Barueri,Itapevi,Não,1,6.0,0.0
+418,Sexta,Sim,Não,Antônio João,Palmeiras Barra Funda,Não,5,14.0,0.0
+419,Terça,Não,Sim,Domingo de Moraes,Itapevi,Não,3,8.0,0.0
+420,Segunda,Não,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,3,3.0,0.0
+421,Quarta,Sim,Sim,Júlio Prestes,Itapevi,Não,5,12.0,0.0
+422,Terça,Sim,Sim,Domingo de Moraes,Itapevi,Não,3,12.0,0.0
+423,Segunda,Sim,Não,Sagrado Coração,Itapevi,Sim,5,10.0,0.0
+424,Sexta,Não,Não,Santa Terezinha,Palmeiras Barra Funda,Não,3,4.0,0.0
+425,Quarta,Não,Não,Itapevi,Itapevi,Não,1,4.0,0.0
+426,Segunda,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,4,12.0,0.0
+427,Sábado,Não,Sim,Lapa,Itapevi,Sim,1,5.0,0.0
+428,Quinta,Não,Sim,Santa Terezinha,Palmeiras Barra Funda,Sim,1,8.0,0.0
+429,Segunda,Sim,Sim,Jardim Silveira,Itapevi,Não,4,15.0,0.0
+430,Terça,Não,Sim,Itapevi,Itapevi,Não,3,8.0,0.0
+431,Sábado,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,4,15.0,0.0
+432,Sexta,Não,Sim,Barueri,Itapevi,Não,2,5.0,0.0
+433,Quinta,Não,Sim,Barueri,Itapevi,Não,1,3.0,0.0
+434,Terça,Não,Sim,Com. Sampaio,Itapevi,Não,1,8.0,0.0
+435,Quinta,Sim,Sim,Antônio João,Itapevi,Sim,4,14.0,0.0
+436,Quinta,Sim,Sim,Santa Rita,Itapevi,Não,3,9.0,0.0
+437,Domingo,Sim,Não,Jandira,Palmeiras Barra Funda,Não,5,11.0,0.0
+438,Segunda,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,4,15.0,0.0
+439,Segunda,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,3,15.0,0.0
+440,Terça,Sim,Sim,Antônio João,Palmeiras Barra Funda,Sim,3,12.0,0.0
+441,Sábado,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,4,12.0,0.0
+442,Segunda,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,4,10.0,0.0
+443,Quinta,Não,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,1,4.0,0.0
+444,Sexta,Sim,Não,Santa Terezinha,Palmeiras Barra Funda,Não,3,13.0,0.0
+445,Sexta,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,4,13.0,0.0
+446,Terça,Sim,Não,Sagrado Coração,Itapevi,Não,4,12.0,0.0
+447,Sábado,Sim,Sim,Jardim Belval,Itapevi,Não,3,15.0,0.0
+448,Terça,Não,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,3,7.0,0.0
+449,Terça,Sim,Sim,Jardim Belval,Palmeiras Barra Funda,Sim,5,14.0,0.0
+450,Segunda,Não,Sim,Sagrado Coração,Itapevi,Não,2,7.0,0.0
+451,Quinta,Não,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,3,3.0,0.0
+452,Segunda,Sim,Sim,Antônio João,Itapevi,Sim,5,9.0,0.0
+453,Sexta,Sim,Sim,Gen. Miguel Costa,Itapevi,Sim,4,12.0,0.0
+454,Terça,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,5,15.0,0.0
+455,Sexta,Não,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,1,6.0,0.0
+456,Segunda,Sim,Sim,Domingo de Moraes,Itapevi,Não,5,9.0,0.0
+457,Segunda,Sim,Sim,Eng. Cardoso,Itapevi,Sim,3,13.0,0.0
+458,Segunda,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,4,12.0,0.0
+459,Terça,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,4,13.0,0.0
+460,Quinta,Sim,Não,Domingo de Moraes,Palmeiras Barra Funda,Não,4,13.0,0.0
+461,Sábado,Sim,Sim,Amador Bueno,Itapevi,Não,5,15.0,0.0
+462,Sexta,Sim,Sim,Palmeiras Barra Funda,Itapevi,Sim,5,10.0,0.0
+463,Sábado,Sim,Sim,Pres. Altino,Itapevi,Sim,4,9.0,0.0
+464,Quinta,Não,Não,Jardim Belval,Itapevi,Não,1,8.0,0.0
+465,Segunda,Sim,Sim,Amador Bueno,Palmeiras Barra Funda,Não,5,15.0,0.0
+466,Terça,Sim,Sim,Antônio João,Palmeiras Barra Funda,Não,4,11.0,0.0
+467,Domingo,Não,Não,Santa Rita,Palmeiras Barra Funda,Não,2,5.0,0.0
+468,Segunda,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,5,9.0,0.0
+469,Segunda,Sim,Sim,Pres. Altino,Itapevi,Não,3,10.0,0.0
+470,Sexta,Não,Sim,Carapicuíba,Itapevi,Não,3,4.0,0.0
+471,Quinta,Sim,Sim,Santa Terezinha,Itapevi,Não,4,9.0,0.0
+472,Segunda,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,3,11.0,0.0
+473,Terça,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,5,12.0,0.0
+474,Quarta,Sim,Sim,Jardim Belval,Itapevi,Não,5,9.0,0.0
+475,Quarta,Sim,Sim,Sagrado Coração,Itapevi,Não,4,13.0,0.0
+476,Sexta,Não,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,3,7.0,0.0
+477,Domingo,Sim,Sim,Sagrado Coração,Palmeiras Barra Funda,Sim,3,13.0,0.0
+478,Domingo,Sim,Sim,Domingo de Moraes,Itapevi,Não,3,9.0,0.0
+479,Sexta,Sim,Sim,Itapevi,Itapevi,Não,4,13.0,0.0
+480,Segunda,Sim,Sim,Itapevi,Itapevi,Não,4,15.0,0.0
+481,Domingo,Sim,Não,Imperatriz Leopoldina,Itapevi,Não,4,15.0,0.0
+482,Domingo,Sim,Sim,Eng. Cardoso,Itapevi,Sim,3,15.0,0.0
+483,Quarta,Não,Não,Palmeiras Barra Funda,Palmeiras Barra Funda,Sim,3,5.0,0.0
+484,Sábado,Sim,Sim,Barueri,Itapevi,Não,4,10.0,0.0
+485,Quinta,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,3,11.0,0.0
+486,Quarta,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,5,9.0,0.0
+487,Segunda,Sim,Sim,Santa Rita,Itapevi,Não,3,11.0,0.0
+488,Quarta,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,3,12.0,0.0
+489,Terça,Não,Sim,Jandira,Palmeiras Barra Funda,Não,3,4.0,0.0
+490,Sexta,Sim,Sim,Sagrado Coração,Palmeiras Barra Funda,Sim,3,10.0,0.0
+491,Sexta,Não,Sim,Barueri,Palmeiras Barra Funda,Não,1,3.0,0.0
+492,Quarta,Não,Não,Júlio Prestes,Palmeiras Barra Funda,Sim,2,3.0,0.0
+493,Segunda,Sim,Sim,Antônio João,Itapevi,Sim,3,9.0,0.0
+494,Quinta,Sim,Não,Sagrado Coração,Itapevi,Não,5,15.0,0.0
+495,Sexta,Sim,Não,Itapevi,Palmeiras Barra Funda,Não,4,10.0,0.0
+496,Terça,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,3,13.0,0.0
+497,Segunda,Sim,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,3,11.0,0.0
+498,Sábado,Sim,Não,Santa Terezinha,Palmeiras Barra Funda,Não,4,13.0,0.0
+499,Domingo,Sim,Sim,Jandira,Itapevi,Não,3,13.0,0.0
+500,Sexta,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Sim,5,12.0,0.0
+501,Quinta,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Sim,4,10.0,0.0
+502,Sexta,Não,Sim,Pres. Altino,Itapevi,Sim,1,6.0,0.0
+503,Sábado,Sim,Não,Pres. Altino,Palmeiras Barra Funda,Não,4,11.0,0.0
+504,Terça,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Sim,4,13.0,0.0
+505,Quarta,Sim,Não,Gen. Miguel Costa,Palmeiras Barra Funda,Não,4,15.0,0.0
+506,Terça,Sim,Não,Domingo de Moraes,Palmeiras Barra Funda,Não,5,11.0,0.0
+507,Domingo,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,4,10.0,0.0
+508,Sexta,Sim,Não,Barueri,Itapevi,Não,5,10.0,0.0
+509,Segunda,Sim,Sim,Lapa,Itapevi,Não,5,15.0,0.0
+510,Sábado,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,1,3.0,0.0
+511,Quarta,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,5,11.0,0.0
+512,Terça,Não,Não,Santa Rita,Palmeiras Barra Funda,Não,3,8.0,0.0
+513,Segunda,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,4,12.0,0.0
+514,Segunda,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,5,13.0,0.0
+515,Domingo,Sim,Não,Carapicuíba,Palmeiras Barra Funda,Não,4,13.0,0.0
+516,Sábado,Sim,Não,Quitaúna,Palmeiras Barra Funda,Não,4,12.0,0.0
+517,Domingo,Sim,Sim,Carapicuíba,Itapevi,Sim,4,9.0,0.0
+518,Terça,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,5,10.0,0.0
+519,Segunda,Não,Não,Jardim Belval,Itapevi,Não,2,7.0,0.0
+520,Quarta,Não,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,1,5.0,0.0
+521,Quinta,Sim,Sim,Jandira,Itapevi,Não,5,12.0,0.0
+522,Terça,Sim,Sim,Domingo de Moraes,Itapevi,Sim,5,13.0,0.0
+523,Terça,Sim,Não,Jandira,Itapevi,Sim,4,9.0,0.0
+524,Sexta,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,4,10.0,0.0
+525,Terça,Sim,Sim,Jardim Belval,Itapevi,Não,3,10.0,0.0
+526,Domingo,Sim,Não,Com. Sampaio,Itapevi,Não,4,13.0,0.0
+527,Quarta,Sim,Não,Júlio Prestes,Itapevi,Não,4,10.0,0.0
+528,Quinta,Sim,Sim,Osasco,Itapevi,Não,5,13.0,0.0
+529,Segunda,Sim,Sim,Antônio João,Itapevi,Não,4,10.0,0.0
+530,Sábado,Sim,Sim,Amador Bueno,Itapevi,Sim,5,9.0,0.0
+531,Terça,Sim,Não,Jardim Belval,Itapevi,Sim,4,10.0,0.0
+532,Quarta,Sim,Sim,Quitaúna,Itapevi,Não,4,9.0,0.0
+533,Quarta,Sim,Sim,Amador Bueno,Itapevi,Não,5,9.0,0.0
+534,Segunda,Sim,Sim,Amador Bueno,Itapevi,Sim,5,15.0,0.0
+535,Terça,Não,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,2,8.0,0.0
+536,Quarta,Não,Não,Pres. Altino,Itapevi,Não,2,4.0,0.0
+537,Sexta,Sim,Não,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,5,13.0,0.0
+538,Sábado,Sim,Não,Osasco,Itapevi,Não,3,13.0,0.0
+539,Domingo,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,5,12.0,0.0
+540,Quarta,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,4,12.0,0.0
+541,Segunda,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,5,10.0,0.0
+542,Quarta,Sim,Sim,Santa Rita,Palmeiras Barra Funda,Sim,5,11.0,0.0
+543,Sexta,Não,Não,Barueri,Palmeiras Barra Funda,Sim,1,7.0,0.0
+544,Quinta,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,3,14.0,0.0
+545,Domingo,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Sim,4,9.0,0.0
+546,Terça,Sim,Sim,Amador Bueno,Itapevi,Não,4,14.0,0.0
+547,Sábado,Sim,Não,Amador Bueno,Palmeiras Barra Funda,Não,3,15.0,0.0
+548,Domingo,Sim,Sim,Palmeiras Barra Funda,Itapevi,Não,5,13.0,0.0
+549,Sábado,Sim,Sim,Domingo de Moraes,Itapevi,Não,4,9.0,0.0
+550,Sábado,Não,Não,Eng. Cardoso,Itapevi,Sim,1,3.0,0.0
+551,Quinta,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,4,14.0,0.0
+552,Sexta,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Sim,4,12.0,0.0
+553,Segunda,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,4,14.0,0.0
+554,Segunda,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,4,9.0,0.0
+555,Domingo,Não,Sim,Quitaúna,Itapevi,Não,3,7.0,0.0
+556,Quarta,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,3,10.0,0.0
+557,Terça,Não,Sim,Carapicuíba,Palmeiras Barra Funda,Não,2,7.0,0.0
+558,Domingo,Sim,Não,Gen. Miguel Costa,Palmeiras Barra Funda,Não,5,9.0,0.0
+559,Sexta,Sim,Sim,Amador Bueno,Itapevi,Não,4,13.0,0.0
+560,Domingo,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,4,15.0,0.0
+561,Quarta,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,3,14.0,0.0
+562,Segunda,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,5,9.0,0.0
+563,Quarta,Sim,Não,Santa Rita,Itapevi,Não,4,13.0,0.0
+564,Quarta,Sim,Sim,Amador Bueno,Itapevi,Não,4,10.0,0.0
+565,Segunda,Sim,Sim,Santa Terezinha,Itapevi,Não,3,10.0,0.0
+566,Terça,Sim,Não,Antônio João,Palmeiras Barra Funda,Sim,4,10.0,0.0
+567,Terça,Não,Sim,Quitaúna,Itapevi,Sim,2,4.0,0.0
+568,Sábado,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,5,13.0,0.0
+569,Sexta,Não,Sim,Jandira,Itapevi,Não,2,5.0,0.0
+570,Sábado,Sim,Sim,Santa Rita,Itapevi,Não,3,10.0,0.0
+571,Quarta,Sim,Sim,Barueri,Itapevi,Não,5,12.0,0.0
+572,Quinta,Sim,Sim,Amador Bueno,Itapevi,Não,4,13.0,0.0
+573,Sábado,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Sim,5,14.0,0.0
+574,Sábado,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,4,15.0,0.0
+575,Sexta,Sim,Sim,Jandira,Itapevi,Não,5,10.0,0.0
+576,Sábado,Sim,Sim,Domingo de Moraes,Itapevi,Não,5,11.0,0.0
+577,Segunda,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,3,14.0,0.0
+578,Sexta,Sim,Sim,Jardim Silveira,Itapevi,Não,4,15.0,0.0
+579,Quinta,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,5,15.0,0.0
+580,Sexta,Não,Sim,Sagrado Coração,Palmeiras Barra Funda,Sim,1,5.0,0.0
+581,Sexta,Não,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,2,5.0,0.0
+582,Segunda,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,4,9.0,0.0
+583,Sexta,Não,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,2,5.0,0.0
+584,Quarta,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,5,12.0,0.0
+585,Quarta,Sim,Não,Júlio Prestes,Palmeiras Barra Funda,Não,4,12.0,0.0
+586,Quarta,Sim,Sim,Júlio Prestes,Itapevi,Não,5,12.0,0.0
+587,Sábado,Não,Não,Jardim Silveira,Itapevi,Não,2,8.0,0.0
+588,Sábado,Sim,Não,Eng. Cardoso,Itapevi,Não,5,12.0,0.0
+589,Quarta,Sim,Sim,Antônio João,Itapevi,Sim,5,11.0,0.0
+590,Domingo,Sim,Não,Gen. Miguel Costa,Itapevi,Sim,4,11.0,0.0
+591,Quinta,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,4,9.0,0.0
+592,Terça,Não,Sim,Santa Rita,Itapevi,Não,1,6.0,0.0
+593,Quarta,Sim,Sim,Santa Terezinha,Itapevi,Não,3,12.0,0.0
+594,Quarta,Sim,Sim,Barueri,Itapevi,Não,4,9.0,0.0
+595,Quinta,Sim,Não,Itapevi,Palmeiras Barra Funda,Não,3,12.0,0.0
+596,Quarta,Sim,Sim,Júlio Prestes,Itapevi,Não,4,10.0,0.0
+597,Sábado,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,4,11.0,0.0
+598,Quinta,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,5,13.0,0.0
+599,Terça,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,5,10.0,0.0
+600,Sexta,Sim,Não,Osasco,Palmeiras Barra Funda,Não,3,11.0,0.0
+601,Segunda,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,4,14.0,0.0
+602,Sexta,Não,Sim,Itapevi,Itapevi,Não,1,8.0,0.0
+603,Sexta,Não,Sim,Carapicuíba,Palmeiras Barra Funda,Sim,1,8.0,0.0
+604,Segunda,Sim,Não,Jandira,Palmeiras Barra Funda,Não,4,11.0,0.0
+605,Quinta,Sim,Não,Domingo de Moraes,Itapevi,Não,5,10.0,0.0
+606,Quarta,Sim,Sim,Santa Rita,Palmeiras Barra Funda,Não,4,11.0,0.0
+607,Sábado,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,5,9.0,0.0
+608,Segunda,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,3,14.0,0.0
+609,Quinta,Não,Sim,Jandira,Palmeiras Barra Funda,Sim,3,7.0,0.0
+610,Sábado,Sim,Sim,Gen. Miguel Costa,Itapevi,Sim,4,12.0,0.0
+611,Domingo,Não,Sim,Carapicuíba,Palmeiras Barra Funda,Não,1,6.0,0.0
+612,Sábado,Sim,Não,Jardim Belval,Itapevi,Sim,3,12.0,0.0
+613,Sábado,Não,Sim,Barueri,Itapevi,Não,3,7.0,0.0
+614,Domingo,Não,Não,Antônio João,Itapevi,Não,2,5.0,0.0
+615,Quinta,Não,Sim,Com. Sampaio,Itapevi,Sim,3,6.0,0.0
+616,Terça,Não,Sim,Antônio João,Itapevi,Não,3,4.0,0.0
+617,Quinta,Não,Sim,Gen. Miguel Costa,Itapevi,Não,1,6.0,0.0
+618,Terça,Sim,Sim,Antônio João,Palmeiras Barra Funda,Não,4,9.0,0.0
+619,Domingo,Sim,Sim,Osasco,Palmeiras Barra Funda,Sim,3,15.0,0.0
+620,Terça,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,3,15.0,0.0
+621,Sábado,Sim,Sim,Sagrado Coração,Itapevi,Não,4,15.0,0.0
+622,Segunda,Sim,Não,Gen. Miguel Costa,Palmeiras Barra Funda,Não,5,15.0,0.0
+623,Sábado,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,4,15.0,0.0
+624,Terça,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,4,15.0,0.0
+625,Domingo,Sim,Sim,Sagrado Coração,Itapevi,Não,3,14.0,0.0
+626,Segunda,Sim,Sim,Jardim Belval,Itapevi,Não,4,13.0,0.0
+627,Domingo,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,5,15.0,0.0
+628,Terça,Sim,Não,Santa Rita,Palmeiras Barra Funda,Não,4,9.0,0.0
+629,Terça,Não,Não,Santa Rita,Palmeiras Barra Funda,Não,2,6.0,0.0
+630,Segunda,Não,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,3,8.0,0.0
+631,Sábado,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,5,13.0,0.0
+632,Quinta,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,5,13.0,0.0
+633,Domingo,Sim,Não,Jardim Silveira,Palmeiras Barra Funda,Não,5,13.0,0.0
+634,Domingo,Não,Sim,Osasco,Palmeiras Barra Funda,Sim,1,8.0,0.0
+635,Sábado,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,4,11.0,0.0
+636,Sábado,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,4,11.0,0.0
+637,Terça,Sim,Sim,Quitaúna,Itapevi,Não,5,14.0,0.0
+638,Quarta,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,5,11.0,0.0
+639,Quarta,Sim,Sim,Santa Rita,Palmeiras Barra Funda,Não,3,15.0,0.0
+640,Terça,Sim,Sim,Jardim Belval,Itapevi,Não,5,14.0,0.0
+641,Quinta,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,4,14.0,0.0
+642,Domingo,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,5,15.0,0.0
+643,Terça,Não,Sim,Sagrado Coração,Palmeiras Barra Funda,Não,2,5.0,0.0
+644,Segunda,Sim,Sim,Jardim Belval,Palmeiras Barra Funda,Não,5,12.0,0.0
+645,Terça,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,4,10.0,0.0
+646,Sexta,Sim,Sim,Lapa,Itapevi,Não,4,9.0,0.0
+647,Domingo,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,5,10.0,0.0
+648,Domingo,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,5,10.0,0.0
+649,Sexta,Não,Sim,Carapicuíba,Palmeiras Barra Funda,Não,1,7.0,0.0
+650,Quarta,Não,Sim,Osasco,Itapevi,Não,2,6.0,0.0
+651,Quinta,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Sim,5,14.0,0.0
+652,Terça,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Sim,5,11.0,0.0
+653,Domingo,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,3,11.0,0.0
+654,Segunda,Não,Sim,Quitaúna,Itapevi,Não,3,8.0,0.0
+655,Quinta,Sim,Não,Barueri,Palmeiras Barra Funda,Sim,5,9.0,0.0
+656,Sábado,Sim,Sim,Amador Bueno,Palmeiras Barra Funda,Não,5,13.0,0.0
+657,Sexta,Sim,Sim,Itapevi,Palmeiras Barra Funda,Sim,5,11.0,0.0
+658,Sábado,Sim,Sim,Osasco,Itapevi,Não,5,11.0,0.0
+659,Terça,Sim,Sim,Jardim Silveira,Itapevi,Sim,5,10.0,0.0
+660,Quinta,Sim,Não,Osasco,Palmeiras Barra Funda,Não,5,14.0,0.0
+661,Segunda,Sim,Sim,Domingo de Moraes,Itapevi,Não,5,10.0,0.0
+662,Quinta,Sim,Sim,Pres. Altino,Itapevi,Não,3,13.0,0.0
+663,Quarta,Não,Sim,Jardim Belval,Palmeiras Barra Funda,Não,2,4.0,0.0
+664,Quarta,Não,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,3,5.0,0.0
+665,Sábado,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,4,13.0,0.0
+666,Segunda,Sim,Não,Carapicuíba,Itapevi,Não,4,10.0,0.0
+667,Domingo,Sim,Sim,Amador Bueno,Itapevi,Não,3,12.0,0.0
+668,Sexta,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,5,15.0,0.0
+669,Sexta,Não,Sim,Barueri,Itapevi,Não,3,8.0,0.0
+670,Domingo,Sim,Não,Quitaúna,Palmeiras Barra Funda,Não,3,13.0,0.0
+671,Sábado,Não,Sim,Lapa,Palmeiras Barra Funda,Não,2,3.0,0.0
+672,Sábado,Não,Não,Osasco,Itapevi,Não,1,4.0,0.0
+673,Quarta,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,3,15.0,0.0
+674,Segunda,Sim,Não,Lapa,Palmeiras Barra Funda,Não,5,10.0,0.0
+675,Segunda,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,5,9.0,0.0
+676,Terça,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,5,15.0,0.0
+677,Segunda,Sim,Sim,Osasco,Itapevi,Não,3,15.0,0.0
+678,Domingo,Não,Sim,Santa Rita,Palmeiras Barra Funda,Não,3,7.0,0.0
+679,Sábado,Sim,Sim,Jardim Silveira,Itapevi,Não,5,10.0,0.0
+680,Segunda,Sim,Sim,Jardim Silveira,Itapevi,Não,4,15.0,0.0
+681,Segunda,Sim,Sim,Amador Bueno,Itapevi,Sim,5,14.0,0.0
+682,Terça,Não,Sim,Jardim Belval,Palmeiras Barra Funda,Sim,3,5.0,0.0
+683,Domingo,Não,Sim,Jardim Silveira,Itapevi,Não,1,5.0,0.0
+684,Terça,Sim,Não,Eng. Cardoso,Itapevi,Não,4,12.0,0.0
+685,Sexta,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,5,9.0,0.0
+686,Quarta,Não,Sim,Sagrado Coração,Palmeiras Barra Funda,Não,2,3.0,0.0
+687,Sábado,Não,Sim,Com. Sampaio,Itapevi,Não,1,5.0,0.0
+688,Quarta,Sim,Sim,Itapevi,Itapevi,Não,5,10.0,0.0
+689,Quarta,Sim,Sim,Antônio João,Palmeiras Barra Funda,Não,5,12.0,0.0
+690,Domingo,Sim,Sim,Osasco,Itapevi,Não,3,11.0,0.0
+691,Quinta,Não,Sim,Itapevi,Itapevi,Não,2,4.0,0.0
+692,Terça,Não,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,2,8.0,0.0
+693,Quinta,Não,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,1,7.0,0.0
+694,Quarta,Sim,Não,Osasco,Itapevi,Não,5,15.0,0.0
+695,Quarta,Sim,Não,Eng. Cardoso,Palmeiras Barra Funda,Sim,5,11.0,0.0
+696,Domingo,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,5,10.0,0.0
+697,Segunda,Sim,Sim,Sagrado Coração,Itapevi,Sim,4,15.0,0.0
+698,Domingo,Não,Sim,Antônio João,Itapevi,Não,1,7.0,0.0
+699,Domingo,Não,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,1,5.0,0.0
+700,Sábado,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,5,15.0,0.0
+701,Segunda,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,5,9.0,0.0
+702,Sexta,Sim,Sim,Domingo de Moraes,Itapevi,Não,4,14.0,0.0
+703,Terça,Sim,Sim,Júlio Prestes,Itapevi,Não,4,9.0,0.0
+704,Sábado,Sim,Sim,Sagrado Coração,Itapevi,Sim,3,15.0,0.0
+705,Quinta,Sim,Sim,Com. Sampaio,Itapevi,Não,5,12.0,0.0
+706,Quinta,Sim,Não,Sagrado Coração,Palmeiras Barra Funda,Não,5,13.0,0.0
+707,Quinta,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Sim,3,10.0,0.0
+708,Domingo,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,2,4.0,0.0
+709,Quarta,Não,Sim,Com. Sampaio,Itapevi,Não,3,5.0,0.0
+710,Quinta,Sim,Sim,Com. Sampaio,Itapevi,Não,5,12.0,0.0
+711,Domingo,Não,Sim,Lapa,Palmeiras Barra Funda,Não,1,4.0,0.0
+712,Sábado,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Sim,3,14.0,0.0
+713,Segunda,Não,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,1,4.0,0.0
+714,Segunda,Não,Sim,Santa Rita,Palmeiras Barra Funda,Não,2,7.0,0.0
+715,Terça,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,4,12.0,0.0
+716,Segunda,Não,Não,Santa Terezinha,Itapevi,Não,2,5.0,0.0
+717,Sexta,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,1,6.0,0.0
+718,Quarta,Sim,Não,Domingo de Moraes,Itapevi,Não,5,15.0,0.0
+719,Quinta,Não,Sim,Pres. Altino,Palmeiras Barra Funda,Não,2,6.0,0.0
+720,Terça,Sim,Sim,Eng. Cardoso,Itapevi,Não,3,10.0,0.0
+721,Quinta,Sim,Sim,Sagrado Coração,Itapevi,Não,5,9.0,0.0
+722,Quarta,Não,Sim,Antônio João,Itapevi,Sim,2,7.0,0.0
+723,Quinta,Sim,Não,Sagrado Coração,Itapevi,Não,5,14.0,0.0
+724,Segunda,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,5,11.0,0.0
+725,Domingo,Sim,Sim,Jardim Belval,Itapevi,Não,3,10.0,0.0
+726,Quarta,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,4,13.0,0.0
+727,Segunda,Sim,Não,Barueri,Palmeiras Barra Funda,Não,3,12.0,0.0
+728,Quarta,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,5,13.0,0.0
+729,Terça,Sim,Não,Jardim Belval,Itapevi,Não,5,14.0,0.0
+730,Domingo,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,5,12.0,0.0
+731,Domingo,Não,Não,Imperatriz Leopoldina,Palmeiras Barra Funda,Sim,1,3.0,0.0
+732,Domingo,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,4,15.0,0.0
+733,Quarta,Sim,Sim,Barueri,Palmeiras Barra Funda,Sim,4,11.0,0.0
+734,Quarta,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,4,14.0,0.0
+735,Quinta,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,5,12.0,0.0
+736,Sábado,Sim,Não,Osasco,Palmeiras Barra Funda,Sim,3,9.0,0.0
+737,Quinta,Sim,Sim,Santa Rita,Palmeiras Barra Funda,Não,3,9.0,0.0
+738,Quinta,Não,Sim,Pres. Altino,Itapevi,Não,2,5.0,0.0
+739,Segunda,Sim,Sim,Jandira,Itapevi,Não,4,14.0,0.0
+740,Segunda,Não,Sim,Júlio Prestes,Itapevi,Não,2,3.0,0.0
+741,Terça,Não,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,1,3.0,0.0
+742,Quinta,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,4,10.0,0.0
+743,Sexta,Sim,Sim,Quitaúna,Itapevi,Não,5,12.0,0.0
+744,Sábado,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,4,10.0,0.0
+745,Sexta,Não,Sim,Itapevi,Itapevi,Não,1,6.0,0.0
+746,Sexta,Não,Sim,Quitaúna,Itapevi,Não,1,7.0,0.0
+747,Domingo,Não,Sim,Eng. Cardoso,Palmeiras Barra Funda,Sim,2,4.0,0.0
+748,Sexta,Não,Sim,Amador Bueno,Palmeiras Barra Funda,Sim,3,3.0,0.0
+749,Sábado,Não,Sim,Imperatriz Leopoldina,Itapevi,Não,2,5.0,0.0
+750,Terça,Sim,Sim,Amador Bueno,Palmeiras Barra Funda,Não,4,10.0,0.0
+751,Domingo,Sim,Sim,Santa Rita,Palmeiras Barra Funda,Sim,3,15.0,0.0
+752,Terça,Sim,Não,Imperatriz Leopoldina,Palmeiras Barra Funda,Sim,4,12.0,0.0
+753,Domingo,Sim,Sim,Amador Bueno,Palmeiras Barra Funda,Não,3,9.0,0.0
+754,Quinta,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,5,14.0,0.0
+755,Sexta,Sim,Sim,Jardim Belval,Itapevi,Sim,5,14.0,0.0
+756,Sábado,Não,Sim,Lapa,Itapevi,Não,2,6.0,0.0
+757,Quinta,Sim,Sim,Santa Rita,Itapevi,Não,4,11.0,0.0
+758,Quarta,Sim,Sim,Eng. Cardoso,Itapevi,Não,4,13.0,0.0
+759,Terça,Sim,Sim,Osasco,Itapevi,Sim,5,10.0,0.0
+760,Sexta,Sim,Sim,Jardim Belval,Itapevi,Não,4,10.0,0.0
+761,Sábado,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,5,11.0,0.0
+762,Quarta,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,5,9.0,0.0
+763,Quarta,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,5,15.0,0.0
+764,Sábado,Sim,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,5,10.0,0.0
+765,Domingo,Não,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,2,3.0,0.0
+766,Terça,Sim,Sim,Osasco,Itapevi,Não,5,14.0,0.0
+767,Domingo,Não,Não,Pres. Altino,Itapevi,Não,2,7.0,0.0
+768,Quarta,Sim,Sim,Barueri,Itapevi,Não,4,12.0,0.0
+769,Quarta,Não,Sim,Gen. Miguel Costa,Itapevi,Não,1,8.0,0.0
+770,Sexta,Sim,Sim,Gen. Miguel Costa,Itapevi,Sim,3,13.0,0.0
+771,Quinta,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Sim,4,13.0,0.0
+772,Segunda,Sim,Sim,Júlio Prestes,Itapevi,Não,5,9.0,0.0
+773,Quinta,Sim,Não,Pres. Altino,Itapevi,Não,4,9.0,0.0
+774,Sábado,Sim,Sim,Amador Bueno,Palmeiras Barra Funda,Não,3,11.0,0.0
+775,Quinta,Sim,Não,Pres. Altino,Palmeiras Barra Funda,Sim,5,14.0,0.0
+776,Quinta,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,4,10.0,0.0
+777,Domingo,Sim,Sim,Amador Bueno,Palmeiras Barra Funda,Não,4,9.0,0.0
+778,Terça,Sim,Não,Itapevi,Itapevi,Não,4,12.0,0.0
+779,Sábado,Sim,Sim,Pres. Altino,Palmeiras Barra Funda,Não,5,12.0,0.0
+780,Domingo,Sim,Sim,Barueri,Itapevi,Sim,4,14.0,0.0
+781,Quarta,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,5,13.0,0.0
+782,Domingo,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,4,11.0,0.0
+783,Domingo,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,5,9.0,0.0
+784,Segunda,Não,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Sim,3,7.0,0.0
+785,Sábado,Sim,Não,Sagrado Coração,Palmeiras Barra Funda,Não,5,9.0,0.0
+786,Sábado,Não,Sim,Santa Terezinha,Itapevi,Não,1,7.0,0.0
+787,Quinta,Sim,Sim,Amador Bueno,Itapevi,Não,4,15.0,0.0
+788,Sexta,Sim,Sim,Jandira,Itapevi,Sim,5,12.0,0.0
+789,Sexta,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,5,10.0,0.0
+790,Domingo,Não,Não,Itapevi,Palmeiras Barra Funda,Não,3,4.0,0.0
+791,Sexta,Sim,Sim,Jardim Belval,Itapevi,Sim,5,14.0,0.0
+792,Terça,Sim,Sim,Itapevi,Palmeiras Barra Funda,Sim,4,11.0,0.0
+793,Quinta,Sim,Sim,Domingo de Moraes,Itapevi,Sim,4,11.0,0.0
+794,Sexta,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,2,7.0,0.0
+795,Sábado,Sim,Não,Santa Rita,Itapevi,Não,5,14.0,0.0
+796,Segunda,Sim,Não,Amador Bueno,Itapevi,Sim,4,14.0,0.0
+797,Sábado,Sim,Sim,Sagrado Coração,Itapevi,Não,5,10.0,0.0
+798,Sábado,Não,Sim,Carapicuíba,Itapevi,Não,2,4.0,0.0
+799,Quinta,Não,Sim,Carapicuíba,Itapevi,Não,3,3.0,0.0
+800,Sábado,Sim,Não,Sagrado Coração,Palmeiras Barra Funda,Não,5,11.0,0.0
+801,Segunda,Sim,Sim,Antônio João,Palmeiras Barra Funda,Não,3,10.0,0.0
+802,Quinta,Não,Não,Pres. Altino,Palmeiras Barra Funda,Não,1,7.0,0.0
+803,Segunda,Não,Sim,Amador Bueno,Itapevi,Não,3,3.0,0.0
+804,Quinta,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,4,11.0,0.0
+805,Sexta,Sim,Sim,Imperatriz Leopoldina,Itapevi,Não,5,13.0,0.0
+806,Segunda,Sim,Sim,Santa Rita,Itapevi,Não,5,12.0,0.0
+807,Terça,Sim,Sim,Imperatriz Leopoldina,Itapevi,Sim,4,12.0,0.0
+808,Quinta,Sim,Sim,Santa Rita,Itapevi,Não,5,14.0,0.0
+809,Terça,Sim,Sim,Jardim Belval,Itapevi,Sim,3,13.0,0.0
+810,Quarta,Sim,Sim,Santa Terezinha,Itapevi,Não,4,14.0,0.0
+811,Sexta,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,4,14.0,0.0
+812,Domingo,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,3,13.0,0.0
+813,Terça,Sim,Sim,Osasco,Itapevi,Não,4,9.0,0.0
+814,Quinta,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Não,4,14.0,0.0
+815,Terça,Não,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,1,3.0,0.0
+816,Sexta,Não,Sim,Antônio João,Itapevi,Não,3,8.0,0.0
+817,Sábado,Não,Não,Itapevi,Itapevi,Sim,2,4.0,0.0
+818,Quarta,Não,Não,Jardim Belval,Palmeiras Barra Funda,Não,2,3.0,0.0
+819,Quarta,Não,Sim,Carapicuíba,Palmeiras Barra Funda,Sim,2,3.0,0.0
+820,Terça,Sim,Não,Quitaúna,Palmeiras Barra Funda,Não,5,12.0,0.0
+821,Domingo,Não,Sim,Jardim Silveira,Itapevi,Não,1,7.0,0.0
+822,Sábado,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,4,9.0,0.0
+823,Quarta,Sim,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,4,14.0,0.0
+824,Sábado,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,5,14.0,0.0
+825,Domingo,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,3,15.0,0.0
+826,Domingo,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,5,9.0,0.0
+827,Quinta,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,4,11.0,0.0
+828,Quinta,Sim,Sim,Com. Sampaio,Itapevi,Não,3,12.0,0.0
+829,Segunda,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Sim,3,14.0,0.0
+830,Sábado,Sim,Sim,Jandira,Itapevi,Não,3,15.0,0.0
+831,Quinta,Não,Sim,Domingo de Moraes,Itapevi,Não,3,7.0,0.0
+832,Segunda,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,4,12.0,0.0
+833,Terça,Não,Sim,Sagrado Coração,Itapevi,Sim,3,4.0,0.0
+834,Quinta,Sim,Não,Domingo de Moraes,Itapevi,Sim,5,10.0,0.0
+835,Sábado,Sim,Sim,Jandira,Itapevi,Não,4,10.0,0.0
+836,Sábado,Sim,Sim,Santa Terezinha,Itapevi,Não,4,9.0,0.0
+837,Sexta,Não,Sim,Palmeiras Barra Funda,Itapevi,Não,3,5.0,0.0
+838,Sábado,Sim,Sim,Santa Rita,Itapevi,Não,3,10.0,0.0
+839,Segunda,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,5,10.0,0.0
+840,Terça,Não,Sim,Amador Bueno,Itapevi,Não,1,4.0,0.0
+841,Domingo,Sim,Sim,Jandira,Itapevi,Não,4,15.0,0.0
+842,Terça,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,3,9.0,0.0
+843,Quarta,Não,Não,Com. Sampaio,Palmeiras Barra Funda,Não,3,4.0,0.0
+844,Quarta,Sim,Não,Jardim Silveira,Palmeiras Barra Funda,Não,4,11.0,0.0
+845,Segunda,Sim,Sim,Antônio João,Itapevi,Não,5,15.0,0.0
+846,Terça,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,5,13.0,0.0
+847,Segunda,Sim,Não,Eng. Cardoso,Palmeiras Barra Funda,Não,4,9.0,0.0
+848,Sexta,Não,Sim,Jardim Silveira,Itapevi,Não,2,4.0,0.0
+849,Terça,Não,Não,Júlio Prestes,Palmeiras Barra Funda,Não,1,6.0,0.0
+850,Quarta,Sim,Sim,Jandira,Itapevi,Não,5,10.0,0.0
+851,Segunda,Sim,Não,Jardim Silveira,Palmeiras Barra Funda,Sim,4,14.0,0.0
+852,Quarta,Sim,Sim,Com. Sampaio,Itapevi,Sim,5,11.0,0.0
+853,Domingo,Sim,Não,Lapa,Palmeiras Barra Funda,Não,4,13.0,0.0
+854,Terça,Não,Sim,Júlio Prestes,Itapevi,Não,1,4.0,0.0
+855,Sábado,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Sim,5,11.0,0.0
+856,Terça,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,5,11.0,0.0
+857,Sexta,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,4,12.0,0.0
+858,Sábado,Sim,Não,Jardim Silveira,Itapevi,Não,3,13.0,0.0
+859,Sexta,Não,Sim,Osasco,Palmeiras Barra Funda,Não,2,7.0,0.0
+860,Domingo,Sim,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,4,14.0,0.0
+861,Segunda,Sim,Sim,Domingo de Moraes,Itapevi,Não,4,10.0,0.0
+862,Sexta,Sim,Sim,Barueri,Itapevi,Sim,5,12.0,0.0
+863,Quarta,Sim,Sim,Jardim Belval,Palmeiras Barra Funda,Sim,5,12.0,0.0
+864,Domingo,Não,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,1,7.0,0.0
+865,Segunda,Sim,Não,Domingo de Moraes,Itapevi,Não,3,12.0,0.0
+866,Quinta,Sim,Sim,Jardim Silveira,Palmeiras Barra Funda,Não,4,11.0,0.0
+867,Quarta,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,4,12.0,0.0
+868,Quinta,Sim,Sim,Jardim Belval,Palmeiras Barra Funda,Não,4,12.0,0.0
+869,Terça,Não,Sim,Antônio João,Itapevi,Não,3,7.0,0.0
+870,Quarta,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,4,9.0,0.0
+871,Domingo,Não,Sim,Antônio João,Palmeiras Barra Funda,Sim,2,3.0,0.0
+872,Quinta,Sim,Não,Pres. Altino,Palmeiras Barra Funda,Não,4,9.0,0.0
+873,Sexta,Não,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,3,3.0,0.0
+874,Quarta,Não,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,3,4.0,0.0
+875,Terça,Não,Sim,Barueri,Palmeiras Barra Funda,Sim,3,5.0,0.0
+876,Quarta,Sim,Não,Eng. Cardoso,Itapevi,Não,5,9.0,0.0
+877,Terça,Sim,Sim,Antônio João,Palmeiras Barra Funda,Não,4,9.0,0.0
+878,Quinta,Sim,Sim,Itapevi,Palmeiras Barra Funda,Sim,5,10.0,0.0
+879,Sábado,Sim,Sim,Itapevi,Itapevi,Não,4,15.0,0.0
+880,Domingo,Sim,Sim,Antônio João,Itapevi,Sim,4,12.0,0.0
+881,Sábado,Não,Sim,Amador Bueno,Itapevi,Não,2,3.0,0.0
+882,Quinta,Não,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,1,7.0,0.0
+883,Sábado,Não,Sim,Gen. Miguel Costa,Itapevi,Sim,3,7.0,0.0
+884,Terça,Sim,Sim,Itapevi,Itapevi,Sim,3,11.0,0.0
+885,Sexta,Sim,Sim,Com. Sampaio,Itapevi,Não,4,10.0,0.0
+886,Quarta,Não,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,3,3.0,0.0
+887,Domingo,Não,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Sim,3,4.0,0.0
+888,Segunda,Sim,Não,Com. Sampaio,Palmeiras Barra Funda,Sim,5,9.0,0.0
+889,Quinta,Sim,Sim,Antônio João,Itapevi,Não,5,10.0,0.0
+890,Domingo,Sim,Sim,Domingo de Moraes,Itapevi,Sim,5,14.0,0.0
+891,Quarta,Não,Sim,Palmeiras Barra Funda,Palmeiras Barra Funda,Sim,2,3.0,0.0
+892,Segunda,Sim,Não,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,5,12.0,0.0
+893,Domingo,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,4,10.0,0.0
+894,Quinta,Sim,Sim,Jandira,Palmeiras Barra Funda,Não,5,15.0,0.0
+895,Domingo,Sim,Sim,Eng. Cardoso,Itapevi,Sim,4,11.0,0.0
+896,Domingo,Sim,Sim,Jardim Silveira,Itapevi,Sim,4,11.0,0.0
+897,Quarta,Sim,Sim,Sagrado Coração,Itapevi,Não,5,14.0,0.0
+898,Sexta,Sim,Sim,Barueri,Palmeiras Barra Funda,Sim,5,9.0,0.0
+899,Sábado,Sim,Sim,Carapicuíba,Itapevi,Não,3,13.0,0.0
+900,Quarta,Sim,Sim,Pres. Altino,Itapevi,Não,5,14.0,0.0
+901,Quinta,Sim,Sim,Antônio João,Itapevi,Sim,5,10.0,0.0
+902,Sábado,Sim,Sim,Eng. Cardoso,Itapevi,Não,4,11.0,0.0
+903,Domingo,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,5,14.0,0.0
+904,Quinta,Não,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,1,7.0,0.0
+905,Sexta,Sim,Sim,Quitaúna,Itapevi,Não,3,15.0,0.0
+906,Segunda,Sim,Não,Antônio João,Palmeiras Barra Funda,Sim,5,10.0,0.0
+907,Sexta,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,3,11.0,0.0
+908,Sábado,Sim,Não,Antônio João,Palmeiras Barra Funda,Não,3,15.0,0.0
+909,Sábado,Sim,Sim,Quitaúna,Itapevi,Não,5,13.0,0.0
+910,Terça,Não,Não,Barueri,Itapevi,Não,3,8.0,0.0
+911,Quinta,Sim,Não,Palmeiras Barra Funda,Palmeiras Barra Funda,Não,3,10.0,0.0
+912,Segunda,Não,Não,Sagrado Coração,Itapevi,Não,3,8.0,0.0
+913,Segunda,Não,Sim,Amador Bueno,Itapevi,Não,3,4.0,0.0
+914,Segunda,Sim,Sim,Antônio João,Palmeiras Barra Funda,Não,5,9.0,0.0
+915,Segunda,Sim,Não,Osasco,Palmeiras Barra Funda,Não,3,13.0,0.0
+916,Sexta,Sim,Não,Quitaúna,Palmeiras Barra Funda,Sim,5,15.0,0.0
+917,Quinta,Não,Não,Jandira,Itapevi,Não,2,4.0,0.0
+918,Domingo,Sim,Sim,Sagrado Coração,Itapevi,Não,5,9.0,0.0
+919,Sábado,Não,Não,Jardim Silveira,Palmeiras Barra Funda,Não,3,4.0,0.0
+920,Sábado,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,5,10.0,0.0
+921,Domingo,Sim,Sim,Jardim Belval,Itapevi,Sim,4,11.0,0.0
+922,Domingo,Sim,Não,Sagrado Coração,Palmeiras Barra Funda,Não,5,15.0,0.0
+923,Quinta,Sim,Não,Osasco,Palmeiras Barra Funda,Não,5,10.0,0.0
+924,Sábado,Sim,Não,Barueri,Itapevi,Não,3,13.0,0.0
+925,Terça,Sim,Sim,Domingo de Moraes,Itapevi,Não,3,15.0,0.0
+926,Sábado,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Sim,4,12.0,0.0
+927,Segunda,Sim,Sim,Eng. Cardoso,Palmeiras Barra Funda,Sim,3,9.0,0.0
+928,Quarta,Sim,Sim,Lapa,Itapevi,Não,4,13.0,0.0
+929,Domingo,Sim,Não,Osasco,Itapevi,Não,4,15.0,0.0
+930,Quarta,Sim,Sim,Jardim Belval,Itapevi,Sim,4,15.0,0.0
+931,Sexta,Sim,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,5,14.0,0.0
+932,Terça,Não,Sim,Domingo de Moraes,Palmeiras Barra Funda,Não,1,5.0,0.0
+933,Segunda,Sim,Sim,Imperatriz Leopoldina,Palmeiras Barra Funda,Não,5,12.0,0.0
+934,Sexta,Não,Sim,Domingo de Moraes,Itapevi,Não,2,4.0,0.0
+935,Segunda,Não,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,2,3.0,0.0
+936,Domingo,Sim,Não,Osasco,Itapevi,Não,5,11.0,0.0
+937,Domingo,Não,Não,Palmeiras Barra Funda,Itapevi,Sim,2,8.0,0.0
+938,Segunda,Sim,Sim,Jardim Belval,Palmeiras Barra Funda,Sim,4,10.0,0.0
+939,Terça,Sim,Sim,Lapa,Palmeiras Barra Funda,Não,3,11.0,0.0
+940,Sábado,Não,Sim,Jandira,Palmeiras Barra Funda,Não,3,7.0,0.0
+941,Terça,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,5,14.0,0.0
+942,Terça,Sim,Sim,Quitaúna,Palmeiras Barra Funda,Não,5,14.0,0.0
+943,Segunda,Não,Sim,Quitaúna,Itapevi,Não,1,7.0,0.0
+944,Segunda,Sim,Sim,Jandira,Palmeiras Barra Funda,Sim,3,13.0,0.0
+945,Domingo,Sim,Não,Antônio João,Palmeiras Barra Funda,Não,4,11.0,0.0
+946,Segunda,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,4,9.0,0.0
+947,Quarta,Sim,Sim,Júlio Prestes,Itapevi,Sim,3,12.0,0.0
+948,Domingo,Sim,Sim,Gen. Miguel Costa,Itapevi,Não,4,9.0,0.0
+949,Quinta,Sim,Sim,Domingo de Moraes,Itapevi,Não,4,13.0,0.0
+950,Quinta,Sim,Sim,Santa Rita,Palmeiras Barra Funda,Não,3,10.0,0.0
+951,Domingo,Sim,Sim,Amador Bueno,Itapevi,Sim,5,10.0,0.0
+952,Quarta,Não,Sim,Júlio Prestes,Itapevi,Não,3,7.0,0.0
+953,Quinta,Não,Sim,Gen. Miguel Costa,Palmeiras Barra Funda,Não,1,3.0,0.0
+954,Quarta,Não,Não,Quitaúna,Itapevi,Não,3,6.0,0.0
+955,Terça,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,4,9.0,0.0
+956,Quinta,Sim,Sim,Osasco,Itapevi,Sim,5,10.0,0.0
+957,Domingo,Não,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,3,3.0,0.0
+958,Domingo,Sim,Sim,Jardim Belval,Palmeiras Barra Funda,Não,4,10.0,0.0
+959,Sábado,Sim,Sim,Jandira,Itapevi,Não,4,13.0,0.0
+960,Quarta,Sim,Sim,Itapevi,Itapevi,Não,4,11.0,0.0
+961,Quarta,Não,Não,Palmeiras Barra Funda,Itapevi,Não,2,6.0,0.0
+962,Sábado,Sim,Sim,Barueri,Palmeiras Barra Funda,Não,5,9.0,0.0
+963,Quarta,Sim,Sim,Jardim Silveira,Itapevi,Não,3,10.0,0.0
+964,Sexta,Sim,Sim,Itapevi,Itapevi,Não,4,11.0,0.0
+965,Quarta,Não,Sim,Carapicuíba,Palmeiras Barra Funda,Não,1,3.0,0.0
+966,Terça,Não,Sim,Imperatriz Leopoldina,Itapevi,Não,1,3.0,0.0
+967,Quinta,Não,Sim,Júlio Prestes,Itapevi,Não,1,4.0,0.0
+968,Terça,Sim,Não,Itapevi,Itapevi,Não,5,11.0,0.0
+969,Sexta,Não,Sim,Carapicuíba,Itapevi,Não,3,8.0,0.0
+970,Quinta,Sim,Não,Palmeiras Barra Funda,Itapevi,Não,5,11.0,0.0
+971,Quarta,Não,Não,Domingo de Moraes,Palmeiras Barra Funda,Não,1,6.0,0.0
+972,Quarta,Sim,Não,Sagrado Coração,Itapevi,Não,5,12.0,0.0
+973,Segunda,Não,Não,Imperatriz Leopoldina,Itapevi,Não,2,7.0,0.0
+974,Quarta,Não,Sim,Lapa,Itapevi,Sim,3,5.0,0.0
+975,Sexta,Sim,Não,Gen. Miguel Costa,Itapevi,Não,3,15.0,0.0
+976,Sábado,Sim,Sim,Antônio João,Itapevi,Não,3,12.0,0.0
+977,Sábado,Não,Não,Quitaúna,Itapevi,Não,2,3.0,0.0
+978,Quinta,Sim,Não,Jandira,Palmeiras Barra Funda,Não,4,14.0,0.0
+979,Sábado,Não,Sim,Sagrado Coração,Itapevi,Não,2,3.0,0.0
+980,Domingo,Não,Sim,Com. Sampaio,Palmeiras Barra Funda,Não,2,4.0,0.0
+981,Segunda,Não,Sim,Carapicuíba,Palmeiras Barra Funda,Não,3,8.0,0.0
+982,Quarta,Sim,Sim,Carapicuíba,Palmeiras Barra Funda,Não,5,10.0,0.0
+983,Sábado,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,3,13.0,0.0
+984,Domingo,Sim,Não,Santa Rita,Itapevi,Não,5,12.0,0.0
+985,Segunda,Sim,Sim,Jardim Silveira,Itapevi,Sim,5,14.0,0.0
+986,Terça,Não,Sim,Santa Terezinha,Itapevi,Não,3,5.0,0.0
+987,Sexta,Sim,Sim,Barueri,Itapevi,Não,4,11.0,0.0
+988,Terça,Sim,Sim,Com. Sampaio,Itapevi,Não,4,9.0,0.0
+989,Quarta,Sim,Sim,Osasco,Palmeiras Barra Funda,Não,3,12.0,0.0
+990,Quinta,Sim,Não,Pres. Altino,Itapevi,Sim,5,11.0,0.0
+991,Quarta,Não,Sim,Júlio Prestes,Palmeiras Barra Funda,Não,3,8.0,0.0
+992,Sábado,Sim,Sim,Júlio Prestes,Itapevi,Não,5,15.0,0.0
+993,Terça,Sim,Sim,Barueri,Palmeiras Barra Funda,Sim,4,11.0,0.0
+994,Sábado,Sim,Sim,Sagrado Coração,Palmeiras Barra Funda,Não,4,13.0,0.0
+995,Quinta,Sim,Sim,Itapevi,Palmeiras Barra Funda,Não,4,12.0,0.0
+996,Segunda,Sim,Não,Jardim Belval,Palmeiras Barra Funda,Sim,3,10.0,0.0
+997,Sexta,Sim,Sim,Com. Sampaio,Itapevi,Não,3,9.0,0.0
+998,Quarta,Sim,Não,Eng. Cardoso,Itapevi,Sim,5,9.0,0.0
+999,Domingo,Sim,Não,Júlio Prestes,Palmeiras Barra Funda,Não,5,13.0,0.0
+1000,Terça,Sim,Sim,Santa Terezinha,Palmeiras Barra Funda,Não,4,15.0,0.0
+1001,Domingo,Sim,Sim,Osasco,Osasco,Não,4,0.0,9.0
+1002,Quinta,Sim,Sim,Pres. Altino,Osasco,Sim,5,0.0,15.0
+1003,Domingo,Não,Sim,Autódromo,Grajaú,Não,2,0.0,5.0
+1004,Domingo,Não,Sim,Mendes Vila Natal,Osasco,Não,1,0.0,8.0
+1005,Quarta,Sim,Sim,Grajau,Grajaú,Não,5,0.0,10.0
+1006,Sábado,Sim,Sim,Grajau,Osasco,Não,5,0.0,13.0
+1007,Quinta,Não,Sim,Santo Amaro,Osasco,Sim,3,0.0,5.0
+1008,Terça,Sim,Sim,Cidade Universitária,Osasco,Não,3,0.0,14.0
+1009,Segunda,Não,Sim,Ceasa,Grajaú,Não,3,0.0,4.0
+1010,Sexta,Sim,Sim,Osasco,Grajaú,Não,5,0.0,15.0
+1011,Quarta,Sim,Sim,Cidade Jardim,Grajaú,Sim,5,0.0,13.0
+1012,Segunda,Sim,Não,Pinheiros,Grajaú,Não,4,0.0,9.0
+1013,Quarta,Sim,Sim,Pinheiros,Grajaú,Não,5,0.0,11.0
+1014,Sexta,Sim,Não,Jurubatuba,Grajaú,Não,4,0.0,10.0
+1015,Domingo,Não,Sim,Hebraica Rebouças,Grajaú,Não,2,0.0,7.0
+1016,Terça,Sim,Sim,Osasco,Osasco,Não,4,0.0,10.0
+1017,Terça,Sim,Sim,Pres. Altino,Osasco,Não,4,0.0,13.0
+1018,Sexta,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,5,0.0,10.0
+1019,Sexta,Sim,Sim,Granja Julieta,Grajaú,Não,5,0.0,10.0
+1020,Sábado,Não,Sim,Ceasa,Grajaú,Sim,1,0.0,8.0
+1021,Quarta,Não,Sim,Socorro,Osasco,Não,1,0.0,3.0
+1022,Terça,Não,Sim,Cidade Jardim,Osasco,Não,1,0.0,3.0
+1023,Domingo,Sim,Sim,Autódromo,Grajaú,Não,4,0.0,15.0
+1024,Terça,Sim,Sim,Berrini,Grajaú,Sim,4,0.0,15.0
+1025,Sexta,Sim,Sim,Ceasa,Osasco,Não,5,0.0,13.0
+1026,Terça,Sim,Sim,Jurubatuba,Grajaú,Não,4,0.0,10.0
+1027,Segunda,Não,Não,Cidade Jardim,Grajaú,Não,2,0.0,7.0
+1028,Sábado,Sim,Sim,João Dias,Grajaú,Sim,4,0.0,9.0
+1029,Terça,Não,Sim,Santo Amaro,Grajaú,Não,3,0.0,5.0
+1030,Quarta,Não,Não,Jurubatuba,Osasco,Sim,3,0.0,6.0
+1031,Sexta,Sim,Não,Autódromo,Osasco,Não,4,0.0,11.0
+1032,Terça,Não,Não,Grajau,Osasco,Não,3,0.0,5.0
+1033,Domingo,Sim,Sim,Vila Olímpia,Osasco,Sim,5,0.0,12.0
+1034,Quarta,Sim,Sim,Hebraica Rebouças,Grajaú,Não,5,0.0,14.0
+1035,Quinta,Sim,Sim,Grajau,Grajaú,Não,4,0.0,10.0
+1036,Domingo,Sim,Sim,Cidade Universitária,Osasco,Não,4,0.0,14.0
+1037,Domingo,Não,Sim,Granja Julieta,Grajaú,Não,2,0.0,6.0
+1038,Domingo,Sim,Sim,Vila Olímpia,Grajaú,Não,4,0.0,14.0
+1039,Sábado,Não,Sim,Osasco,Osasco,Não,3,0.0,4.0
+1040,Segunda,Não,Sim,Villa-Lobos Jaguaré,Osasco,Não,3,0.0,8.0
+1041,Quarta,Sim,Sim,Santo Amaro,Osasco,Não,4,0.0,13.0
+1042,Quinta,Sim,Não,João Dias,Grajaú,Não,5,0.0,12.0
+1043,Terça,Sim,Não,Villa-Lobos Jaguaré,Osasco,Sim,3,0.0,10.0
+1044,Quinta,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,4,0.0,14.0
+1045,Quarta,Sim,Sim,Socorro,Osasco,Sim,4,0.0,11.0
+1046,Quinta,Sim,Sim,Autódromo,Grajaú,Não,4,0.0,15.0
+1047,Domingo,Sim,Sim,Ceasa,Osasco,Não,4,0.0,12.0
+1048,Terça,Não,Não,Hebraica Rebouças,Grajaú,Sim,1,0.0,8.0
+1049,Segunda,Sim,Não,Pinheiros,Osasco,Não,4,0.0,15.0
+1050,Sábado,Sim,Sim,Primavera Interlagos,Grajaú,Sim,3,0.0,10.0
+1051,Quarta,Não,Não,Morumbi,Grajaú,Não,3,0.0,4.0
+1052,Quinta,Sim,Sim,Osasco,Osasco,Não,4,0.0,10.0
+1053,Quarta,Não,Não,Pres. Altino,Grajaú,Não,1,0.0,7.0
+1054,Segunda,Não,Sim,Berrini,Osasco,Não,1,0.0,3.0
+1055,Quarta,Não,Sim,Cidade Jardim,Grajaú,Sim,3,0.0,8.0
+1056,Sexta,Sim,Sim,Granja Julieta,Grajaú,Sim,3,0.0,9.0
+1057,Sábado,Sim,Sim,Grajau,Osasco,Sim,3,0.0,13.0
+1058,Quarta,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,9.0
+1059,Sexta,Sim,Sim,Cidade Jardim,Grajaú,Não,5,0.0,14.0
+1060,Domingo,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,3,0.0,14.0
+1061,Segunda,Sim,Sim,Santo Amaro,Osasco,Não,4,0.0,14.0
+1062,Sábado,Sim,Não,Cidade Universitária,Grajaú,Não,4,0.0,11.0
+1063,Segunda,Sim,Sim,Osasco,Grajaú,Não,5,0.0,10.0
+1064,Terça,Sim,Sim,João Dias,Grajaú,Não,4,0.0,10.0
+1065,Segunda,Sim,Não,Vila Olímpia,Grajaú,Não,5,0.0,9.0
+1066,Quinta,Sim,Não,Osasco,Osasco,Sim,4,0.0,13.0
+1067,Quarta,Sim,Sim,Pinheiros,Grajaú,Não,4,0.0,10.0
+1068,Quinta,Sim,Não,Villa-Lobos Jaguaré,Osasco,Não,5,0.0,13.0
+1069,Segunda,Sim,Sim,Morumbi,Grajaú,Não,5,0.0,12.0
+1070,Sexta,Sim,Sim,Pinheiros,Grajaú,Sim,4,0.0,13.0
+1071,Sexta,Não,Sim,Socorro,Grajaú,Não,2,0.0,7.0
+1072,Quinta,Sim,Sim,Mendes Vila Natal,Grajaú,Não,4,0.0,15.0
+1073,Quinta,Sim,Sim,Primavera Interlagos,Grajaú,Não,4,0.0,12.0
+1074,Terça,Sim,Sim,Pres. Altino,Grajaú,Não,4,0.0,10.0
+1075,Segunda,Sim,Sim,João Dias,Osasco,Não,5,0.0,11.0
+1076,Quinta,Sim,Sim,Morumbi,Osasco,Não,5,0.0,13.0
+1077,Segunda,Sim,Sim,Vila Olímpia,Grajaú,Sim,3,0.0,14.0
+1078,Segunda,Não,Sim,Osasco,Grajaú,Não,1,0.0,5.0
+1079,Sexta,Sim,Não,Autódromo,Grajaú,Sim,5,0.0,9.0
+1080,Domingo,Não,Sim,Vila Olímpia,Grajaú,Não,3,0.0,7.0
+1081,Quarta,Não,Sim,Primavera Interlagos,Grajaú,Não,1,0.0,7.0
+1082,Terça,Sim,Sim,João Dias,Grajaú,Sim,4,0.0,9.0
+1083,Terça,Sim,Sim,Socorro,Osasco,Sim,4,0.0,11.0
+1084,Sexta,Sim,Sim,Berrini,Grajaú,Sim,4,0.0,9.0
+1085,Segunda,Sim,Não,Granja Julieta,Grajaú,Não,4,0.0,12.0
+1086,Terça,Sim,Sim,Autódromo,Grajaú,Não,5,0.0,10.0
+1087,Quarta,Sim,Sim,Osasco,Grajaú,Sim,4,0.0,14.0
+1088,Quinta,Não,Não,Cidade Universitária,Osasco,Não,2,0.0,7.0
+1089,Sábado,Sim,Não,Hebraica Rebouças,Grajaú,Não,4,0.0,11.0
+1090,Domingo,Não,Sim,Ceasa,Grajaú,Não,3,0.0,4.0
+1091,Terça,Não,Sim,Jurubatuba,Osasco,Não,3,0.0,5.0
+1092,Quinta,Sim,Sim,Cidade Jardim,Osasco,Não,3,0.0,11.0
+1093,Segunda,Sim,Sim,Osasco,Grajaú,Não,5,0.0,11.0
+1094,Sábado,Não,Sim,Hebraica Rebouças,Osasco,Não,2,0.0,4.0
+1095,Segunda,Não,Sim,João Dias,Grajaú,Não,3,0.0,8.0
+1096,Quinta,Não,Sim,Santo Amaro,Osasco,Não,3,0.0,5.0
+1097,Quarta,Sim,Sim,Socorro,Osasco,Não,4,0.0,15.0
+1098,Terça,Não,Sim,Hebraica Rebouças,Grajaú,Não,1,0.0,4.0
+1099,Domingo,Sim,Sim,Grajau,Osasco,Não,5,0.0,12.0
+1100,Terça,Sim,Não,Hebraica Rebouças,Osasco,Sim,4,0.0,13.0
+1101,Terça,Sim,Sim,Hebraica Rebouças,Grajaú,Não,4,0.0,9.0
+1102,Sexta,Sim,Não,Ceasa,Osasco,Não,3,0.0,14.0
+1103,Domingo,Sim,Sim,João Dias,Grajaú,Não,5,0.0,10.0
+1104,Quinta,Sim,Não,Pinheiros,Osasco,Não,5,0.0,9.0
+1105,Quinta,Não,Sim,Socorro,Osasco,Não,3,0.0,6.0
+1106,Segunda,Sim,Sim,Jurubatuba,Grajaú,Não,4,0.0,13.0
+1107,Domingo,Sim,Sim,Primavera Interlagos,Osasco,Não,3,0.0,12.0
+1108,Sábado,Sim,Sim,Jurubatuba,Osasco,Não,3,0.0,15.0
+1109,Quinta,Sim,Não,Villa-Lobos Jaguaré,Grajaú,Sim,4,0.0,9.0
+1110,Quinta,Sim,Sim,Ceasa,Grajaú,Não,3,0.0,15.0
+1111,Quarta,Sim,Não,Cidade Universitária,Osasco,Não,4,0.0,13.0
+1112,Quinta,Sim,Não,Granja Julieta,Grajaú,Não,4,0.0,13.0
+1113,Quinta,Sim,Sim,Vila Olímpia,Osasco,Não,4,0.0,13.0
+1114,Terça,Sim,Sim,Granja Julieta,Osasco,Não,3,0.0,12.0
+1115,Sábado,Não,Não,Primavera Interlagos,Osasco,Sim,2,0.0,7.0
+1116,Quarta,Não,Sim,Hebraica Rebouças,Grajaú,Não,3,0.0,4.0
+1117,Sexta,Sim,Sim,Jurubatuba,Osasco,Não,5,0.0,9.0
+1118,Segunda,Sim,Sim,Socorro,Osasco,Não,4,0.0,15.0
+1119,Domingo,Sim,Sim,Vila Olímpia,Osasco,Não,5,0.0,10.0
+1120,Quinta,Sim,Sim,Ceasa,Grajaú,Não,5,0.0,11.0
+1121,Segunda,Sim,Sim,Vila Olímpia,Osasco,Não,5,0.0,9.0
+1122,Quinta,Não,Sim,Pres. Altino,Osasco,Não,3,0.0,4.0
+1123,Quarta,Sim,Sim,Ceasa,Osasco,Sim,3,0.0,15.0
+1124,Terça,Não,Não,Pres. Altino,Osasco,Não,1,0.0,4.0
+1125,Sábado,Não,Sim,Primavera Interlagos,Osasco,Não,1,0.0,8.0
+1126,Sexta,Sim,Sim,João Dias,Grajaú,Não,5,0.0,14.0
+1127,Segunda,Sim,Sim,Berrini,Grajaú,Não,3,0.0,9.0
+1128,Quarta,Não,Sim,Morumbi,Grajaú,Não,2,0.0,3.0
+1129,Quarta,Sim,Não,Socorro,Osasco,Não,3,0.0,12.0
+1130,Domingo,Não,Sim,Morumbi,Osasco,Não,2,0.0,4.0
+1131,Sábado,Sim,Sim,João Dias,Osasco,Não,4,0.0,15.0
+1132,Sexta,Sim,Sim,Grajau,Grajaú,Não,5,0.0,9.0
+1133,Segunda,Não,Sim,Cidade Universitária,Osasco,Não,1,0.0,6.0
+1134,Sábado,Não,Sim,João Dias,Grajaú,Não,1,0.0,3.0
+1135,Quarta,Sim,Sim,Cidade Universitária,Osasco,Não,5,0.0,10.0
+1136,Sábado,Não,Sim,Grajau,Osasco,Não,2,0.0,7.0
+1137,Domingo,Sim,Sim,Mendes Vila Natal,Grajaú,Não,4,0.0,15.0
+1138,Segunda,Sim,Não,Hebraica Rebouças,Grajaú,Não,3,0.0,15.0
+1139,Sábado,Sim,Sim,Berrini,Osasco,Não,4,0.0,15.0
+1140,Terça,Sim,Sim,Santo Amaro,Grajaú,Não,5,0.0,14.0
+1141,Domingo,Sim,Sim,Mendes Vila Natal,Osasco,Não,5,0.0,9.0
+1142,Quarta,Sim,Sim,Osasco,Osasco,Não,4,0.0,15.0
+1143,Quinta,Não,Sim,Hebraica Rebouças,Grajaú,Não,2,0.0,3.0
+1144,Sábado,Sim,Sim,Hebraica Rebouças,Grajaú,Não,3,0.0,9.0
+1145,Segunda,Sim,Sim,Grajau,Osasco,Sim,5,0.0,14.0
+1146,Domingo,Não,Sim,Santo Amaro,Osasco,Não,2,0.0,4.0
+1147,Segunda,Não,Não,Berrini,Osasco,Não,3,0.0,7.0
+1148,Terça,Sim,Sim,Hebraica Rebouças,Osasco,Não,4,0.0,15.0
+1149,Domingo,Sim,Sim,Socorro,Grajaú,Sim,5,0.0,14.0
+1150,Quarta,Sim,Não,Autódromo,Grajaú,Não,5,0.0,12.0
+1151,Terça,Sim,Sim,Hebraica Rebouças,Osasco,Sim,5,0.0,14.0
+1152,Segunda,Sim,Sim,Pinheiros,Grajaú,Não,4,0.0,13.0
+1153,Sábado,Sim,Sim,Granja Julieta,Osasco,Sim,3,0.0,13.0
+1154,Sábado,Não,Sim,Primavera Interlagos,Grajaú,Não,2,0.0,6.0
+1155,Quinta,Não,Sim,João Dias,Osasco,Não,2,0.0,6.0
+1156,Quarta,Não,Sim,Santo Amaro,Osasco,Não,2,0.0,8.0
+1157,Segunda,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Sim,3,0.0,12.0
+1158,Domingo,Sim,Sim,Pinheiros,Osasco,Não,5,0.0,13.0
+1159,Terça,Não,Sim,Villa-Lobos Jaguaré,Osasco,Não,1,0.0,3.0
+1160,Quinta,Não,Sim,Morumbi,Grajaú,Não,3,0.0,7.0
+1161,Sábado,Sim,Não,Osasco,Osasco,Não,5,0.0,15.0
+1162,Domingo,Não,Sim,Granja Julieta,Osasco,Não,1,0.0,4.0
+1163,Domingo,Sim,Sim,Vila Olímpia,Osasco,Sim,5,0.0,14.0
+1164,Sábado,Sim,Não,Pinheiros,Grajaú,Não,4,0.0,12.0
+1165,Sábado,Sim,Sim,João Dias,Grajaú,Não,5,0.0,13.0
+1166,Segunda,Sim,Sim,Pinheiros,Grajaú,Não,3,0.0,13.0
+1167,Terça,Sim,Não,Granja Julieta,Osasco,Não,5,0.0,13.0
+1168,Domingo,Não,Sim,Pinheiros,Grajaú,Sim,2,0.0,4.0
+1169,Segunda,Sim,Sim,Osasco,Grajaú,Não,4,0.0,12.0
+1170,Terça,Sim,Sim,Jurubatuba,Grajaú,Não,4,0.0,13.0
+1171,Domingo,Sim,Sim,Cidade Jardim,Grajaú,Não,5,0.0,13.0
+1172,Terça,Sim,Sim,Pres. Altino,Grajaú,Não,4,0.0,15.0
+1173,Quinta,Não,Sim,Ceasa,Osasco,Não,2,0.0,3.0
+1174,Domingo,Sim,Não,Grajau,Grajaú,Sim,4,0.0,15.0
+1175,Terça,Não,Sim,Granja Julieta,Grajaú,Não,3,0.0,8.0
+1176,Quarta,Não,Sim,Cidade Universitária,Grajaú,Não,1,0.0,5.0
+1177,Quarta,Sim,Sim,Grajau,Osasco,Não,5,0.0,9.0
+1178,Sexta,Sim,Sim,João Dias,Grajaú,Não,5,0.0,12.0
+1179,Domingo,Sim,Sim,Primavera Interlagos,Grajaú,Não,5,0.0,11.0
+1180,Terça,Sim,Sim,Osasco,Grajaú,Sim,5,0.0,11.0
+1181,Segunda,Sim,Sim,Pinheiros,Osasco,Sim,5,0.0,9.0
+1182,Segunda,Sim,Sim,Pres. Altino,Grajaú,Sim,5,0.0,14.0
+1183,Sábado,Sim,Sim,Osasco,Osasco,Não,4,0.0,13.0
+1184,Sábado,Sim,Sim,Berrini,Osasco,Não,5,0.0,9.0
+1185,Domingo,Sim,Não,Vila Olímpia,Grajaú,Sim,5,0.0,15.0
+1186,Segunda,Sim,Sim,Hebraica Rebouças,Osasco,Não,5,0.0,12.0
+1187,Segunda,Sim,Sim,Primavera Interlagos,Grajaú,Não,3,0.0,9.0
+1188,Domingo,Não,Sim,Berrini,Grajaú,Sim,2,0.0,7.0
+1189,Segunda,Sim,Sim,Grajau,Grajaú,Não,3,0.0,15.0
+1190,Domingo,Sim,Sim,Socorro,Osasco,Não,5,0.0,15.0
+1191,Sábado,Não,Sim,Ceasa,Osasco,Não,2,0.0,5.0
+1192,Quinta,Não,Sim,Villa-Lobos Jaguaré,Grajaú,Não,1,0.0,3.0
+1193,Terça,Sim,Não,Pinheiros,Grajaú,Sim,4,0.0,14.0
+1194,Terça,Não,Sim,Socorro,Osasco,Não,2,0.0,5.0
+1195,Segunda,Sim,Não,Villa-Lobos Jaguaré,Grajaú,Não,4,0.0,11.0
+1196,Quarta,Não,Não,Morumbi,Grajaú,Não,3,0.0,4.0
+1197,Terça,Sim,Sim,Grajau,Grajaú,Não,4,0.0,13.0
+1198,Sexta,Sim,Sim,Pinheiros,Grajaú,Não,4,0.0,14.0
+1199,Segunda,Não,Sim,Cidade Jardim,Osasco,Não,2,0.0,3.0
+1200,Sábado,Sim,Sim,Grajau,Grajaú,Sim,5,0.0,13.0
+1201,Terça,Sim,Sim,Grajau,Osasco,Sim,4,0.0,15.0
+1202,Quarta,Não,Sim,Berrini,Grajaú,Não,2,0.0,6.0
+1203,Domingo,Sim,Não,Cidade Jardim,Osasco,Não,5,0.0,12.0
+1204,Domingo,Sim,Sim,Primavera Interlagos,Osasco,Não,4,0.0,12.0
+1205,Domingo,Não,Não,Hebraica Rebouças,Osasco,Não,2,0.0,7.0
+1206,Sexta,Sim,Sim,Morumbi,Osasco,Não,4,0.0,12.0
+1207,Domingo,Sim,Sim,Primavera Interlagos,Osasco,Não,5,0.0,10.0
+1208,Quinta,Sim,Sim,Vila Olímpia,Grajaú,Não,5,0.0,12.0
+1209,Quinta,Sim,Sim,Pinheiros,Osasco,Sim,5,0.0,10.0
+1210,Domingo,Sim,Sim,Autódromo,Grajaú,Não,5,0.0,14.0
+1211,Quinta,Sim,Sim,Cidade Jardim,Osasco,Sim,5,0.0,12.0
+1212,Domingo,Não,Não,Jurubatuba,Grajaú,Não,2,0.0,6.0
+1213,Terça,Sim,Sim,Pinheiros,Osasco,Sim,5,0.0,9.0
+1214,Quarta,Sim,Sim,Jurubatuba,Grajaú,Não,5,0.0,14.0
+1215,Terça,Sim,Sim,Cidade Universitária,Grajaú,Não,5,0.0,11.0
+1216,Sexta,Não,Sim,Santo Amaro,Grajaú,Não,2,0.0,8.0
+1217,Terça,Sim,Sim,Mendes Vila Natal,Grajaú,Não,4,0.0,13.0
+1218,Quinta,Não,Não,Socorro,Grajaú,Sim,1,0.0,3.0
+1219,Sábado,Sim,Sim,Socorro,Osasco,Sim,5,0.0,14.0
+1220,Sábado,Não,Sim,Berrini,Grajaú,Não,2,0.0,4.0
+1221,Quinta,Sim,Sim,Primavera Interlagos,Grajaú,Sim,4,0.0,9.0
+1222,Quarta,Sim,Sim,Cidade Universitária,Grajaú,Não,5,0.0,14.0
+1223,Segunda,Não,Não,Hebraica Rebouças,Grajaú,Não,2,0.0,8.0
+1224,Terça,Sim,Sim,Primavera Interlagos,Osasco,Não,4,0.0,13.0
+1225,Quarta,Sim,Sim,Primavera Interlagos,Grajaú,Não,4,0.0,13.0
+1226,Quarta,Não,Sim,Mendes Vila Natal,Grajaú,Não,2,0.0,3.0
+1227,Quarta,Não,Sim,João Dias,Grajaú,Sim,2,0.0,3.0
+1228,Sexta,Não,Sim,Jurubatuba,Osasco,Não,2,0.0,8.0
+1229,Quarta,Sim,Sim,Vila Olímpia,Grajaú,Não,5,0.0,12.0
+1230,Quarta,Sim,Não,Osasco,Grajaú,Não,5,0.0,15.0
+1231,Quinta,Sim,Sim,Vila Olímpia,Grajaú,Não,5,0.0,10.0
+1232,Segunda,Sim,Sim,Berrini,Osasco,Não,4,0.0,12.0
+1233,Quarta,Sim,Sim,Jurubatuba,Grajaú,Não,5,0.0,10.0
+1234,Quarta,Não,Sim,Cidade Universitária,Grajaú,Sim,2,0.0,3.0
+1235,Segunda,Sim,Sim,Morumbi,Osasco,Não,4,0.0,13.0
+1236,Sábado,Sim,Sim,Mendes Vila Natal,Osasco,Não,5,0.0,15.0
+1237,Domingo,Sim,Sim,Primavera Interlagos,Osasco,Não,5,0.0,9.0
+1238,Sábado,Sim,Sim,João Dias,Osasco,Sim,5,0.0,13.0
+1239,Segunda,Sim,Não,Grajau,Grajaú,Não,3,0.0,9.0
+1240,Quarta,Sim,Sim,Mendes Vila Natal,Grajaú,Não,3,0.0,13.0
+1241,Segunda,Não,Não,Autódromo,Osasco,Não,2,0.0,5.0
+1242,Quinta,Sim,Sim,Ceasa,Grajaú,Sim,5,0.0,14.0
+1243,Sexta,Sim,Sim,Jurubatuba,Osasco,Sim,4,0.0,13.0
+1244,Quarta,Sim,Sim,Granja Julieta,Osasco,Não,4,0.0,9.0
+1245,Terça,Sim,Sim,Cidade Universitária,Grajaú,Não,4,0.0,11.0
+1246,Segunda,Sim,Sim,Grajau,Grajaú,Não,5,0.0,15.0
+1247,Sábado,Sim,Sim,Socorro,Grajaú,Não,5,0.0,15.0
+1248,Quinta,Sim,Sim,Berrini,Osasco,Não,4,0.0,12.0
+1249,Quinta,Não,Não,Hebraica Rebouças,Osasco,Sim,3,0.0,5.0
+1250,Quarta,Sim,Sim,Morumbi,Osasco,Não,5,0.0,11.0
+1251,Quarta,Não,Sim,Socorro,Grajaú,Não,1,0.0,8.0
+1252,Domingo,Sim,Sim,Granja Julieta,Osasco,Não,5,0.0,13.0
+1253,Domingo,Sim,Sim,Primavera Interlagos,Grajaú,Não,3,0.0,15.0
+1254,Quinta,Sim,Sim,Santo Amaro,Grajaú,Não,5,0.0,10.0
+1255,Terça,Sim,Não,Osasco,Osasco,Sim,3,0.0,10.0
+1256,Quinta,Sim,Sim,Pinheiros,Osasco,Não,3,0.0,14.0
+1257,Quinta,Não,Não,Santo Amaro,Grajaú,Não,2,0.0,6.0
+1258,Domingo,Sim,Não,Morumbi,Osasco,Não,4,0.0,10.0
+1259,Quarta,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Sim,5,0.0,10.0
+1260,Sábado,Sim,Não,Cidade Jardim,Grajaú,Não,4,0.0,12.0
+1261,Segunda,Sim,Sim,Cidade Jardim,Osasco,Não,5,0.0,9.0
+1262,Terça,Sim,Sim,Pinheiros,Grajaú,Não,5,0.0,14.0
+1263,Sexta,Não,Sim,Ceasa,Grajaú,Sim,1,0.0,5.0
+1264,Terça,Sim,Sim,Hebraica Rebouças,Grajaú,Não,5,0.0,13.0
+1265,Domingo,Sim,Sim,Jurubatuba,Grajaú,Não,3,0.0,14.0
+1266,Domingo,Sim,Não,João Dias,Grajaú,Não,5,0.0,14.0
+1267,Sexta,Sim,Sim,João Dias,Grajaú,Sim,5,0.0,15.0
+1268,Segunda,Não,Sim,Pinheiros,Osasco,Não,1,0.0,8.0
+1269,Sábado,Sim,Sim,Socorro,Osasco,Não,5,0.0,10.0
+1270,Sexta,Não,Sim,Pres. Altino,Osasco,Não,3,0.0,8.0
+1271,Sexta,Não,Sim,Vila Olímpia,Grajaú,Não,2,0.0,4.0
+1272,Terça,Não,Não,Mendes Vila Natal,Grajaú,Não,2,0.0,8.0
+1273,Sexta,Não,Sim,Vila Olímpia,Grajaú,Não,1,0.0,5.0
+1274,Sábado,Sim,Sim,Cidade Jardim,Osasco,Sim,3,0.0,12.0
+1275,Segunda,Sim,Sim,Cidade Jardim,Osasco,Não,3,0.0,13.0
+1276,Domingo,Não,Não,Cidade Universitária,Osasco,Não,2,0.0,4.0
+1277,Quarta,Sim,Sim,Pinheiros,Osasco,Não,5,0.0,10.0
+1278,Sexta,Não,Sim,Cidade Jardim,Grajaú,Não,3,0.0,8.0
+1279,Sábado,Sim,Sim,Jurubatuba,Osasco,Não,4,0.0,14.0
+1280,Sexta,Sim,Não,João Dias,Osasco,Sim,4,0.0,15.0
+1281,Quarta,Sim,Sim,Pinheiros,Grajaú,Não,4,0.0,10.0
+1282,Quinta,Sim,Sim,Osasco,Grajaú,Sim,5,0.0,15.0
+1283,Quarta,Não,Sim,Hebraica Rebouças,Osasco,Sim,1,0.0,5.0
+1284,Domingo,Sim,Sim,Pinheiros,Osasco,Sim,3,0.0,10.0
+1285,Domingo,Sim,Sim,Autódromo,Grajaú,Não,5,0.0,10.0
+1286,Sábado,Sim,Sim,Jurubatuba,Osasco,Sim,5,0.0,15.0
+1287,Quinta,Sim,Não,Primavera Interlagos,Grajaú,Não,4,0.0,10.0
+1288,Terça,Não,Sim,Mendes Vila Natal,Osasco,Não,1,0.0,7.0
+1289,Terça,Sim,Sim,Granja Julieta,Osasco,Sim,5,0.0,9.0
+1290,Segunda,Sim,Sim,Cidade Jardim,Grajaú,Não,5,0.0,10.0
+1291,Sexta,Sim,Sim,Santo Amaro,Grajaú,Não,5,0.0,13.0
+1292,Terça,Não,Sim,João Dias,Grajaú,Não,1,0.0,7.0
+1293,Terça,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,10.0
+1294,Quarta,Sim,Sim,Jurubatuba,Osasco,Não,4,0.0,13.0
+1295,Sábado,Sim,Sim,Mendes Vila Natal,Osasco,Não,4,0.0,11.0
+1296,Domingo,Sim,Não,Ceasa,Osasco,Não,5,0.0,11.0
+1297,Sexta,Sim,Sim,Jurubatuba,Osasco,Não,4,0.0,11.0
+1298,Sábado,Sim,Sim,Berrini,Grajaú,Não,4,0.0,10.0
+1299,Terça,Sim,Não,Socorro,Osasco,Não,4,0.0,15.0
+1300,Segunda,Sim,Sim,Grajau,Osasco,Não,5,0.0,14.0
+1301,Sábado,Não,Sim,Grajau,Osasco,Sim,2,0.0,4.0
+1302,Domingo,Sim,Sim,Ceasa,Grajaú,Não,3,0.0,14.0
+1303,Quinta,Sim,Sim,Grajau,Grajaú,Sim,3,0.0,13.0
+1304,Domingo,Não,Sim,Pinheiros,Osasco,Não,2,0.0,6.0
+1305,Segunda,Sim,Sim,Morumbi,Grajaú,Não,5,0.0,11.0
+1306,Quinta,Não,Sim,Cidade Jardim,Osasco,Não,3,0.0,4.0
+1307,Segunda,Sim,Sim,Santo Amaro,Osasco,Não,4,0.0,14.0
+1308,Sexta,Não,Sim,Primavera Interlagos,Osasco,Não,2,0.0,6.0
+1309,Sábado,Não,Sim,Cidade Jardim,Grajaú,Sim,3,0.0,8.0
+1310,Sábado,Sim,Sim,Santo Amaro,Osasco,Não,5,0.0,12.0
+1311,Quarta,Sim,Sim,Mendes Vila Natal,Osasco,Não,5,0.0,11.0
+1312,Segunda,Sim,Sim,Cidade Universitária,Osasco,Não,5,0.0,15.0
+1313,Domingo,Sim,Sim,Grajau,Grajaú,Não,5,0.0,15.0
+1314,Terça,Sim,Sim,Morumbi,Grajaú,Não,4,0.0,10.0
+1315,Sexta,Sim,Sim,Hebraica Rebouças,Grajaú,Sim,3,0.0,10.0
+1316,Quinta,Sim,Sim,Jurubatuba,Osasco,Não,5,0.0,10.0
+1317,Terça,Não,Não,Santo Amaro,Osasco,Sim,1,0.0,5.0
+1318,Sexta,Sim,Sim,Granja Julieta,Osasco,Sim,4,0.0,9.0
+1319,Quarta,Sim,Sim,Primavera Interlagos,Osasco,Não,5,0.0,12.0
+1320,Sexta,Sim,Sim,Berrini,Grajaú,Não,4,0.0,15.0
+1321,Sexta,Sim,Sim,Cidade Universitária,Grajaú,Não,3,0.0,9.0
+1322,Terça,Sim,Sim,Ceasa,Grajaú,Não,5,0.0,9.0
+1323,Sexta,Não,Sim,Berrini,Osasco,Não,3,0.0,5.0
+1324,Quarta,Sim,Sim,Osasco,Grajaú,Não,5,0.0,10.0
+1325,Quarta,Não,Sim,Hebraica Rebouças,Osasco,Não,2,0.0,7.0
+1326,Segunda,Não,Não,Hebraica Rebouças,Grajaú,Sim,1,0.0,5.0
+1327,Quarta,Não,Sim,Hebraica Rebouças,Grajaú,Não,3,0.0,6.0
+1328,Segunda,Sim,Não,João Dias,Osasco,Não,3,0.0,10.0
+1329,Segunda,Sim,Não,Hebraica Rebouças,Osasco,Não,3,0.0,9.0
+1330,Quinta,Sim,Sim,Cidade Jardim,Grajaú,Não,4,0.0,9.0
+1331,Terça,Não,Sim,Primavera Interlagos,Osasco,Não,1,0.0,5.0
+1332,Quinta,Não,Sim,Villa-Lobos Jaguaré,Osasco,Não,2,0.0,7.0
+1333,Sexta,Não,Não,Morumbi,Grajaú,Não,2,0.0,6.0
+1334,Quarta,Sim,Sim,Granja Julieta,Osasco,Não,3,0.0,9.0
+1335,Segunda,Sim,Sim,Mendes Vila Natal,Osasco,Não,3,0.0,13.0
+1336,Quinta,Sim,Sim,Socorro,Grajaú,Sim,3,0.0,9.0
+1337,Segunda,Sim,Sim,Vila Olímpia,Osasco,Não,3,0.0,12.0
+1338,Sábado,Sim,Sim,Socorro,Osasco,Não,4,0.0,9.0
+1339,Quarta,Não,Sim,Santo Amaro,Osasco,Não,3,0.0,4.0
+1340,Quinta,Não,Não,Vila Olímpia,Grajaú,Não,1,0.0,5.0
+1341,Quinta,Sim,Não,Villa-Lobos Jaguaré,Grajaú,Não,4,0.0,12.0
+1342,Terça,Não,Sim,Villa-Lobos Jaguaré,Grajaú,Não,2,0.0,5.0
+1343,Sexta,Não,Sim,Granja Julieta,Grajaú,Não,3,0.0,3.0
+1344,Sábado,Não,Não,Mendes Vila Natal,Grajaú,Sim,2,0.0,7.0
+1345,Sábado,Sim,Sim,Grajau,Grajaú,Sim,4,0.0,13.0
+1346,Domingo,Não,Sim,Pres. Altino,Grajaú,Não,1,0.0,8.0
+1347,Quarta,Sim,Sim,Autódromo,Grajaú,Não,4,0.0,10.0
+1348,Sábado,Sim,Sim,Cidade Jardim,Osasco,Não,5,0.0,12.0
+1349,Quarta,Sim,Sim,Grajau,Grajaú,Não,3,0.0,14.0
+1350,Segunda,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,13.0
+1351,Terça,Sim,Sim,Osasco,Osasco,Não,3,0.0,9.0
+1352,Quarta,Sim,Sim,Mendes Vila Natal,Grajaú,Não,4,0.0,10.0
+1353,Quinta,Sim,Sim,Ceasa,Osasco,Não,4,0.0,14.0
+1354,Sexta,Sim,Não,Primavera Interlagos,Grajaú,Não,3,0.0,11.0
+1355,Terça,Não,Sim,Pres. Altino,Grajaú,Sim,3,0.0,7.0
+1356,Domingo,Não,Sim,Pres. Altino,Osasco,Não,1,0.0,5.0
+1357,Segunda,Não,Não,Mendes Vila Natal,Grajaú,Sim,1,0.0,8.0
+1358,Domingo,Não,Sim,Cidade Jardim,Osasco,Não,2,0.0,8.0
+1359,Domingo,Não,Sim,Berrini,Osasco,Sim,1,0.0,4.0
+1360,Quinta,Sim,Sim,Cidade Jardim,Osasco,Não,4,0.0,15.0
+1361,Segunda,Sim,Sim,Osasco,Osasco,Não,5,0.0,11.0
+1362,Sexta,Sim,Sim,Cidade Universitária,Osasco,Não,4,0.0,14.0
+1363,Segunda,Sim,Não,Socorro,Grajaú,Sim,3,0.0,12.0
+1364,Terça,Não,Sim,Cidade Jardim,Osasco,Não,3,0.0,6.0
+1365,Sábado,Sim,Sim,Cidade Universitária,Osasco,Sim,5,0.0,9.0
+1366,Quarta,Não,Sim,Berrini,Osasco,Não,1,0.0,6.0
+1367,Quinta,Não,Sim,Primavera Interlagos,Osasco,Sim,3,0.0,7.0
+1368,Domingo,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,4,0.0,13.0
+1369,Sexta,Sim,Não,Autódromo,Osasco,Não,5,0.0,12.0
+1370,Quinta,Não,Não,Ceasa,Osasco,Não,2,0.0,5.0
+1371,Sexta,Sim,Sim,Primavera Interlagos,Osasco,Não,4,0.0,14.0
+1372,Terça,Sim,Sim,Pres. Altino,Grajaú,Sim,5,0.0,10.0
+1373,Segunda,Não,Sim,Cidade Universitária,Grajaú,Não,2,0.0,7.0
+1374,Sexta,Sim,Sim,Autódromo,Osasco,Não,3,0.0,10.0
+1375,Terça,Sim,Não,Pinheiros,Osasco,Não,4,0.0,13.0
+1376,Segunda,Sim,Sim,João Dias,Osasco,Não,5,0.0,9.0
+1377,Terça,Não,Sim,Ceasa,Osasco,Não,1,0.0,7.0
+1378,Terça,Sim,Não,Berrini,Grajaú,Não,4,0.0,13.0
+1379,Terça,Sim,Não,Mendes Vila Natal,Osasco,Não,5,0.0,10.0
+1380,Terça,Não,Sim,Socorro,Grajaú,Sim,2,0.0,5.0
+1381,Domingo,Sim,Sim,Morumbi,Osasco,Não,3,0.0,9.0
+1382,Sexta,Sim,Sim,Morumbi,Grajaú,Não,4,0.0,9.0
+1383,Quinta,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,5,0.0,9.0
+1384,Sábado,Sim,Sim,Ceasa,Osasco,Sim,5,0.0,9.0
+1385,Quinta,Sim,Sim,Vila Olímpia,Grajaú,Não,3,0.0,14.0
+1386,Terça,Não,Sim,Pinheiros,Osasco,Não,3,0.0,8.0
+1387,Quarta,Sim,Sim,João Dias,Grajaú,Sim,5,0.0,9.0
+1388,Sábado,Sim,Sim,João Dias,Osasco,Sim,5,0.0,10.0
+1389,Quarta,Sim,Sim,João Dias,Grajaú,Sim,3,0.0,10.0
+1390,Terça,Sim,Não,Berrini,Osasco,Não,4,0.0,9.0
+1391,Quinta,Sim,Não,Grajau,Osasco,Não,5,0.0,11.0
+1392,Terça,Sim,Não,Cidade Jardim,Grajaú,Não,4,0.0,13.0
+1393,Sexta,Sim,Sim,Santo Amaro,Grajaú,Não,3,0.0,9.0
+1394,Sexta,Não,Sim,Cidade Jardim,Grajaú,Sim,1,0.0,5.0
+1395,Domingo,Sim,Sim,Pres. Altino,Grajaú,Não,5,0.0,11.0
+1396,Quarta,Sim,Sim,Pinheiros,Osasco,Sim,4,0.0,13.0
+1397,Terça,Sim,Sim,Autódromo,Osasco,Não,4,0.0,13.0
+1398,Sexta,Sim,Sim,Osasco,Osasco,Não,5,0.0,13.0
+1399,Segunda,Sim,Sim,Autódromo,Grajaú,Não,4,0.0,15.0
+1400,Terça,Não,Não,Pres. Altino,Grajaú,Sim,2,0.0,4.0
+1401,Sexta,Sim,Não,Cidade Universitária,Osasco,Não,5,0.0,9.0
+1402,Terça,Sim,Sim,Pinheiros,Osasco,Não,5,0.0,10.0
+1403,Quinta,Sim,Sim,Granja Julieta,Osasco,Não,3,0.0,13.0
+1404,Sábado,Sim,Sim,Ceasa,Osasco,Não,5,0.0,13.0
+1405,Quarta,Sim,Sim,Berrini,Osasco,Não,4,0.0,11.0
+1406,Quarta,Sim,Sim,Granja Julieta,Grajaú,Não,4,0.0,11.0
+1407,Sábado,Sim,Sim,Ceasa,Osasco,Não,3,0.0,12.0
+1408,Segunda,Sim,Sim,Mendes Vila Natal,Grajaú,Sim,3,0.0,12.0
+1409,Terça,Sim,Sim,Autódromo,Grajaú,Não,4,0.0,11.0
+1410,Domingo,Não,Sim,Hebraica Rebouças,Grajaú,Não,1,0.0,7.0
+1411,Domingo,Sim,Sim,Ceasa,Osasco,Não,5,0.0,11.0
+1412,Domingo,Sim,Sim,João Dias,Grajaú,Não,4,0.0,13.0
+1413,Sexta,Sim,Sim,Mendes Vila Natal,Osasco,Não,4,0.0,14.0
+1414,Segunda,Sim,Sim,Osasco,Grajaú,Não,4,0.0,9.0
+1415,Sábado,Sim,Sim,João Dias,Grajaú,Sim,3,0.0,10.0
+1416,Sexta,Sim,Sim,Cidade Jardim,Osasco,Não,5,0.0,12.0
+1417,Quinta,Sim,Sim,Ceasa,Osasco,Sim,4,0.0,10.0
+1418,Domingo,Não,Sim,Vila Olímpia,Grajaú,Não,1,0.0,4.0
+1419,Sexta,Não,Sim,Mendes Vila Natal,Osasco,Não,2,0.0,5.0
+1420,Sexta,Sim,Sim,Grajau,Osasco,Não,4,0.0,14.0
+1421,Terça,Não,Sim,Cidade Jardim,Grajaú,Não,3,0.0,6.0
+1422,Segunda,Não,Sim,Autódromo,Osasco,Sim,3,0.0,6.0
+1423,Quarta,Sim,Sim,Socorro,Grajaú,Não,4,0.0,9.0
+1424,Quinta,Sim,Sim,Autódromo,Grajaú,Não,3,0.0,15.0
+1425,Segunda,Sim,Não,Berrini,Osasco,Não,5,0.0,12.0
+1426,Sexta,Não,Sim,João Dias,Grajaú,Sim,2,0.0,7.0
+1427,Segunda,Sim,Sim,Socorro,Osasco,Sim,3,0.0,13.0
+1428,Domingo,Sim,Sim,Autódromo,Osasco,Não,4,0.0,9.0
+1429,Sábado,Sim,Sim,Mendes Vila Natal,Osasco,Não,3,0.0,10.0
+1430,Domingo,Sim,Sim,Vila Olímpia,Osasco,Não,3,0.0,10.0
+1431,Quinta,Sim,Não,Santo Amaro,Grajaú,Não,4,0.0,11.0
+1432,Terça,Não,Sim,Pinheiros,Grajaú,Sim,1,0.0,3.0
+1433,Segunda,Sim,Não,Villa-Lobos Jaguaré,Osasco,Sim,5,0.0,13.0
+1434,Sábado,Sim,Sim,Jurubatuba,Grajaú,Sim,5,0.0,13.0
+1435,Quarta,Não,Sim,Jurubatuba,Grajaú,Sim,1,0.0,3.0
+1436,Quarta,Sim,Sim,Ceasa,Osasco,Não,5,0.0,12.0
+1437,Quarta,Sim,Sim,Ceasa,Osasco,Não,4,0.0,9.0
+1438,Terça,Sim,Sim,Pinheiros,Osasco,Sim,3,0.0,10.0
+1439,Terça,Sim,Sim,Autódromo,Osasco,Não,3,0.0,11.0
+1440,Terça,Sim,Sim,Grajau,Grajaú,Não,3,0.0,12.0
+1441,Segunda,Sim,Sim,Granja Julieta,Osasco,Não,5,0.0,13.0
+1442,Segunda,Não,Sim,Mendes Vila Natal,Grajaú,Sim,1,0.0,6.0
+1443,Quinta,Sim,Sim,João Dias,Grajaú,Não,3,0.0,14.0
+1444,Domingo,Não,Sim,Cidade Jardim,Osasco,Não,3,0.0,4.0
+1445,Sexta,Não,Sim,Pinheiros,Grajaú,Não,1,0.0,5.0
+1446,Quarta,Sim,Sim,Autódromo,Grajaú,Sim,4,0.0,9.0
+1447,Quinta,Não,Não,Socorro,Grajaú,Não,3,0.0,6.0
+1448,Sábado,Não,Sim,Cidade Jardim,Osasco,Não,3,0.0,3.0
+1449,Quarta,Sim,Sim,Autódromo,Osasco,Sim,4,0.0,14.0
+1450,Sexta,Sim,Sim,Morumbi,Grajaú,Não,4,0.0,9.0
+1451,Quarta,Sim,Sim,Osasco,Grajaú,Não,5,0.0,15.0
+1452,Domingo,Sim,Sim,Cidade Jardim,Osasco,Não,5,0.0,12.0
+1453,Quarta,Sim,Sim,Ceasa,Osasco,Não,4,0.0,15.0
+1454,Quinta,Sim,Não,Mendes Vila Natal,Osasco,Não,3,0.0,12.0
+1455,Domingo,Sim,Não,Mendes Vila Natal,Grajaú,Não,5,0.0,11.0
+1456,Terça,Não,Sim,Autódromo,Grajaú,Não,2,0.0,5.0
+1457,Terça,Sim,Sim,Jurubatuba,Grajaú,Não,5,0.0,10.0
+1458,Domingo,Não,Sim,Pres. Altino,Grajaú,Não,1,0.0,7.0
+1459,Sexta,Sim,Sim,Autódromo,Grajaú,Não,5,0.0,13.0
+1460,Sábado,Sim,Sim,Berrini,Grajaú,Não,5,0.0,10.0
+1461,Domingo,Sim,Sim,Primavera Interlagos,Grajaú,Sim,5,0.0,12.0
+1462,Sexta,Sim,Sim,Pinheiros,Osasco,Não,5,0.0,14.0
+1463,Sexta,Não,Não,Grajau,Osasco,Não,1,0.0,3.0
+1464,Domingo,Sim,Sim,Hebraica Rebouças,Osasco,Não,3,0.0,14.0
+1465,Quarta,Não,Sim,Pinheiros,Osasco,Não,3,0.0,3.0
+1466,Quarta,Não,Sim,Osasco,Osasco,Não,3,0.0,7.0
+1467,Quinta,Sim,Sim,Pinheiros,Osasco,Não,5,0.0,13.0
+1468,Sábado,Sim,Sim,Jurubatuba,Osasco,Não,4,0.0,12.0
+1469,Sexta,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,14.0
+1470,Segunda,Sim,Sim,Cidade Jardim,Grajaú,Não,5,0.0,15.0
+1471,Domingo,Não,Não,Santo Amaro,Osasco,Não,2,0.0,8.0
+1472,Quinta,Sim,Sim,Mendes Vila Natal,Grajaú,Não,4,0.0,12.0
+1473,Segunda,Sim,Sim,Autódromo,Grajaú,Sim,4,0.0,15.0
+1474,Segunda,Sim,Sim,Osasco,Grajaú,Não,5,0.0,12.0
+1475,Domingo,Sim,Sim,Cidade Universitária,Grajaú,Não,4,0.0,14.0
+1476,Domingo,Sim,Não,Socorro,Osasco,Não,5,0.0,14.0
+1477,Domingo,Sim,Sim,Ceasa,Osasco,Sim,4,0.0,15.0
+1478,Sexta,Sim,Sim,Hebraica Rebouças,Osasco,Não,3,0.0,11.0
+1479,Quarta,Não,Sim,Socorro,Osasco,Não,2,0.0,7.0
+1480,Terça,Não,Sim,Berrini,Osasco,Não,2,0.0,8.0
+1481,Sexta,Sim,Sim,Vila Olímpia,Osasco,Sim,3,0.0,15.0
+1482,Sexta,Sim,Sim,Santo Amaro,Grajaú,Não,3,0.0,15.0
+1483,Sábado,Não,Sim,Socorro,Osasco,Não,3,0.0,8.0
+1484,Sexta,Sim,Sim,Ceasa,Grajaú,Não,4,0.0,14.0
+1485,Sábado,Sim,Sim,Pres. Altino,Grajaú,Não,5,0.0,11.0
+1486,Segunda,Sim,Sim,Primavera Interlagos,Osasco,Sim,5,0.0,13.0
+1487,Terça,Sim,Sim,Morumbi,Grajaú,Sim,4,0.0,11.0
+1488,Terça,Sim,Não,Berrini,Grajaú,Não,5,0.0,11.0
+1489,Quarta,Sim,Não,Cidade Universitária,Osasco,Sim,5,0.0,9.0
+1490,Sexta,Não,Sim,Mendes Vila Natal,Grajaú,Não,1,0.0,3.0
+1491,Quinta,Não,Sim,Primavera Interlagos,Grajaú,Não,2,0.0,6.0
+1492,Sábado,Não,Sim,Mendes Vila Natal,Grajaú,Não,2,0.0,7.0
+1493,Segunda,Sim,Sim,Cidade Universitária,Osasco,Não,5,0.0,15.0
+1494,Segunda,Não,Sim,Morumbi,Grajaú,Não,3,0.0,8.0
+1495,Terça,Sim,Sim,João Dias,Osasco,Não,4,0.0,11.0
+1496,Sábado,Sim,Sim,Mendes Vila Natal,Osasco,Não,5,0.0,11.0
+1497,Segunda,Sim,Sim,Hebraica Rebouças,Grajaú,Não,4,0.0,12.0
+1498,Segunda,Sim,Sim,Pres. Altino,Grajaú,Não,4,0.0,11.0
+1499,Quinta,Sim,Não,Pres. Altino,Grajaú,Não,4,0.0,14.0
+1500,Segunda,Sim,Sim,Vila Olímpia,Osasco,Não,4,0.0,13.0
+1501,Domingo,Não,Sim,Hebraica Rebouças,Grajaú,Não,2,0.0,7.0
+1502,Segunda,Não,Sim,Jurubatuba,Osasco,Não,3,0.0,5.0
+1503,Segunda,Sim,Sim,Hebraica Rebouças,Osasco,Não,4,0.0,9.0
+1504,Quarta,Não,Sim,Osasco,Grajaú,Não,1,0.0,4.0
+1505,Sexta,Sim,Sim,Primavera Interlagos,Osasco,Não,4,0.0,15.0
+1506,Quinta,Sim,Não,Cidade Universitária,Grajaú,Não,3,0.0,14.0
+1507,Segunda,Sim,Não,Granja Julieta,Osasco,Não,5,0.0,15.0
+1508,Sábado,Sim,Não,Osasco,Grajaú,Não,5,0.0,15.0
+1509,Domingo,Sim,Sim,Morumbi,Osasco,Não,5,0.0,13.0
+1510,Terça,Não,Sim,Pinheiros,Grajaú,Sim,3,0.0,8.0
+1511,Domingo,Sim,Sim,Grajau,Grajaú,Não,4,0.0,9.0
+1512,Quarta,Não,Sim,Mendes Vila Natal,Osasco,Não,3,0.0,8.0
+1513,Quarta,Sim,Não,Jurubatuba,Grajaú,Não,5,0.0,12.0
+1514,Sexta,Sim,Sim,Santo Amaro,Osasco,Não,5,0.0,10.0
+1515,Segunda,Sim,Sim,Berrini,Grajaú,Não,4,0.0,15.0
+1516,Sexta,Sim,Sim,Pinheiros,Osasco,Não,5,0.0,15.0
+1517,Sábado,Sim,Sim,Hebraica Rebouças,Osasco,Sim,5,0.0,11.0
+1518,Quinta,Sim,Sim,Berrini,Osasco,Sim,4,0.0,13.0
+1519,Segunda,Sim,Sim,Cidade Jardim,Grajaú,Não,3,0.0,11.0
+1520,Sábado,Sim,Sim,Morumbi,Osasco,Não,3,0.0,15.0
+1521,Terça,Não,Sim,Jurubatuba,Osasco,Sim,3,0.0,4.0
+1522,Segunda,Não,Sim,Pinheiros,Osasco,Não,2,0.0,6.0
+1523,Quarta,Sim,Sim,Santo Amaro,Osasco,Não,5,0.0,13.0
+1524,Quarta,Não,Sim,Vila Olímpia,Osasco,Não,1,0.0,4.0
+1525,Sábado,Sim,Sim,Autódromo,Osasco,Não,5,0.0,14.0
+1526,Domingo,Sim,Sim,Vila Olímpia,Grajaú,Não,5,0.0,12.0
+1527,Segunda,Sim,Sim,Berrini,Grajaú,Não,5,0.0,13.0
+1528,Sábado,Não,Não,Cidade Universitária,Osasco,Sim,2,0.0,4.0
+1529,Segunda,Sim,Não,Jurubatuba,Grajaú,Não,4,0.0,14.0
+1530,Quinta,Sim,Sim,Jurubatuba,Grajaú,Não,5,0.0,9.0
+1531,Sábado,Não,Não,Cidade Jardim,Grajaú,Sim,3,0.0,3.0
+1532,Sexta,Não,Sim,Santo Amaro,Osasco,Não,1,0.0,7.0
+1533,Domingo,Sim,Sim,Ceasa,Grajaú,Sim,4,0.0,13.0
+1534,Terça,Sim,Sim,Pinheiros,Grajaú,Não,4,0.0,15.0
+1535,Sexta,Sim,Não,Villa-Lobos Jaguaré,Grajaú,Não,4,0.0,15.0
+1536,Sexta,Sim,Sim,João Dias,Osasco,Não,5,0.0,12.0
+1537,Quarta,Sim,Sim,Jurubatuba,Osasco,Não,3,0.0,13.0
+1538,Terça,Sim,Sim,Morumbi,Grajaú,Não,4,0.0,11.0
+1539,Sexta,Sim,Sim,Pinheiros,Grajaú,Não,5,0.0,13.0
+1540,Sexta,Não,Sim,Cidade Universitária,Osasco,Não,2,0.0,6.0
+1541,Terça,Sim,Sim,Autódromo,Osasco,Não,5,0.0,9.0
+1542,Domingo,Sim,Sim,Morumbi,Grajaú,Não,5,0.0,9.0
+1543,Domingo,Sim,Não,Cidade Universitária,Grajaú,Não,4,0.0,15.0
+1544,Quarta,Sim,Sim,Jurubatuba,Osasco,Não,4,0.0,9.0
+1545,Terça,Não,Não,Socorro,Osasco,Não,2,0.0,8.0
+1546,Terça,Sim,Não,Autódromo,Grajaú,Não,5,0.0,13.0
+1547,Sexta,Não,Sim,Morumbi,Grajaú,Não,1,0.0,5.0
+1548,Domingo,Não,Sim,Socorro,Osasco,Sim,3,0.0,3.0
+1549,Terça,Sim,Sim,Pinheiros,Osasco,Não,5,0.0,9.0
+1550,Sábado,Não,Não,Santo Amaro,Osasco,Não,2,0.0,3.0
+1551,Sábado,Não,Sim,Osasco,Osasco,Não,3,0.0,8.0
+1552,Quarta,Sim,Não,João Dias,Grajaú,Sim,4,0.0,15.0
+1553,Sexta,Não,Sim,Osasco,Osasco,Não,3,0.0,4.0
+1554,Domingo,Não,Não,Cidade Jardim,Osasco,Não,2,0.0,3.0
+1555,Quarta,Não,Não,Primavera Interlagos,Grajaú,Não,3,0.0,5.0
+1556,Sexta,Sim,Não,Primavera Interlagos,Osasco,Sim,4,0.0,9.0
+1557,Quinta,Sim,Sim,Osasco,Grajaú,Não,5,0.0,11.0
+1558,Quinta,Não,Sim,Cidade Jardim,Grajaú,Não,1,0.0,3.0
+1559,Sexta,Sim,Não,Osasco,Osasco,Sim,5,0.0,15.0
+1560,Domingo,Sim,Sim,Granja Julieta,Grajaú,Não,5,0.0,15.0
+1561,Quinta,Sim,Não,Mendes Vila Natal,Grajaú,Não,5,0.0,13.0
+1562,Sexta,Sim,Sim,Hebraica Rebouças,Osasco,Não,5,0.0,11.0
+1563,Terça,Não,Não,Grajau,Osasco,Não,3,0.0,8.0
+1564,Sexta,Sim,Sim,Mendes Vila Natal,Grajaú,Não,5,0.0,15.0
+1565,Segunda,Sim,Sim,João Dias,Grajaú,Não,4,0.0,12.0
+1566,Quarta,Não,Sim,Pres. Altino,Osasco,Não,2,0.0,5.0
+1567,Quinta,Sim,Sim,Berrini,Grajaú,Sim,5,0.0,15.0
+1568,Terça,Sim,Sim,João Dias,Osasco,Sim,3,0.0,10.0
+1569,Domingo,Sim,Não,Pres. Altino,Osasco,Não,4,0.0,9.0
+1570,Quarta,Sim,Não,Cidade Jardim,Grajaú,Não,5,0.0,10.0
+1571,Segunda,Não,Sim,Mendes Vila Natal,Grajaú,Não,3,0.0,6.0
+1572,Quinta,Sim,Sim,Cidade Universitária,Grajaú,Não,5,0.0,15.0
+1573,Segunda,Sim,Sim,Osasco,Grajaú,Não,5,0.0,14.0
+1574,Segunda,Sim,Sim,Cidade Universitária,Osasco,Sim,5,0.0,10.0
+1575,Quarta,Sim,Não,Berrini,Osasco,Não,3,0.0,15.0
+1576,Quinta,Sim,Sim,Vila Olímpia,Osasco,Não,5,0.0,12.0
+1577,Sexta,Não,Não,Santo Amaro,Grajaú,Não,2,0.0,6.0
+1578,Domingo,Sim,Sim,Pres. Altino,Grajaú,Não,5,0.0,9.0
+1579,Domingo,Sim,Sim,Autódromo,Osasco,Sim,3,0.0,9.0
+1580,Quinta,Sim,Não,Osasco,Grajaú,Não,3,0.0,13.0
+1581,Domingo,Sim,Sim,Osasco,Grajaú,Não,4,0.0,14.0
+1582,Sábado,Não,Sim,Cidade Universitária,Osasco,Não,1,0.0,3.0
+1583,Segunda,Sim,Não,Cidade Jardim,Grajaú,Sim,4,0.0,15.0
+1584,Sábado,Não,Não,Grajau,Grajaú,Não,3,0.0,7.0
+1585,Quinta,Não,Não,Socorro,Grajaú,Não,3,0.0,3.0
+1586,Quarta,Sim,Sim,Cidade Jardim,Osasco,Não,5,0.0,10.0
+1587,Quarta,Não,Sim,Morumbi,Grajaú,Não,2,0.0,5.0
+1588,Segunda,Sim,Sim,Grajau,Grajaú,Não,5,0.0,13.0
+1589,Quarta,Sim,Sim,Grajau,Grajaú,Sim,4,0.0,9.0
+1590,Domingo,Sim,Sim,Hebraica Rebouças,Osasco,Não,3,0.0,13.0
+1591,Domingo,Sim,Sim,Cidade Jardim,Grajaú,Não,4,0.0,10.0
+1592,Quarta,Sim,Sim,Hebraica Rebouças,Osasco,Não,5,0.0,12.0
+1593,Sexta,Sim,Sim,Cidade Jardim,Osasco,Sim,5,0.0,9.0
+1594,Domingo,Sim,Sim,Santo Amaro,Osasco,Sim,4,0.0,12.0
+1595,Terça,Não,Sim,Primavera Interlagos,Grajaú,Não,3,0.0,4.0
+1596,Segunda,Sim,Não,Berrini,Osasco,Não,3,0.0,14.0
+1597,Segunda,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,5,0.0,11.0
+1598,Sexta,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,3,0.0,15.0
+1599,Domingo,Sim,Sim,Socorro,Grajaú,Sim,4,0.0,14.0
+1600,Quarta,Sim,Sim,Socorro,Grajaú,Não,4,0.0,13.0
+1601,Segunda,Sim,Sim,Hebraica Rebouças,Grajaú,Não,4,0.0,14.0
+1602,Quarta,Sim,Sim,Santo Amaro,Osasco,Não,5,0.0,10.0
+1603,Terça,Sim,Sim,Pinheiros,Osasco,Não,5,0.0,14.0
+1604,Sábado,Sim,Sim,Granja Julieta,Osasco,Não,5,0.0,9.0
+1605,Terça,Não,Não,Cidade Universitária,Osasco,Sim,2,0.0,4.0
+1606,Quinta,Sim,Sim,Socorro,Grajaú,Não,3,0.0,12.0
+1607,Domingo,Não,Sim,Santo Amaro,Osasco,Não,1,0.0,8.0
+1608,Sábado,Sim,Sim,João Dias,Grajaú,Não,3,0.0,9.0
+1609,Terça,Sim,Sim,Granja Julieta,Grajaú,Não,5,0.0,10.0
+1610,Quarta,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,12.0
+1611,Segunda,Sim,Não,Pres. Altino,Osasco,Não,5,0.0,11.0
+1612,Sábado,Não,Sim,Cidade Universitária,Grajaú,Não,3,0.0,8.0
+1613,Sexta,Sim,Sim,Pinheiros,Osasco,Sim,3,0.0,14.0
+1614,Segunda,Sim,Sim,Pres. Altino,Osasco,Sim,5,0.0,10.0
+1615,Terça,Não,Sim,Santo Amaro,Osasco,Não,2,0.0,4.0
+1616,Sábado,Sim,Sim,Pinheiros,Osasco,Não,4,0.0,9.0
+1617,Domingo,Sim,Sim,Cidade Universitária,Osasco,Não,5,0.0,15.0
+1618,Terça,Sim,Sim,Pinheiros,Osasco,Não,3,0.0,14.0
+1619,Quarta,Sim,Sim,Morumbi,Osasco,Não,5,0.0,11.0
+1620,Terça,Sim,Sim,Santo Amaro,Osasco,Não,3,0.0,11.0
+1621,Sexta,Sim,Não,Primavera Interlagos,Osasco,Não,5,0.0,9.0
+1622,Terça,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,13.0
+1623,Domingo,Não,Sim,Vila Olímpia,Osasco,Não,1,0.0,5.0
+1624,Sexta,Sim,Sim,Cidade Universitária,Grajaú,Não,5,0.0,14.0
+1625,Sábado,Sim,Sim,Cidade Jardim,Grajaú,Sim,4,0.0,10.0
+1626,Sexta,Sim,Sim,Osasco,Grajaú,Sim,5,0.0,15.0
+1627,Sexta,Não,Não,Jurubatuba,Grajaú,Sim,2,0.0,3.0
+1628,Segunda,Sim,Sim,Mendes Vila Natal,Grajaú,Não,4,0.0,10.0
+1629,Domingo,Não,Sim,Morumbi,Grajaú,Não,2,0.0,4.0
+1630,Quinta,Sim,Sim,Cidade Jardim,Grajaú,Não,3,0.0,9.0
+1631,Domingo,Sim,Sim,Cidade Universitária,Grajaú,Não,3,0.0,12.0
+1632,Sexta,Sim,Sim,Jurubatuba,Grajaú,Não,5,0.0,9.0
+1633,Sábado,Sim,Não,Santo Amaro,Osasco,Não,5,0.0,11.0
+1634,Quinta,Sim,Sim,Berrini,Osasco,Não,4,0.0,15.0
+1635,Sábado,Sim,Sim,Santo Amaro,Grajaú,Não,4,0.0,12.0
+1636,Quinta,Sim,Sim,Mendes Vila Natal,Grajaú,Não,3,0.0,13.0
+1637,Sábado,Sim,Não,Primavera Interlagos,Osasco,Sim,5,0.0,14.0
+1638,Quarta,Sim,Sim,Granja Julieta,Grajaú,Não,5,0.0,11.0
+1639,Segunda,Sim,Sim,Cidade Jardim,Grajaú,Não,4,0.0,10.0
+1640,Sexta,Sim,Sim,Socorro,Grajaú,Sim,5,0.0,10.0
+1641,Quinta,Sim,Sim,Mendes Vila Natal,Grajaú,Não,5,0.0,14.0
+1642,Sexta,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,11.0
+1643,Segunda,Sim,Sim,Pinheiros,Osasco,Não,4,0.0,10.0
+1644,Quinta,Não,Não,Ceasa,Osasco,Não,3,0.0,3.0
+1645,Domingo,Sim,Não,Morumbi,Grajaú,Sim,4,0.0,13.0
+1646,Quinta,Sim,Sim,Primavera Interlagos,Osasco,Não,4,0.0,12.0
+1647,Terça,Sim,Sim,João Dias,Grajaú,Não,5,0.0,14.0
+1648,Quinta,Não,Sim,Jurubatuba,Osasco,Não,1,0.0,5.0
+1649,Terça,Sim,Sim,Ceasa,Grajaú,Não,4,0.0,12.0
+1650,Sábado,Sim,Sim,Autódromo,Grajaú,Não,4,0.0,15.0
+1651,Quinta,Sim,Não,Vila Olímpia,Grajaú,Não,4,0.0,11.0
+1652,Domingo,Não,Sim,Jurubatuba,Grajaú,Não,2,0.0,6.0
+1653,Quarta,Não,Sim,Cidade Universitária,Grajaú,Não,1,0.0,3.0
+1654,Segunda,Sim,Sim,Socorro,Osasco,Não,4,0.0,10.0
+1655,Terça,Não,Sim,Mendes Vila Natal,Grajaú,Não,1,0.0,3.0
+1656,Quarta,Não,Sim,Granja Julieta,Grajaú,Não,3,0.0,5.0
+1657,Quarta,Não,Sim,Berrini,Grajaú,Não,3,0.0,4.0
+1658,Terça,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,12.0
+1659,Sábado,Sim,Sim,Vila Olímpia,Osasco,Não,5,0.0,12.0
+1660,Sábado,Não,Sim,Jurubatuba,Osasco,Não,3,0.0,7.0
+1661,Domingo,Sim,Sim,Hebraica Rebouças,Grajaú,Não,4,0.0,15.0
+1662,Quarta,Sim,Não,Cidade Universitária,Grajaú,Não,4,0.0,14.0
+1663,Terça,Sim,Não,Cidade Universitária,Osasco,Não,5,0.0,9.0
+1664,Sábado,Não,Não,Autódromo,Grajaú,Não,3,0.0,4.0
+1665,Segunda,Sim,Sim,Santo Amaro,Osasco,Não,4,0.0,11.0
+1666,Segunda,Não,Sim,Primavera Interlagos,Osasco,Não,2,0.0,8.0
+1667,Domingo,Sim,Sim,Morumbi,Osasco,Não,4,0.0,15.0
+1668,Quarta,Sim,Não,Ceasa,Grajaú,Sim,3,0.0,11.0
+1669,Segunda,Não,Sim,Primavera Interlagos,Grajaú,Não,3,0.0,7.0
+1670,Quarta,Sim,Sim,Autódromo,Grajaú,Não,4,0.0,14.0
+1671,Segunda,Sim,Sim,Primavera Interlagos,Osasco,Sim,4,0.0,10.0
+1672,Segunda,Sim,Não,Granja Julieta,Osasco,Não,4,0.0,11.0
+1673,Domingo,Sim,Sim,João Dias,Grajaú,Não,5,0.0,10.0
+1674,Terça,Não,Sim,Autódromo,Osasco,Não,2,0.0,7.0
+1675,Sexta,Sim,Sim,Berrini,Grajaú,Sim,3,0.0,15.0
+1676,Domingo,Não,Sim,João Dias,Grajaú,Não,2,0.0,7.0
+1677,Segunda,Sim,Sim,Cidade Universitária,Grajaú,Não,4,0.0,9.0
+1678,Terça,Não,Sim,Grajau,Grajaú,Não,1,0.0,4.0
+1679,Quarta,Não,Sim,Ceasa,Grajaú,Não,2,0.0,7.0
+1680,Segunda,Sim,Sim,Hebraica Rebouças,Grajaú,Sim,3,0.0,15.0
+1681,Quinta,Sim,Não,Pinheiros,Osasco,Não,5,0.0,11.0
+1682,Terça,Sim,Sim,Granja Julieta,Grajaú,Não,4,0.0,12.0
+1683,Domingo,Não,Sim,Primavera Interlagos,Grajaú,Não,3,0.0,8.0
+1684,Domingo,Não,Não,Pinheiros,Osasco,Não,3,0.0,4.0
+1685,Terça,Não,Não,Ceasa,Grajaú,Não,3,0.0,5.0
+1686,Sexta,Sim,Não,Socorro,Grajaú,Não,3,0.0,14.0
+1687,Quarta,Sim,Não,Osasco,Grajaú,Não,5,0.0,12.0
+1688,Domingo,Sim,Sim,Mendes Vila Natal,Osasco,Não,4,0.0,9.0
+1689,Terça,Sim,Sim,Granja Julieta,Grajaú,Não,3,0.0,14.0
+1690,Quarta,Sim,Sim,Ceasa,Osasco,Não,5,0.0,11.0
+1691,Terça,Sim,Não,Granja Julieta,Grajaú,Sim,3,0.0,15.0
+1692,Terça,Sim,Sim,Morumbi,Osasco,Não,3,0.0,9.0
+1693,Quinta,Sim,Sim,Hebraica Rebouças,Grajaú,Não,5,0.0,14.0
+1694,Domingo,Sim,Sim,Mendes Vila Natal,Osasco,Não,4,0.0,15.0
+1695,Quarta,Sim,Não,Morumbi,Osasco,Sim,5,0.0,9.0
+1696,Quinta,Sim,Não,Pres. Altino,Osasco,Não,4,0.0,14.0
+1697,Domingo,Não,Sim,Ceasa,Osasco,Sim,2,0.0,3.0
+1698,Segunda,Não,Sim,Villa-Lobos Jaguaré,Osasco,Não,2,0.0,3.0
+1699,Domingo,Sim,Sim,Grajau,Osasco,Sim,3,0.0,13.0
+1700,Segunda,Não,Sim,Jurubatuba,Osasco,Não,1,0.0,5.0
+1701,Sábado,Não,Sim,Granja Julieta,Grajaú,Não,2,0.0,8.0
+1702,Segunda,Não,Sim,Primavera Interlagos,Grajaú,Não,2,0.0,6.0
+1703,Quinta,Sim,Não,Morumbi,Osasco,Não,4,0.0,15.0
+1704,Domingo,Não,Sim,Hebraica Rebouças,Grajaú,Não,2,0.0,5.0
+1705,Quarta,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Sim,3,0.0,12.0
+1706,Sábado,Sim,Sim,Santo Amaro,Grajaú,Não,5,0.0,14.0
+1707,Sexta,Sim,Sim,Hebraica Rebouças,Grajaú,Não,4,0.0,11.0
+1708,Quinta,Sim,Sim,Pres. Altino,Osasco,Não,4,0.0,15.0
+1709,Sábado,Não,Sim,Granja Julieta,Grajaú,Não,3,0.0,6.0
+1710,Domingo,Sim,Sim,Morumbi,Osasco,Não,5,0.0,12.0
+1711,Sábado,Sim,Não,Cidade Jardim,Grajaú,Não,4,0.0,15.0
+1712,Quinta,Não,Não,Socorro,Grajaú,Não,1,0.0,4.0
+1713,Sábado,Sim,Sim,Pres. Altino,Grajaú,Sim,5,0.0,15.0
+1714,Quinta,Sim,Sim,Jurubatuba,Grajaú,Não,3,0.0,11.0
+1715,Sábado,Sim,Sim,Osasco,Osasco,Sim,5,0.0,15.0
+1716,Domingo,Sim,Sim,João Dias,Grajaú,Não,4,0.0,13.0
+1717,Quinta,Sim,Sim,Pinheiros,Grajaú,Não,3,0.0,9.0
+1718,Sábado,Sim,Sim,Autódromo,Grajaú,Não,4,0.0,9.0
+1719,Segunda,Não,Sim,Osasco,Osasco,Não,3,0.0,8.0
+1720,Domingo,Sim,Não,Primavera Interlagos,Osasco,Não,5,0.0,15.0
+1721,Sábado,Não,Sim,Santo Amaro,Grajaú,Sim,2,0.0,7.0
+1722,Terça,Não,Sim,Grajau,Osasco,Não,1,0.0,5.0
+1723,Sábado,Não,Não,Cidade Jardim,Grajaú,Não,3,0.0,4.0
+1724,Quinta,Sim,Sim,Jurubatuba,Grajaú,Sim,4,0.0,12.0
+1725,Terça,Sim,Não,João Dias,Osasco,Não,4,0.0,10.0
+1726,Quinta,Não,Não,Cidade Jardim,Grajaú,Sim,2,0.0,7.0
+1727,Domingo,Sim,Sim,Cidade Jardim,Osasco,Não,5,0.0,9.0
+1728,Domingo,Não,Sim,Jurubatuba,Grajaú,Não,2,0.0,6.0
+1729,Terça,Não,Sim,Socorro,Osasco,Não,1,0.0,7.0
+1730,Quinta,Sim,Sim,Granja Julieta,Osasco,Não,4,0.0,14.0
+1731,Sábado,Sim,Sim,Pres. Altino,Osasco,Não,4,0.0,9.0
+1732,Sexta,Sim,Sim,Pres. Altino,Osasco,Não,5,0.0,11.0
+1733,Segunda,Sim,Sim,Pres. Altino,Osasco,Não,5,0.0,13.0
+1734,Quarta,Sim,Sim,Primavera Interlagos,Osasco,Não,3,0.0,14.0
+1735,Terça,Sim,Sim,Morumbi,Osasco,Não,4,0.0,14.0
+1736,Sexta,Não,Não,Villa-Lobos Jaguaré,Grajaú,Não,2,0.0,3.0
+1737,Domingo,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,4,0.0,10.0
+1738,Sábado,Não,Sim,Pres. Altino,Osasco,Não,1,0.0,5.0
+1739,Quarta,Sim,Não,Grajau,Osasco,Não,3,0.0,10.0
+1740,Domingo,Sim,Não,Vila Olímpia,Osasco,Não,5,0.0,11.0
+1741,Sábado,Sim,Sim,Pres. Altino,Grajaú,Sim,5,0.0,15.0
+1742,Quarta,Sim,Sim,Santo Amaro,Osasco,Não,5,0.0,10.0
+1743,Segunda,Sim,Sim,Morumbi,Grajaú,Não,5,0.0,14.0
+1744,Domingo,Sim,Não,Santo Amaro,Grajaú,Não,5,0.0,13.0
+1745,Domingo,Sim,Sim,Jurubatuba,Grajaú,Sim,5,0.0,9.0
+1746,Quarta,Sim,Sim,Mendes Vila Natal,Osasco,Não,4,0.0,9.0
+1747,Terça,Não,Sim,Grajau,Osasco,Não,3,0.0,3.0
+1748,Terça,Sim,Sim,Grajau,Osasco,Não,5,0.0,11.0
+1749,Segunda,Não,Sim,Berrini,Grajaú,Não,1,0.0,7.0
+1750,Quinta,Sim,Sim,Jurubatuba,Grajaú,Sim,5,0.0,13.0
+1751,Quinta,Sim,Sim,Morumbi,Osasco,Não,4,0.0,14.0
+1752,Sexta,Sim,Sim,João Dias,Grajaú,Não,4,0.0,12.0
+1753,Domingo,Não,Sim,Ceasa,Grajaú,Não,3,0.0,4.0
+1754,Sexta,Sim,Sim,Cidade Universitária,Grajaú,Não,5,0.0,13.0
+1755,Sexta,Sim,Sim,Cidade Jardim,Osasco,Não,4,0.0,10.0
+1756,Sábado,Sim,Sim,Cidade Universitária,Grajaú,Sim,4,0.0,12.0
+1757,Quinta,Sim,Sim,Pinheiros,Osasco,Não,5,0.0,12.0
+1758,Domingo,Não,Não,Pinheiros,Osasco,Não,1,0.0,4.0
+1759,Segunda,Sim,Sim,Mendes Vila Natal,Osasco,Não,4,0.0,14.0
+1760,Sábado,Sim,Não,Grajau,Grajaú,Não,4,0.0,13.0
+1761,Sábado,Sim,Sim,Osasco,Grajaú,Sim,4,0.0,9.0
+1762,Sábado,Não,Sim,Primavera Interlagos,Osasco,Sim,3,0.0,5.0
+1763,Sexta,Sim,Sim,Jurubatuba,Grajaú,Não,5,0.0,13.0
+1764,Sexta,Sim,Sim,Socorro,Grajaú,Não,4,0.0,14.0
+1765,Segunda,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,3,0.0,12.0
+1766,Domingo,Não,Sim,Autódromo,Grajaú,Não,3,0.0,7.0
+1767,Quinta,Sim,Sim,Pres. Altino,Osasco,Sim,3,0.0,10.0
+1768,Terça,Não,Não,Autódromo,Grajaú,Sim,3,0.0,6.0
+1769,Quarta,Sim,Não,Autódromo,Grajaú,Não,4,0.0,9.0
+1770,Quarta,Não,Não,Socorro,Osasco,Não,1,0.0,4.0
+1771,Sábado,Sim,Sim,Autódromo,Grajaú,Não,4,0.0,9.0
+1772,Terça,Sim,Sim,Santo Amaro,Grajaú,Não,3,0.0,10.0
+1773,Sábado,Sim,Sim,João Dias,Grajaú,Não,4,0.0,13.0
+1774,Quarta,Não,Sim,Santo Amaro,Osasco,Sim,2,0.0,6.0
+1775,Quinta,Sim,Sim,João Dias,Osasco,Não,4,0.0,14.0
+1776,Sexta,Sim,Sim,João Dias,Osasco,Sim,3,0.0,10.0
+1777,Sábado,Não,Sim,Granja Julieta,Grajaú,Não,2,0.0,8.0
+1778,Segunda,Não,Sim,Santo Amaro,Grajaú,Não,1,0.0,8.0
+1779,Quarta,Não,Sim,Villa-Lobos Jaguaré,Osasco,Não,1,0.0,5.0
+1780,Domingo,Sim,Não,Osasco,Osasco,Não,4,0.0,14.0
+1781,Domingo,Sim,Sim,Mendes Vila Natal,Osasco,Sim,4,0.0,9.0
+1782,Domingo,Sim,Sim,Hebraica Rebouças,Osasco,Não,4,0.0,9.0
+1783,Domingo,Não,Sim,Ceasa,Grajaú,Sim,1,0.0,3.0
+1784,Domingo,Não,Não,Ceasa,Osasco,Sim,3,0.0,3.0
+1785,Sexta,Sim,Sim,Cidade Jardim,Grajaú,Não,3,0.0,15.0
+1786,Quinta,Sim,Sim,Santo Amaro,Grajaú,Não,4,0.0,12.0
+1787,Sexta,Sim,Sim,Ceasa,Osasco,Sim,4,0.0,13.0
+1788,Quinta,Não,Sim,Osasco,Osasco,Não,3,0.0,5.0
+1789,Sábado,Sim,Não,Santo Amaro,Osasco,Não,3,0.0,13.0
+1790,Terça,Não,Sim,Socorro,Grajaú,Não,2,0.0,4.0
+1791,Sexta,Sim,Não,Cidade Jardim,Osasco,Não,5,0.0,12.0
+1792,Quinta,Sim,Sim,Cidade Universitária,Grajaú,Sim,4,0.0,10.0
+1793,Sábado,Sim,Sim,Cidade Universitária,Osasco,Não,4,0.0,10.0
+1794,Segunda,Sim,Sim,João Dias,Grajaú,Não,4,0.0,15.0
+1795,Domingo,Sim,Sim,João Dias,Osasco,Não,5,0.0,10.0
+1796,Quarta,Sim,Sim,Jurubatuba,Osasco,Não,4,0.0,9.0
+1797,Quinta,Sim,Sim,Pres. Altino,Osasco,Não,3,0.0,15.0
+1798,Sábado,Sim,Não,Cidade Jardim,Osasco,Não,4,0.0,9.0
+1799,Quarta,Sim,Não,Vila Olímpia,Grajaú,Não,4,0.0,9.0
+1800,Quarta,Sim,Sim,Cidade Universitária,Grajaú,Não,5,0.0,11.0
+1801,Quinta,Sim,Sim,Pres. Altino,Osasco,Não,3,0.0,10.0
+1802,Quinta,Sim,Sim,Vila Olímpia,Osasco,Não,4,0.0,10.0
+1803,Quarta,Sim,Sim,Jurubatuba,Grajaú,Não,3,0.0,13.0
+1804,Terça,Não,Não,Berrini,Grajaú,Não,3,0.0,4.0
+1805,Quinta,Sim,Sim,Santo Amaro,Grajaú,Sim,3,0.0,9.0
+1806,Sexta,Sim,Sim,Osasco,Grajaú,Não,4,0.0,14.0
+1807,Segunda,Não,Sim,Villa-Lobos Jaguaré,Osasco,Não,3,0.0,8.0
+1808,Terça,Não,Sim,João Dias,Grajaú,Não,1,0.0,8.0
+1809,Sábado,Sim,Sim,Vila Olímpia,Grajaú,Não,4,0.0,11.0
+1810,Quarta,Sim,Não,Grajau,Osasco,Sim,5,0.0,13.0
+1811,Segunda,Sim,Sim,Grajau,Osasco,Não,4,0.0,10.0
+1812,Sexta,Sim,Sim,Granja Julieta,Grajaú,Sim,3,0.0,10.0
+1813,Quarta,Sim,Sim,João Dias,Grajaú,Não,4,0.0,11.0
+1814,Sábado,Sim,Sim,Grajau,Osasco,Não,3,0.0,12.0
+1815,Domingo,Sim,Sim,Ceasa,Grajaú,Sim,3,0.0,9.0
+1816,Domingo,Sim,Sim,Hebraica Rebouças,Grajaú,Sim,4,0.0,12.0
+1817,Quarta,Sim,Sim,Santo Amaro,Osasco,Não,3,0.0,12.0
+1818,Domingo,Não,Sim,Granja Julieta,Grajaú,Não,3,0.0,8.0
+1819,Sexta,Sim,Sim,Hebraica Rebouças,Osasco,Não,5,0.0,15.0
+1820,Terça,Sim,Não,Granja Julieta,Grajaú,Não,5,0.0,15.0
+1821,Sexta,Não,Sim,Ceasa,Grajaú,Não,3,0.0,7.0
+1822,Sábado,Não,Sim,Vila Olímpia,Grajaú,Sim,3,0.0,6.0
+1823,Terça,Não,Sim,Ceasa,Osasco,Não,2,0.0,3.0
+1824,Domingo,Sim,Não,Jurubatuba,Osasco,Não,4,0.0,14.0
+1825,Domingo,Sim,Sim,Osasco,Osasco,Não,5,0.0,14.0
+1826,Sábado,Sim,Não,Autódromo,Osasco,Não,3,0.0,14.0
+1827,Sexta,Não,Sim,Mendes Vila Natal,Grajaú,Não,2,0.0,3.0
+1828,Terça,Sim,Sim,Autódromo,Grajaú,Não,3,0.0,13.0
+1829,Domingo,Sim,Sim,Mendes Vila Natal,Grajaú,Sim,3,0.0,13.0
+1830,Sábado,Não,Não,Villa-Lobos Jaguaré,Osasco,Sim,1,0.0,7.0
+1831,Sexta,Sim,Sim,Pinheiros,Grajaú,Não,5,0.0,12.0
+1832,Sexta,Sim,Sim,João Dias,Osasco,Sim,5,0.0,14.0
+1833,Quarta,Sim,Sim,Hebraica Rebouças,Grajaú,Não,4,0.0,14.0
+1834,Segunda,Sim,Não,Pinheiros,Grajaú,Não,5,0.0,13.0
+1835,Segunda,Não,Sim,Santo Amaro,Grajaú,Não,3,0.0,6.0
+1836,Quarta,Sim,Não,Vila Olímpia,Osasco,Sim,5,0.0,13.0
+1837,Quarta,Sim,Não,Vila Olímpia,Grajaú,Não,4,0.0,13.0
+1838,Domingo,Sim,Sim,Grajau,Osasco,Não,4,0.0,11.0
+1839,Quarta,Sim,Sim,Grajau,Osasco,Não,4,0.0,15.0
+1840,Segunda,Não,Sim,Granja Julieta,Grajaú,Não,1,0.0,6.0
+1841,Domingo,Sim,Sim,Pres. Altino,Osasco,Não,5,0.0,10.0
+1842,Quarta,Sim,Sim,Osasco,Osasco,Sim,5,0.0,14.0
+1843,Terça,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,10.0
+1844,Segunda,Sim,Sim,Mendes Vila Natal,Osasco,Sim,4,0.0,11.0
+1845,Domingo,Não,Sim,Berrini,Osasco,Não,2,0.0,4.0
+1846,Terça,Sim,Sim,Ceasa,Grajaú,Não,4,0.0,11.0
+1847,Quinta,Sim,Sim,Primavera Interlagos,Osasco,Não,5,0.0,14.0
+1848,Quinta,Sim,Sim,Morumbi,Osasco,Não,4,0.0,9.0
+1849,Sábado,Não,Não,Cidade Jardim,Grajaú,Não,2,0.0,7.0
+1850,Quinta,Sim,Sim,Santo Amaro,Grajaú,Não,5,0.0,14.0
+1851,Quarta,Sim,Sim,João Dias,Osasco,Não,4,0.0,12.0
+1852,Quinta,Sim,Sim,Pres. Altino,Grajaú,Não,5,0.0,14.0
+1853,Sábado,Sim,Sim,Vila Olímpia,Osasco,Não,5,0.0,11.0
+1854,Terça,Não,Sim,Granja Julieta,Grajaú,Não,1,0.0,4.0
+1855,Terça,Sim,Sim,Socorro,Grajaú,Sim,3,0.0,12.0
+1856,Quinta,Sim,Não,Hebraica Rebouças,Osasco,Não,4,0.0,9.0
+1857,Sexta,Sim,Sim,Pres. Altino,Grajaú,Não,5,0.0,9.0
+1858,Segunda,Sim,Não,Morumbi,Grajaú,Sim,5,0.0,9.0
+1859,Quarta,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,5,0.0,9.0
+1860,Quarta,Sim,Sim,João Dias,Osasco,Não,4,0.0,10.0
+1861,Terça,Não,Sim,Autódromo,Grajaú,Não,3,0.0,5.0
+1862,Domingo,Sim,Sim,Grajau,Osasco,Não,5,0.0,12.0
+1863,Quinta,Sim,Não,Cidade Universitária,Grajaú,Não,3,0.0,14.0
+1864,Segunda,Sim,Sim,Vila Olímpia,Osasco,Sim,4,0.0,13.0
+1865,Quarta,Sim,Não,Autódromo,Osasco,Não,3,0.0,13.0
+1866,Domingo,Sim,Não,Autódromo,Osasco,Não,4,0.0,9.0
+1867,Domingo,Sim,Não,Morumbi,Grajaú,Não,5,0.0,9.0
+1868,Sexta,Sim,Não,Santo Amaro,Grajaú,Não,5,0.0,14.0
+1869,Quinta,Sim,Sim,Ceasa,Grajaú,Não,5,0.0,10.0
+1870,Quinta,Não,Sim,Pinheiros,Grajaú,Não,2,0.0,8.0
+1871,Quarta,Sim,Não,Granja Julieta,Grajaú,Não,3,0.0,9.0
+1872,Quarta,Sim,Sim,João Dias,Grajaú,Sim,5,0.0,13.0
+1873,Sábado,Sim,Sim,Autódromo,Grajaú,Não,5,0.0,11.0
+1874,Segunda,Sim,Não,Cidade Jardim,Grajaú,Não,3,0.0,9.0
+1875,Sexta,Sim,Sim,Grajau,Grajaú,Não,4,0.0,13.0
+1876,Quarta,Não,Sim,Cidade Jardim,Osasco,Não,2,0.0,6.0
+1877,Domingo,Sim,Sim,Ceasa,Osasco,Não,4,0.0,11.0
+1878,Terça,Sim,Sim,Socorro,Grajaú,Não,5,0.0,9.0
+1879,Sábado,Sim,Sim,Pres. Altino,Grajaú,Sim,4,0.0,10.0
+1880,Quarta,Sim,Não,Primavera Interlagos,Grajaú,Não,5,0.0,10.0
+1881,Quarta,Não,Não,Pres. Altino,Grajaú,Não,1,0.0,7.0
+1882,Terça,Sim,Sim,Santo Amaro,Grajaú,Não,4,0.0,15.0
+1883,Terça,Não,Sim,João Dias,Grajaú,Sim,1,0.0,3.0
+1884,Sábado,Sim,Não,Ceasa,Grajaú,Não,5,0.0,15.0
+1885,Domingo,Não,Sim,Cidade Universitária,Osasco,Não,1,0.0,6.0
+1886,Segunda,Não,Sim,Vila Olímpia,Grajaú,Não,3,0.0,7.0
+1887,Sexta,Sim,Sim,Socorro,Grajaú,Não,5,0.0,15.0
+1888,Segunda,Sim,Sim,Grajau,Grajaú,Não,4,0.0,11.0
+1889,Sábado,Não,Sim,Hebraica Rebouças,Grajaú,Não,2,0.0,8.0
+1890,Domingo,Sim,Sim,Primavera Interlagos,Grajaú,Não,5,0.0,15.0
+1891,Sexta,Não,Sim,Berrini,Osasco,Não,3,0.0,3.0
+1892,Sábado,Sim,Sim,Vila Olímpia,Grajaú,Não,5,0.0,11.0
+1893,Sexta,Sim,Sim,Cidade Jardim,Grajaú,Não,4,0.0,9.0
+1894,Sexta,Sim,Sim,Granja Julieta,Osasco,Não,3,0.0,9.0
+1895,Terça,Não,Não,Ceasa,Grajaú,Não,3,0.0,8.0
+1896,Sábado,Sim,Sim,João Dias,Grajaú,Não,5,0.0,11.0
+1897,Sábado,Sim,Sim,Morumbi,Osasco,Não,5,0.0,14.0
+1898,Terça,Não,Sim,Berrini,Grajaú,Sim,2,0.0,8.0
+1899,Segunda,Não,Sim,Autódromo,Osasco,Sim,3,0.0,8.0
+1900,Terça,Sim,Sim,Pres. Altino,Grajaú,Sim,5,0.0,14.0
+1901,Terça,Sim,Sim,Ceasa,Osasco,Sim,3,0.0,9.0
+1902,Terça,Sim,Sim,Cidade Jardim,Osasco,Não,5,0.0,15.0
+1903,Sexta,Sim,Não,Pinheiros,Osasco,Não,3,0.0,14.0
+1904,Domingo,Não,Sim,Socorro,Osasco,Não,3,0.0,5.0
+1905,Terça,Sim,Sim,Primavera Interlagos,Osasco,Não,4,0.0,13.0
+1906,Segunda,Não,Não,Morumbi,Grajaú,Não,2,0.0,7.0
+1907,Quarta,Não,Sim,Granja Julieta,Osasco,Não,1,0.0,7.0
+1908,Terça,Sim,Não,Morumbi,Grajaú,Sim,3,0.0,15.0
+1909,Quarta,Sim,Não,Cidade Universitária,Osasco,Sim,3,0.0,14.0
+1910,Segunda,Sim,Sim,Granja Julieta,Osasco,Não,4,0.0,12.0
+1911,Terça,Sim,Sim,João Dias,Osasco,Não,4,0.0,14.0
+1912,Sexta,Sim,Sim,Primavera Interlagos,Osasco,Não,4,0.0,13.0
+1913,Sábado,Não,Sim,Primavera Interlagos,Osasco,Não,1,0.0,8.0
+1914,Terça,Não,Sim,Cidade Universitária,Grajaú,Sim,2,0.0,4.0
+1915,Domingo,Sim,Sim,Vila Olímpia,Grajaú,Sim,4,0.0,14.0
+1916,Terça,Não,Não,Grajau,Osasco,Não,1,0.0,6.0
+1917,Terça,Sim,Sim,Ceasa,Grajaú,Não,4,0.0,14.0
+1918,Quinta,Sim,Sim,Primavera Interlagos,Grajaú,Não,3,0.0,13.0
+1919,Quarta,Sim,Sim,Vila Olímpia,Osasco,Não,5,0.0,12.0
+1920,Segunda,Sim,Sim,Pres. Altino,Osasco,Sim,3,0.0,10.0
+1921,Quarta,Não,Sim,Grajau,Grajaú,Sim,2,0.0,5.0
+1922,Terça,Sim,Não,Mendes Vila Natal,Grajaú,Não,4,0.0,13.0
+1923,Segunda,Sim,Sim,Pres. Altino,Grajaú,Não,4,0.0,11.0
+1924,Quarta,Sim,Sim,João Dias,Grajaú,Não,3,0.0,12.0
+1925,Segunda,Sim,Sim,João Dias,Osasco,Não,3,0.0,9.0
+1926,Domingo,Não,Não,Grajau,Osasco,Não,2,0.0,4.0
+1927,Terça,Sim,Sim,Primavera Interlagos,Osasco,Sim,3,0.0,14.0
+1928,Sexta,Sim,Sim,Osasco,Osasco,Não,3,0.0,13.0
+1929,Sábado,Sim,Não,Ceasa,Osasco,Não,5,0.0,15.0
+1930,Segunda,Sim,Sim,Berrini,Grajaú,Não,5,0.0,12.0
+1931,Domingo,Sim,Não,Jurubatuba,Grajaú,Não,3,0.0,11.0
+1932,Sábado,Sim,Não,Osasco,Grajaú,Não,5,0.0,12.0
+1933,Quinta,Sim,Sim,Socorro,Grajaú,Não,5,0.0,14.0
+1934,Terça,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,5,0.0,10.0
+1935,Sexta,Não,Sim,João Dias,Osasco,Não,3,0.0,7.0
+1936,Quinta,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Sim,4,0.0,13.0
+1937,Sexta,Não,Sim,Pinheiros,Grajaú,Sim,3,0.0,5.0
+1938,Quinta,Sim,Sim,Socorro,Osasco,Não,3,0.0,14.0
+1939,Segunda,Sim,Sim,Morumbi,Grajaú,Não,5,0.0,13.0
+1940,Domingo,Sim,Sim,Granja Julieta,Osasco,Não,5,0.0,13.0
+1941,Terça,Sim,Sim,João Dias,Osasco,Sim,3,0.0,11.0
+1942,Sexta,Não,Sim,Cidade Jardim,Grajaú,Não,2,0.0,3.0
+1943,Quinta,Não,Sim,Hebraica Rebouças,Osasco,Não,1,0.0,8.0
+1944,Terça,Não,Sim,Primavera Interlagos,Osasco,Não,1,0.0,6.0
+1945,Quinta,Não,Sim,Vila Olímpia,Grajaú,Não,1,0.0,3.0
+1946,Terça,Sim,Sim,Pres. Altino,Grajaú,Não,3,0.0,15.0
+1947,Terça,Sim,Sim,Primavera Interlagos,Grajaú,Sim,4,0.0,15.0
+1948,Quinta,Sim,Não,Berrini,Osasco,Não,5,0.0,9.0
+1949,Domingo,Sim,Não,Osasco,Osasco,Não,3,0.0,13.0
+1950,Quarta,Sim,Sim,Cidade Universitária,Grajaú,Não,5,0.0,12.0
+1951,Sábado,Sim,Sim,Morumbi,Grajaú,Não,4,0.0,11.0
+1952,Segunda,Sim,Sim,Primavera Interlagos,Grajaú,Não,5,0.0,13.0
+1953,Sábado,Sim,Sim,Villa-Lobos Jaguaré,Grajaú,Não,5,0.0,13.0
+1954,Sexta,Não,Sim,Cidade Universitária,Osasco,Não,2,0.0,3.0
+1955,Quinta,Não,Sim,Mendes Vila Natal,Osasco,Não,1,0.0,3.0
+1956,Terça,Sim,Sim,Osasco,Grajaú,Não,5,0.0,14.0
+1957,Sábado,Sim,Sim,Autódromo,Osasco,Não,5,0.0,12.0
+1958,Segunda,Sim,Sim,Cidade Universitária,Osasco,Não,4,0.0,9.0
+1959,Sábado,Não,Sim,Villa-Lobos Jaguaré,Osasco,Sim,3,0.0,3.0
+1960,Segunda,Sim,Sim,Pinheiros,Grajaú,Não,5,0.0,11.0
+1961,Terça,Sim,Sim,João Dias,Grajaú,Não,5,0.0,12.0
+1962,Terça,Sim,Sim,Jurubatuba,Grajaú,Não,4,0.0,11.0
+1963,Sábado,Sim,Sim,Morumbi,Osasco,Não,4,0.0,13.0
+1964,Sábado,Sim,Sim,Primavera Interlagos,Osasco,Não,4,0.0,12.0
+1965,Quarta,Sim,Não,Villa-Lobos Jaguaré,Osasco,Não,3,0.0,12.0
+1966,Sexta,Não,Sim,João Dias,Osasco,Não,1,0.0,3.0
+1967,Segunda,Sim,Sim,Jurubatuba,Osasco,Não,3,0.0,12.0
+1968,Segunda,Sim,Sim,Pinheiros,Grajaú,Sim,5,0.0,11.0
+1969,Quinta,Não,Sim,Vila Olímpia,Osasco,Não,2,0.0,7.0
+1970,Quinta,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,5,0.0,13.0
+1971,Sexta,Não,Sim,Santo Amaro,Osasco,Não,1,0.0,6.0
+1972,Sábado,Não,Sim,Villa-Lobos Jaguaré,Grajaú,Não,3,0.0,4.0
+1973,Quinta,Sim,Sim,Granja Julieta,Grajaú,Não,3,0.0,9.0
+1974,Quarta,Sim,Não,Villa-Lobos Jaguaré,Grajaú,Não,4,0.0,15.0
+1975,Quinta,Sim,Sim,Vila Olímpia,Grajaú,Não,4,0.0,9.0
+1976,Sexta,Não,Não,Mendes Vila Natal,Osasco,Não,2,0.0,5.0
+1977,Terça,Sim,Sim,Jurubatuba,Grajaú,Sim,5,0.0,12.0
+1978,Domingo,Não,Sim,Villa-Lobos Jaguaré,Grajaú,Sim,2,0.0,7.0
+1979,Terça,Não,Sim,Mendes Vila Natal,Grajaú,Não,3,0.0,8.0
+1980,Terça,Sim,Não,Autódromo,Grajaú,Não,5,0.0,10.0
+1981,Segunda,Não,Sim,Vila Olímpia,Grajaú,Não,2,0.0,8.0
+1982,Sexta,Não,Sim,Cidade Universitária,Osasco,Não,2,0.0,5.0
+1983,Terça,Sim,Sim,Hebraica Rebouças,Osasco,Não,5,0.0,15.0
+1984,Domingo,Sim,Sim,Socorro,Grajaú,Sim,5,0.0,15.0
+1985,Sábado,Não,Sim,Autódromo,Osasco,Não,1,0.0,5.0
+1986,Quinta,Sim,Sim,Pres. Altino,Grajaú,Não,3,0.0,14.0
+1987,Segunda,Não,Não,Ceasa,Osasco,Não,3,0.0,8.0
+1988,Domingo,Sim,Sim,Cidade Universitária,Grajaú,Sim,4,0.0,15.0
+1989,Sexta,Sim,Sim,Hebraica Rebouças,Grajaú,Não,5,0.0,13.0
+1990,Sexta,Não,Sim,Villa-Lobos Jaguaré,Grajaú,Sim,3,0.0,3.0
+1991,Sexta,Sim,Não,Morumbi,Grajaú,Sim,4,0.0,10.0
+1992,Sábado,Não,Sim,Osasco,Grajaú,Não,1,0.0,3.0
+1993,Terça,Sim,Não,Mendes Vila Natal,Osasco,Não,5,0.0,13.0
+1994,Domingo,Sim,Sim,Granja Julieta,Osasco,Não,3,0.0,14.0
+1995,Segunda,Sim,Sim,Hebraica Rebouças,Osasco,Não,5,0.0,10.0
+1996,Sábado,Não,Sim,Granja Julieta,Osasco,Não,3,0.0,4.0
+1997,Quarta,Sim,Não,Hebraica Rebouças,Grajaú,Sim,3,0.0,14.0
+1998,Quinta,Sim,Sim,Pres. Altino,Osasco,Não,5,0.0,9.0
+1999,Sábado,Sim,Sim,Pres. Altino,Osasco,Não,3,0.0,15.0
+2000,Quarta,Sim,Sim,Villa-Lobos Jaguaré,Osasco,Não,5,0.0,13.0

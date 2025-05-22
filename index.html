@@ -1,126 +1,124 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ViaMobilidade - Consulta de Tempo</title>
-  <link rel="stylesheet" href="assets/css/style.css">
+    <meta charset="UTF-8">
+    <title>Consulta de Tempo - ViaMobilidade</title>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+    <h1>ViaMobilidade - Consulta de Tempo</h1>
 
-  <h1>🚆 ViaMobilidade - Consulta de Tempo de Espera</h1>
+    <section class="linha">
+        <h2>Linha 8 - Diamante (Sentido Itapevi)</h2>
+        <ul>
+            <li onclick="consultarTempo(24, 1, 'azul')">Júlio Prestes</li>
+            <li onclick="consultarTempo(29, 1, 'azul')">Palmeiras-Barra Funda</li>
+            <li onclick="consultarTempo(25, 1, 'azul')">Lapa</li>
+            <li onclick="consultarTempo(11, 1, 'azul')">Domingos de Moraes</li>
+            <li onclick="consultarTempo(17, 1, 'azul')">Imperatriz Leopoldina</li>
+            <li onclick="consultarTempo(31, 1, 'azul')">Pres. Altino</li>
+            <li onclick="consultarTempo(28, 1, 'azul')">Osasco</li>
+            <li onclick="consultarTempo(10, 1, 'azul')">Com. Sampaio</li>
+            <li onclick="consultarTempo(33, 1, 'azul')">Quitaúna</li>
+            <li onclick="consultarTempo(13, 1, 'azul')">Gen. Miguel Costa</li>
+            <li onclick="consultarTempo(6, 1, 'azul')">Carapicuíba</li>
+            <li onclick="consultarTempo(36, 1, 'azul')">Santa Terezinha</li>
+            <li onclick="consultarTempo(2, 1, 'azul')">Antônio João</li>
+            <li onclick="consultarTempo(4, 1, 'azul')">Barueri</li>
+            <li onclick="consultarTempo(20, 1, 'azul')">Jardim Belval</li>
+            <li onclick="consultarTempo(21, 1, 'azul')">Jardim Silveira</li>
+            <li onclick="consultarTempo(19, 1, 'azul')">Jandira</li>
+            <li onclick="consultarTempo(34, 1, 'azul')">Sagrado Coração</li>
+            <li onclick="consultarTempo(12, 1, 'azul')">Eng. Cardoso</li>
+            <li onclick="consultarTempo(18, 1, 'azul')">Itapevi</li>
+            <li onclick="consultarTempo(35, 1, 'azul')">Santa Rita</li>
+            <li onclick="consultarTempo(1, 1, 'azul')">Amador Bueno</li>
+        </ul>
+    </section>
 
-  <section class="linha">
-    <h2>🚆 Linha 8 - Diamante</h2>
+    <section class="linha">
+        <h2>Linha 8 - Diamante (Sentido Júlio Prestes)</h2>
+        <ul>
+            <li onclick="consultarTempo(1, 2, 'azul')">Amador Bueno</li>
+            <li onclick="consultarTempo(35, 2, 'azul')">Santa Rita</li>
+            <li onclick="consultarTempo(18, 2, 'azul')">Itapevi</li>
+            <li onclick="consultarTempo(12, 2, 'azul')">Eng. Cardoso</li>
+            <li onclick="consultarTempo(34, 2, 'azul')">Sagrado Coração</li>
+            <li onclick="consultarTempo(19, 2, 'azul')">Jandira</li>
+            <li onclick="consultarTempo(21, 2, 'azul')">Jardim Silveira</li>
+            <li onclick="consultarTempo(20, 2, 'azul')">Jardim Belval</li>
+            <li onclick="consultarTempo(4, 2, 'azul')">Barueri</li>
+            <li onclick="consultarTempo(2, 2, 'azul')">Antônio João</li>
+            <li onclick="consultarTempo(36, 2, 'azul')">Santa Terezinha</li>
+            <li onclick="consultarTempo(6, 2, 'azul')">Carapicuíba</li>
+            <li onclick="consultarTempo(13, 2, 'azul')">Gen. Miguel Costa</li>
+            <li onclick="consultarTempo(33, 2, 'azul')">Quitaúna</li>
+            <li onclick="consultarTempo(10, 2, 'azul')">Com. Sampaio</li>
+            <li onclick="consultarTempo(28, 2, 'azul')">Osasco</li>
+            <li onclick="consultarTempo(31, 2, 'azul')">Pres. Altino</li>
+            <li onclick="consultarTempo(17, 2, 'azul')">Imperatriz Leopoldina</li>
+            <li onclick="consultarTempo(11, 2, 'azul')">Domingos de Moraes</li>
+            <li onclick="consultarTempo(25, 2, 'azul')">Lapa</li>
+            <li onclick="consultarTempo(29, 2, 'azul')">Palmeiras-Barra Funda</li>
+            <li onclick="consultarTempo(24, 2, 'azul')">Júlio Prestes</li>
+        </ul>
+    </section>
 
-    <h3>➡️ Sentido Júlio Prestes</h3>
-    <ul>
-      <li onclick="consultarTempo(1, 1)">Amador Bueno</li>
-      <li onclick="consultarTempo(35, 1)">Santa Rita</li>
-      <li onclick="consultarTempo(18, 1)">Itapevi</li>
-      <li onclick="consultarTempo(12, 1)">Eng. Cardoso</li>
-      <li onclick="consultarTempo(34, 1)">Sagrado Coração</li>
-      <li onclick="consultarTempo(19, 1)">Jandira</li>
-      <li onclick="consultarTempo(21, 1)">Jardim Silveira</li>
-      <li onclick="consultarTempo(20, 1)">Jardim Belval</li>
-      <li onclick="consultarTempo(4, 1)">Barueri</li>
-      <li onclick="consultarTempo(2, 1)">Antônio João</li>
-      <li onclick="consultarTempo(36, 1)">Santa Terezinha</li>
-      <li onclick="consultarTempo(6, 1)">Carapicuíba</li>
-      <li onclick="consultarTempo(13, 1)">Gen. Miguel Costa</li>
-      <li onclick="consultarTempo(33, 1)">Quitaúna</li>
-      <li onclick="consultarTempo(10, 1)">Com. Sampaio</li>
-      <li onclick="consultarTempo(28, 1)">Osasco</li>
-      <li onclick="consultarTempo(31, 1)">Pres. Altino</li>
-      <li onclick="consultarTempo(17, 1)">Imperatriz Leopoldina</li>
-      <li onclick="consultarTempo(11, 1)">Domingo de Moraes</li>
-      <li onclick="consultarTempo(25, 1)">Lapa</li>
-      <li onclick="consultarTempo(29, 1)">Palmeiras Barra Funda</li>
-      <li onclick="consultarTempo(24, 1)">Júlio Prestes</li>
-    </ul>
+    <section class="linha">
+        <h2>Linha 9 - Esmeralda (Sentido Grajaú)</h2>
+        <ul>
+            <li onclick="consultarTempo(28, 1, 'vermelha')">Osasco</li>
+            <li onclick="consultarTempo(31, 1, 'vermelha')">Pres. Altino</li>
+            <li onclick="consultarTempo(7, 1, 'vermelha')">Ceasa</li>
+            <li onclick="consultarTempo(40, 1, 'vermelha')">Villa-Lobos • Jaguaré</li>
+            <li onclick="consultarTempo(9, 1, 'vermelha')">Cidade Universitária</li>
+            <li onclick="consultarTempo(30, 1, 'vermelha')">Pinheiros</li>
+            <li onclick="consultarTempo(16, 1, 'vermelha')">Hebraica • Rebouças</li>
+            <li onclick="consultarTempo(8, 1, 'vermelha')">Cidade Jardim</li>
+            <li onclick="consultarTempo(39, 1, 'vermelha')">Vila Olímpia</li>
+            <li onclick="consultarTempo(5, 1, 'vermelha')">Berrini</li>
+            <li onclick="consultarTempo(27, 1, 'vermelha')">Morumbi</li>
+            <li onclick="consultarTempo(15, 1, 'vermelha')">Granja Julieta</li>
+            <li onclick="consultarTempo(22, 1, 'vermelha')">João Dias</li>
+            <li onclick="consultarTempo(37, 1, 'vermelha')">Santo Amaro</li>
+            <li onclick="consultarTempo(38, 1, 'vermelha')">Socorro</li>
+            <li onclick="consultarTempo(23, 1, 'vermelha')">Jurubatuba</li>
+            <li onclick="consultarTempo(3, 1, 'vermelha')">Autódromo</li>
+            <li onclick="consultarTempo(32, 1, 'vermelha')">Primavera Interlagos</li>
+            <li onclick="consultarTempo(14, 1, 'vermelha')">Grajaú</li>
+            <li onclick="consultarTempo(26, 1, 'vermelha')">Mendes Vila Natal</li>
+        </ul>
+    </section>
 
-    <h3>⬅️ Sentido Itapevi</h3>
-    <ul>
-      <li onclick="consultarTempo(24, 2)">Júlio Prestes</li>
-      <li onclick="consultarTempo(29, 2)">Palmeiras Barra Funda</li>
-      <li onclick="consultarTempo(25, 2)">Lapa</li>
-      <li onclick="consultarTempo(11, 2)">Domingo de Moraes</li>
-      <li onclick="consultarTempo(17, 2)">Imperatriz Leopoldina</li>
-      <li onclick="consultarTempo(31, 2)">Pres. Altino</li>
-      <li onclick="consultarTempo(28, 2)">Osasco</li>
-      <li onclick="consultarTempo(10, 2)">Com. Sampaio</li>
-      <li onclick="consultarTempo(33, 2)">Quitaúna</li>
-      <li onclick="consultarTempo(13, 2)">Gen. Miguel Costa</li>
-      <li onclick="consultarTempo(6, 2)">Carapicuíba</li>
-      <li onclick="consultarTempo(36, 2)">Santa Terezinha</li>
-      <li onclick="consultarTempo(2, 2)">Antônio João</li>
-      <li onclick="consultarTempo(4, 2)">Barueri</li>
-      <li onclick="consultarTempo(20, 2)">Jardim Belval</li>
-      <li onclick="consultarTempo(21, 2)">Jardim Silveira</li>
-      <li onclick="consultarTempo(19, 2)">Jandira</li>
-      <li onclick="consultarTempo(34, 2)">Sagrado Coração</li>
-      <li onclick="consultarTempo(12, 2)">Eng. Cardoso</li>
-      <li onclick="consultarTempo(18, 2)">Itapevi</li>
-      <li onclick="consultarTempo(35, 2)">Santa Rita</li>
-      <li onclick="consultarTempo(1, 2)">Amador Bueno</li>
-    </ul>
-  </section>
+    <section class="linha">
+        <h2>Linha 9 - Esmeralda (Sentido Osasco)</h2>
+        <ul>
+            <li onclick="consultarTempo(26, 2, 'vermelha')">Mendes Vila Natal</li>
+            <li onclick="consultarTempo(14, 2, 'vermelha')">Grajaú</li>
+            <li onclick="consultarTempo(32, 2, 'vermelha')">Primavera Interlagos</li>
+            <li onclick="consultarTempo(3, 2, 'vermelha')">Autódromo</li>
+            <li onclick="consultarTempo(23, 2, 'vermelha')">Jurubatuba</li>
+            <li onclick="consultarTempo(38, 2, 'vermelha')">Socorro</li>
+            <li onclick="consultarTempo(37, 2, 'vermelha')">Santo Amaro</li>
+            <li onclick="consultarTempo(22, 2, 'vermelha')">João Dias</li>
+            <li onclick="consultarTempo(15, 2, 'vermelha')">Granja Julieta</li>
+            <li onclick="consultarTempo(27, 2, 'vermelha')">Morumbi</li>
+            <li onclick="consultarTempo(5, 2, 'vermelha')">Berrini</li>
+            <li onclick="consultarTempo(39, 2, 'vermelha')">Vila Olímpia</li>
+            <li onclick="consultarTempo(8, 2, 'vermelha')">Cidade Jardim</li>
+            <li onclick="consultarTempo(16, 2, 'vermelha')">Hebraica • Rebouças</li>
+            <li onclick="consultarTempo(30, 2, 'vermelha')">Pinheiros</li>
+            <li onclick="consultarTempo(9, 2, 'vermelha')">Cidade Universitária</li>
+            <li onclick="consultarTempo(40, 2, 'vermelha')">Villa-Lobos • Jaguaré</li>
+            <li onclick="consultarTempo(7, 2, 'vermelha')">Ceasa</li>
+            <li onclick="consultarTempo(31, 2, 'vermelha')">Pres. Altino</li>
+            <li onclick="consultarTempo(28, 2, 'vermelha')">Osasco</li>
+        </ul>
+    </section>
 
-  <section class="linha">
-    <h2>🚆 Linha 9 - Esmeralda</h2>
+    <div id="loading" class="hidden">🔄 Carregando...</div>
+    <div id="resultado"></div>
 
-    <h3>➡️ Sentido Grajaú</h3>
-    <ul>
-      <li onclick="consultarTempo(28, 3)">Osasco</li>
-      <li onclick="consultarTempo(31, 3)">Pres. Altino</li>
-      <li onclick="consultarTempo(7, 3)">Ceasa</li>
-      <li onclick="consultarTempo(40, 3)">Villa-Lobos Jaguaré</li>
-      <li onclick="consultarTempo(9, 3)">Cidade Universitária</li>
-      <li onclick="consultarTempo(30, 3)">Pinheiros</li>
-      <li onclick="consultarTempo(16, 3)">Hebraica Rebouças</li>
-      <li onclick="consultarTempo(8, 3)">Cidade Jardim</li>
-      <li onclick="consultarTempo(39, 3)">Vila Olímpia</li>
-      <li onclick="consultarTempo(5, 3)">Berrini</li>
-      <li onclick="consultarTempo(27, 3)">Morumbi</li>
-      <li onclick="consultarTempo(15, 3)">Granja Julieta</li>
-      <li onclick="consultarTempo(22, 3)">João Dias</li>
-      <li onclick="consultarTempo(37, 3)">Santo Amaro</li>
-      <li onclick="consultarTempo(38, 3)">Socorro</li>
-      <li onclick="consultarTempo(23, 3)">Jurubatuba</li>
-      <li onclick="consultarTempo(3, 3)">Autódromo</li>
-      <li onclick="consultarTempo(32, 3)">Primavera Interlagos</li>
-      <li onclick="consultarTempo(14, 3)">Grajaú</li>
-      <li onclick="consultarTempo(26, 3)">Mendes Vila Natal</li>
-    </ul>
-
-    <h3>⬅️ Sentido Osasco</h3>
-    <ul>
-      <li onclick="consultarTempo(26, 4)">Mendes Vila Natal</li>
-      <li onclick="consultarTempo(14, 4)">Grajaú</li>
-      <li onclick="consultarTempo(32, 4)">Primavera Interlagos</li>
-      <li onclick="consultarTempo(3, 4)">Autódromo</li>
-      <li onclick="consultarTempo(23, 4)">Jurubatuba</li>
-      <li onclick="consultarTempo(38, 4)">Socorro</li>
-      <li onclick="consultarTempo(37, 4)">Santo Amaro</li>
-      <li onclick="consultarTempo(22, 4)">João Dias</li>
-      <li onclick="consultarTempo(15, 4)">Granja Julieta</li>
-      <li onclick="consultarTempo(27, 4)">Morumbi</li>
-      <li onclick="consultarTempo(5, 4)">Berrini</li>
-      <li onclick="consultarTempo(39, 4)">Vila Olímpia</li>
-      <li onclick="consultarTempo(8, 4)">Cidade Jardim</li>
-      <li onclick="consultarTempo(16, 4)">Hebraica Rebouças</li>
-      <li onclick="consultarTempo(30, 4)">Pinheiros</li>
-      <li onclick="consultarTempo(9, 4)">Cidade Universitária</li>
-      <li onclick="consultarTempo(40, 4)">Villa-Lobos Jaguaré</li>
-      <li onclick="consultarTempo(7, 4)">Ceasa</li>
-      <li onclick="consultarTempo(31, 4)">Pres. Altino</li>
-      <li onclick="consultarTempo(28, 4)">Osasco</li>
-    </ul>
-  </section>
-
-  <div id="resultado"></div>
-  <div id="loading" style="display:none;">Carregando...</div>
-
-  <script src="assets/js/main.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 </html>

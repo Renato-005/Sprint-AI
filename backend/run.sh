@@ -1,7 +1,6 @@
-#1/bin/bash
-
-export set FLASK_APP=server.py
-export set FLASK_DEBUG=1
-export set FLASK_PORT=8000
-
-flask run
+#!/bin/bash
+echo "Iniciando o backend Flask com múltiplos modelos..."
+cd backend
+export FLASK_APP=server.py
+export FLASK_ENV=development
+python server.py
