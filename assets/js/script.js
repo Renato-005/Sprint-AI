@@ -38,7 +38,7 @@ function atualizarEstacoesESentidos() {
   estacaoSelect.innerHTML = '<option value="">Selecione uma estação</option>';
   estacoes.forEach((estacao, index) => {
     const option = document.createElement('option');
-    option.value = index + 1;
+    option.value = index + 1;  // transforma para número
     option.textContent = estacao;
     estacaoSelect.appendChild(option);
   });
@@ -57,6 +57,7 @@ linhaSelect.addEventListener('change', atualizarEstacoesESentidos);
 consultarBtn.addEventListener('click', () => {
   const estacao = estacaoSelect.value;
   const sentido = sentidoSelect.value;
+  const linhaSelecionada = linhaSelect.value;
 
   if (!estacao || !sentido) {
     resultadoDiv.textContent = 'Por favor, selecione uma estação e um sentido.';
@@ -75,21 +76,20 @@ consultarBtn.addEventListener('click', () => {
   })
   .then(response => response.json())
   .then(data => {
-    if (data.linha_8 !== undefined && data.linha_9 !== undefined) {
-      resultadoDiv.innerHTML = `
-        <p><strong>Previsão Linha 8:</strong> ${data.linha_8.toFixed(2)} minutos</p>
-        <p><strong>Previsão Linha 9:</strong> ${data.linha_9.toFixed(2)} minutos</p>
-      `;
-    } else if (data.erro) {
-      resultadoDiv.textContent = 'Erro: ' + data.erro;
-    } else {
-      resultadoDiv.textContent = 'Erro desconhecido ao consultar.';
+    let resultadoTexto = '';
+
+    if (linhaSelecionada === '8') {
+      resultadoTexto = `<p><strong>Previsão Linha 8:</strong> ${data.linha_8.toFixed(2)} minutos</p>`;
+    } else if (linhaSelecionada === '9') {
+      resultadoTexto = `<p><strong>Previsão Linha 9:</strong> ${data.linha_9.toFixed(2)} minutos</p>`;
     }
+
+    resultadoDiv.innerHTML = resultadoTexto;
   })
   .catch(err => {
     resultadoDiv.textContent = 'Erro de conexão: ' + err;
   });
 });
 
-// Inicializa selects
+// Inicializa os selects
 atualizarEstacoesESentidos();
