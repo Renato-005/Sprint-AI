@@ -65,7 +65,7 @@ consultarBtn.addEventListener('click', () => {
 
   resultadoDiv.textContent = 'Consultando...';
 
-  fetch('http://localhost:5000/prever', {
+  fetch('http://localhost:8000/prever', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
