@@ -1,45 +1,55 @@
-from flask import Flask, request, jsonify
 import pickle
 import numpy as np
-from datetime import datetime
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+import datetime
 
 app = Flask(__name__)
+CORS(app)
 
-# Carregar os dois modelos
-with open('backend/modelo_azul.pkl', 'rb') as f:
-    modelo_azul = pickle.load(f)
+# Carrega o modelo treinado
+with open('modelo_treinado.pkl', 'rb') as f:
+    modelo = pickle.load(f)
 
-with open('backend/modelo_vermelha.pkl', 'rb') as f:
-    modelo_vermelha = pickle.load(f)
-
-@app.route('/predict', methods=['GET'])
-def predict():
+@app.route('/prever', methods=['POST'])
+def prever():
     try:
-        estacao = int(request.args.get('estacao'))
-        sentido = int(request.args.get('sentido'))
-        linha = request.args.get('linha')
+        dados = request.json
+        estacao = int(dados['estacao_de_entrada'])
+        sentido = int(dados['sentido'])
 
-        # Dia da semana automático
-        dia_semana = datetime.today().weekday() + 1  # 1=segunda, ..., 7=domingo
+        # Completando automaticamente os outros dados
+        dia_da_semana = datetime.datetime.today().weekday()  # 0 = segunda, ..., 6 = domingo
+        horario_de_pico = 1
+        operacao_normal = 1
+        esta_chovendo = 0
+        lotacao = 3
 
-        # Features conforme modelo treinado
-        features = np.array([[estacao, sentido, dia_semana]])
+        # Montando a entrada na ordem correta:
+        entrada = np.array([
+            dia_da_semana,
+            horario_de_pico,
+            operacao_normal,
+            estacao,
+            sentido,
+            esta_chovendo,
+            lotacao
+        ]).reshape(1, -1)
 
-        # Escolher modelo
-        if linha == 'azul':
-            prediction = modelo_azul.predict(features)
-        elif linha == 'vermelha':
-            prediction = modelo_vermelha.predict(features)
-        else:
-            return jsonify({'error': 'Linha inválida. Use "azul" ou "vermelha".'}), 400
+        # Fazendo a previsão multivariada
+        previsao = modelo.predict(entrada)
+
+        # Separando os resultados
+        linha_8 = previsao[0][0]
+        linha_9 = previsao[0][1]
 
         return jsonify({
-            'tempo_estimado': round(prediction[0], 2),
-            'dia_semana': dia_semana
+            'linha_8': linha_8,
+            'linha_9': linha_9
         })
 
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        return jsonify({'erro': str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(port=8000, debug=True)
+    app.run(debug=True)
